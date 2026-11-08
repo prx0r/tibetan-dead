@@ -311,8 +311,8 @@
    "section": "You Are Dead. And You Were an Absolute Bastard.",
    "type": "narration",
    "voice": "granny",
-   "text": "The Tibetan system describes four further stages\\:",
-   "directed": "[short pause] The Tibetan system describes four further stages\\:"
+   "text": "The Tibetan system describes four further stages:",
+   "directed": "[short pause] The Tibetan system describes four further stages:"
   },
   {
    "id": "b39",
@@ -399,8 +399,8 @@
    "section": "You Are Dead. And You Were an Absolute Bastard.",
    "type": "narration",
    "voice": "granny",
-   "text": "This is the **clear light of death**\\.",
-   "directed": "This is the **clear light of death**\\."
+   "text": "This is the **clear light of death**.",
+   "directed": "This is the **clear light of death**."
   },
   {
    "id": "b50",
@@ -591,8 +591,8 @@
    "section": "You Are Dead. And You Were an Absolute Bastard.",
    "type": "narration",
    "voice": "granny",
-   "text": "The cosmos has offered you the possibility of release from beginningless suffering, and you've reacted with the spiritual equivalent of clicking *Remind Me Tomorrow*\\.",
-   "directed": "The cosmos has offered you the possibility of release from beginningless suffering, and you've reacted with the spiritual equivalent of clicking *Remind Me Tomorrow*\\."
+   "text": "The cosmos has offered you the possibility of release from beginningless suffering, and you've reacted with the spiritual equivalent of clicking *Remind Me Tomorrow*.",
+   "directed": "The cosmos has offered you the possibility of release from beginningless suffering, and you've reacted with the spiritual equivalent of clicking *Remind Me Tomorrow*."
   },
   {
    "id": "b74",
@@ -1231,8 +1231,8 @@
    "section": "You Are Dead. And You Were an Absolute Bastard.",
    "type": "narration",
    "voice": "granny",
-   "text": "### You are alive\\!",
-   "directed": "### You are alive\\!"
+   "text": "### You are alive!",
+   "directed": "### You are alive!"
   },
   {
    "id": "b154",
@@ -1511,8 +1511,8 @@
    "section": "The deeper question",
    "type": "narration",
    "voice": "granny",
-   "text": "But the teachings are equally concerned with **what happens while you are alive**\\.",
-   "directed": "But the teachings are equally concerned with **what happens while you are alive**\\."
+   "text": "But the teachings are equally concerned with **what happens while you are alive**.",
+   "directed": "But the teachings are equally concerned with **what happens while you are alive**."
   },
   {
    "id": "b189",
@@ -1535,8 +1535,8 @@
    "section": "The deeper question",
    "type": "narration",
    "voice": "granny",
-   "text": "Every moment some experience appears and is appropriated as *mine*\\.",
-   "directed": "Every moment some experience appears and is appropriated as *mine*\\."
+   "text": "Every moment some experience appears and is appropriated as *mine*.",
+   "directed": "Every moment some experience appears and is appropriated as *mine*."
   },
   {
    "id": "b192",
@@ -1599,8 +1599,8 @@
    "section": "The deeper question",
    "type": "narration",
    "voice": "granny",
-   "text": "It's that, according to the text, **they are manifestations of the very nature of mind you've spent your entire life failing to recognize**\\.",
-   "directed": "It's that, according to the text, **they are manifestations of the very nature of mind you've spent your entire life failing to recognize**\\."
+   "text": "It's that, according to the text, **they are manifestations of the very nature of mind you've spent your entire life failing to recognize**.",
+   "directed": "It's that, according to the text, **they are manifestations of the very nature of mind you've spent your entire life failing to recognize**."
   },
   {
    "id": "b200",
