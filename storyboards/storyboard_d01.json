@@ -1,0 +1,1629 @@
+{
+ "title": "Chapter I",
+ "blocks": [
+  {
+   "id": "b_opener",
+   "section": "opener",
+   "type": "opener",
+   "voice": "none",
+   "text": "[bell_ding]",
+   "asset": "/home/ubuntu/vatulanatha/sfx/bell_ding.wav",
+   "mix": "+6dB at mix, voice beds under decay tail"
+  },
+  {
+   "id": "b1",
+   "section": "Chapter I",
+   "type": "title",
+   "voice": "granny",
+   "text": "Chapter I",
+   "directed": "[long pause] Chapter I"
+  },
+  {
+   "id": "b2",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "title",
+   "voice": "granny",
+   "text": "You Are Dead. And You Were an Absolute Bastard.",
+   "directed": "[long pause] You Are Dead. And You Were an Absolute Bastard."
+  },
+  {
+   "id": "b3",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You are dead.",
+   "directed": "You are dead."
+  },
+  {
+   "id": "b4",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is particularly inconvenient because you have spent your entire life being an absolute bastard.",
+   "directed": "This is particularly inconvenient because you have spent your entire life being an absolute bastard."
+  },
+  {
+   "id": "b5",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You've been cruel, greedy, exploitative and generally quite dedicated to making other sentient beings miserable.",
+   "directed": "You've been cruel, greedy, exploitative and generally quite dedicated to making other sentient beings miserable."
+  },
+  {
+   "id": "b6",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Whenever compassion arose, you quickly suppressed it with the reassuring thought that everyone was probably exaggerating.",
+   "directed": "Whenever compassion arose, you quickly suppressed it with the reassuring thought that everyone was probably exaggerating."
+  },
+  {
+   "id": "b7",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You once considered becoming vegetarian, then decided that your personal dietary convenience outweighed the suffering of several thousand animals.",
+   "directed": "You once considered becoming vegetarian, then decided that your personal dietary convenience outweighed the suffering of several thousand animals."
+  },
+  {
+   "id": "b8",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You've lied to people who trusted you. You've been delighted by your enemies' misfortunes. You've cultivated resentment like a prize-winning orchid.",
+   "directed": "You've lied to people who trusted you. You've been delighted by your enemies' misfortunes. You've cultivated resentment like a prize-winning orchid."
+  },
+  {
+   "id": "b9",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now you've had a heart attack.",
+   "directed": "And now you've had a heart attack."
+  },
+  {
+   "id": "b10",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your body is on the floor.",
+   "directed": "Your body is on the floor."
+  },
+  {
+   "id": "b11",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Welcome to the first extraordinary revelation of Tibetan Buddhism.",
+   "directed": "Welcome to the first extraordinary revelation of Tibetan Buddhism."
+  },
+  {
+   "id": "b12",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Your heart stopping is not necessarily the same event as the completion of the subtle death process described in its tantric physiology.**",
+   "directed": "**Your heart stopping is not necessarily the same event as the completion of the subtle death process described in its tantric physiology.**"
+  },
+  {
+   "id": "b13",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Modern medicine and Tibetan tantra use different criteria. Biomedicine investigates circulation, brain function and irreversible biological failure. Tibetan death teachings describe a further progressive dissolution of the supports for ordinary consciousness.",
+   "directed": "Modern medicine and Tibetan tantra use different criteria. Biomedicine investigates circulation, brain function and irreversible biological failure. Tibetan death teachings describe a further progressive dissolution of the supports for ordinary consciousness."
+  },
+  {
+   "id": "b14",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Do not confuse the latter with an experimentally verified physiological sequence.",
+   "directed": "Do not confuse the latter with an experimentally verified physiological sequence."
+  },
+  {
+   "id": "b15",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### The demolition of your universe",
+   "directed": "### The demolition of your universe"
+  },
+  {
+   "id": "b16",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In a widespread Tibetan tantric account, death unfolds through eight progressively subtler stages.",
+   "directed": "In a widespread Tibetan tantric account, death unfolds through eight progressively subtler stages."
+  },
+  {
+   "id": "b17",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First comes the dissolution of the four elements.",
+   "directed": "First comes the dissolution of the four elements."
+  },
+  {
+   "id": "b18",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are not four chemical substances physically disappearing. They are traditional categories of bodily function and experience.",
+   "directed": "These are not four chemical substances physically disappearing. They are traditional categories of bodily function and experience."
+  },
+  {
+   "id": "b19",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Earth dissolves into water.**",
+   "directed": "**Earth dissolves into water.**"
+  },
+  {
+   "id": "b20",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your body loses its strength. Its solidity, its reassuring heaviness, its ability to hold itself upright begins failing.",
+   "directed": "Your body loses its strength. Its solidity, its reassuring heaviness, its ability to hold itself upright begins failing."
+  },
+  {
+   "id": "b21",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An internal appearance resembling a mirage may arise.",
+   "directed": "An internal appearance resembling a mirage may arise."
+  },
+  {
+   "id": "b22",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You think, *I seem rather unwell.*",
+   "directed": "You think, *I seem rather unwell.*"
+  },
+  {
+   "id": "b23",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Mate, you're dying.",
+   "directed": "Mate, you're dying."
+  },
+  {
+   "id": "b24",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Water dissolves into fire.**",
+   "directed": "**Water dissolves into fire.**"
+  },
+  {
+   "id": "b25",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The moisture and fluid functions associated with this elemental system weaken. The mouth may become dry. Sensory capacities deteriorate.",
+   "directed": "The moisture and fluid functions associated with this elemental system weaken. The mouth may become dry. Sensory capacities deteriorate."
+  },
+  {
+   "id": "b26",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "An appearance compared with smoke may arise.",
+   "directed": "An appearance compared with smoke may arise."
+  },
+  {
+   "id": "b27",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You think, *Perhaps I should call somebody.*",
+   "directed": "You think, *Perhaps I should call somebody.*"
+  },
+  {
+   "id": "b28",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You should have done that about ten minutes ago.",
+   "directed": "You should have done that about ten minutes ago."
+  },
+  {
+   "id": "b29",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Fire dissolves into wind.**",
+   "directed": "**Fire dissolves into wind.**"
+  },
+  {
+   "id": "b30",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The body loses warmth, and the capacity to regulate its ordinary biological activity deteriorates.",
+   "directed": "The body loses warmth, and the capacity to regulate its ordinary biological activity deteriorates."
+  },
+  {
+   "id": "b31",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The traditional internal appearance resembles sparks or fireflies.",
+   "directed": "The traditional internal appearance resembles sparks or fireflies."
+  },
+  {
+   "id": "b32",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your familiar sensory world is breaking down.",
+   "directed": "Your familiar sensory world is breaking down."
+  },
+  {
+   "id": "b33",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Wind dissolves into consciousness.**",
+   "directed": "**Wind dissolves into consciousness.**"
+  },
+  {
+   "id": "b34",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Breathing ceases.",
+   "directed": "Breathing ceases."
+  },
+  {
+   "id": "b35",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The coarser forms of mental activity begin to dissolve, leaving subtler processes described through tantric notions of energy-winds and consciousness.",
+   "directed": "The coarser forms of mental activity begin to dissolve, leaving subtler processes described through tantric notions of energy-winds and consciousness."
+  },
+  {
+   "id": "b36",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The inner appearance is likened to a flickering flame.",
+   "directed": "The inner appearance is likened to a flickering flame."
+  },
+  {
+   "id": "b37",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And now the particularly interesting part begins.",
+   "directed": "And now the particularly interesting part begins."
+  },
+  {
+   "id": "b38",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Tibetan system describes four further stages\\:",
+   "directed": "[short pause] The Tibetan system describes four further stages\\:"
+  },
+  {
+   "id": "b39",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "White appearance. Red increase. Black near-attainment. Clear light.",
+   "directed": "White appearance. Red increase. Black near-attainment. Clear light."
+  },
+  {
+   "id": "b40",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are not claims that the brain literally produces four coloured screens. They are descriptions of increasingly subtle conscious experience within a tantric model of mind and body.",
+   "directed": "These are not claims that the brain literally produces four coloured screens. They are descriptions of increasingly subtle conscious experience within a tantric model of mind and body."
+  },
+  {
+   "id": "b41",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### The final four stages",
+   "directed": "### The final four stages"
+  },
+  {
+   "id": "b42",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine that every thought you have ever had depends upon an immense architecture of perception, memory, bodily sensation and conceptual activity.",
+   "directed": "Imagine that every thought you have ever had depends upon an immense architecture of perception, memory, bodily sensation and conceptual activity."
+  },
+  {
+   "id": "b43",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now begin dismantling that architecture.",
+   "directed": "Now begin dismantling that architecture."
+  },
+  {
+   "id": "b44",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not by removing one particular thought, but by taking away progressively more fundamental supports for ordinary thinking.",
+   "directed": "Not by removing one particular thought, but by taking away progressively more fundamental supports for ordinary thinking."
+  },
+  {
+   "id": "b45",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "First, a vivid white appearance.",
+   "directed": "First, a vivid white appearance."
+  },
+  {
+   "id": "b46",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then a red appearance.",
+   "directed": "Then a red appearance."
+  },
+  {
+   "id": "b47",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Then darkness.",
+   "directed": "Then darkness."
+  },
+  {
+   "id": "b48",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Finally, according to the tradition, an extraordinary luminosity emerges when the grosser processes have subsided.",
+   "directed": "Finally, according to the tradition, an extraordinary luminosity emerges when the grosser processes have subsided."
+  },
+  {
+   "id": "b49",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is the **clear light of death**\\.",
+   "directed": "This is the **clear light of death**\\."
+  },
+  {
+   "id": "b50",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here the Tibetan tradition makes its most outrageous claim.",
+   "directed": "And here the Tibetan tradition makes its most outrageous claim."
+  },
+  {
+   "id": "b51",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The dissolution of ordinary experience can expose the most fundamental nature of mind.",
+   "directed": "The dissolution of ordinary experience can expose the most fundamental nature of mind."
+  },
+  {
+   "id": "b52",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You do not have to manufacture it.",
+   "directed": "You do not have to manufacture it."
+  },
+  {
+   "id": "b53",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You have to recognize it.",
+   "directed": "You have to recognize it."
+  },
+  {
+   "id": "b54",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which, given your lifetime of treating every passing thought as a personal emergency, is going to be quite challenging.",
+   "directed": "Which, given your lifetime of treating every passing thought as a personal emergency, is going to be quite challenging."
+  },
+  {
+   "id": "b55",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### The greatest opportunity you have ever immediately wasted",
+   "directed": "### The greatest opportunity you have ever immediately wasted"
+  },
+  {
+   "id": "b56",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "All the usual things you identified with are gone.",
+   "directed": "All the usual things you identified with are gone."
+  },
+  {
+   "id": "b57",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your body. Your name. Your possessions. Your impressive collection of grievances.",
+   "directed": "Your body. Your name. Your possessions. Your impressive collection of grievances."
+  },
+  {
+   "id": "b58",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "For an instant, in the Tibetan account, the ordinary apparatus of self-reference no longer functions as it did.",
+   "directed": "For an instant, in the Tibetan account, the ordinary apparatus of self-reference no longer functions as it did."
+  },
+  {
+   "id": "b59",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here is the opportunity.",
+   "directed": "Here is the opportunity."
+  },
+  {
+   "id": "b60",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "If the nature of this luminous awareness is recognized directly, the cycle of compulsory identification can be interrupted.",
+   "directed": "If the nature of this luminous awareness is recognized directly, the cycle of compulsory identification can be interrupted."
+  },
+  {
+   "id": "b61",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Notice the important distinction.",
+   "directed": "Notice the important distinction."
+  },
+  {
+   "id": "b62",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Liberation is not the ordinary ego discovering that it is secretly indestructible.",
+   "directed": "Liberation is not the ordinary ego discovering that it is secretly indestructible."
+  },
+  {
+   "id": "b63",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the undoing of the ignorance through which an intrinsically existent ego was imagined in the first place.",
+   "directed": "It is the undoing of the ignorance through which an intrinsically existent ego was imagined in the first place."
+  },
+  {
+   "id": "b64",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That is a very different proposition.",
+   "directed": "That is a very different proposition."
+  },
+  {
+   "id": "b65",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Unfortunately, you have not practised.",
+   "directed": "Unfortunately, you have not practised."
+  },
+  {
+   "id": "b66",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your last genuine moment of self-examination was approximately fourteen years ago, when you wondered whether other people found you unpleasant.",
+   "directed": "Your last genuine moment of self-examination was approximately fourteen years ago, when you wondered whether other people found you unpleasant."
+  },
+  {
+   "id": "b67",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You concluded that they were jealous.",
+   "directed": "You concluded that they were jealous."
+  },
+  {
+   "id": "b68",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And so the clear light dawns.",
+   "directed": "And so the clear light dawns."
+  },
+  {
+   "id": "b69",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The opportunity of liberation appears.",
+   "directed": "The opportunity of liberation appears."
+  },
+  {
+   "id": "b70",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And your habitual ignorance remains.",
+   "directed": "And your habitual ignorance remains."
+  },
+  {
+   "id": "b71",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**You miss it.**",
+   "directed": "**You miss it.**"
+  },
+  {
+   "id": "b72",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Astonishing.",
+   "directed": "Astonishing."
+  },
+  {
+   "id": "b73",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The cosmos has offered you the possibility of release from beginningless suffering, and you've reacted with the spiritual equivalent of clicking *Remind Me Tomorrow*\\.",
+   "directed": "The cosmos has offered you the possibility of release from beginningless suffering, and you've reacted with the spiritual equivalent of clicking *Remind Me Tomorrow*\\."
+  },
+  {
+   "id": "b74",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### Now where the fuck are you?",
+   "directed": "### Now where the fuck are you?"
+  },
+  {
+   "id": "b75",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is where we must abandon a common Western assumption.",
+   "directed": "This is where we must abandon a common Western assumption."
+  },
+  {
+   "id": "b76",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tibetan Buddhism does not generally posit a permanent soul that exits the body and travels to a different address.",
+   "directed": "Tibetan Buddhism does not generally posit a permanent soul that exits the body and travels to a different address."
+  },
+  {
+   "id": "b77",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It describes a causally continuous stream of consciousness without an independently existing self.",
+   "directed": "It describes a causally continuous stream of consciousness without an independently existing self."
+  },
+  {
+   "id": "b78",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That is how rebirth is meant to work.",
+   "directed": "That is how rebirth is meant to work."
+  },
+  {
+   "id": "b79",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Consider a flame lighting another flame.",
+   "directed": "Consider a flame lighting another flame."
+  },
+  {
+   "id": "b80",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The second flame is not numerically identical to the first.",
+   "directed": "The second flame is not numerically identical to the first."
+  },
+  {
+   "id": "b81",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But neither has it arisen independently of the first.",
+   "directed": "But neither has it arisen independently of the first."
+  },
+  {
+   "id": "b82",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There is causal continuity without a permanent object migrating between locations.",
+   "directed": "There is causal continuity without a permanent object migrating between locations."
+  },
+  {
+   "id": "b83",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Buddhist claim is that a mental continuum can continue through death and rebirth in an analogous way.",
+   "directed": "The Buddhist claim is that a mental continuum can continue through death and rebirth in an analogous way."
+  },
+  {
+   "id": "b84",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Whether such continuity actually survives irreversible death remains scientifically unestablished. But philosophically, the model is more sophisticated than a ghost wearing a slightly different body each Tuesday.",
+   "directed": "Whether such continuity actually survives irreversible death remains scientifically unestablished. But philosophically, the model is more sophisticated than a ghost wearing a slightly different body each Tuesday."
+  },
+  {
+   "id": "b85",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And in the Tibetan account, your continuum has not achieved liberation.",
+   "directed": "And in the Tibetan account, your continuum has not achieved liberation."
+  },
+  {
+   "id": "b86",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Its habituated tendencies are still operative.",
+   "directed": "Its habituated tendencies are still operative."
+  },
+  {
+   "id": "b87",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which brings us to karma.",
+   "directed": "Which brings us to karma."
+  },
+  {
+   "id": "b88",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### Karma is not divine customer service",
+   "directed": "### Karma is not divine customer service"
+  },
+  {
+   "id": "b89",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You are expecting a judge.",
+   "directed": "You are expecting a judge."
+  },
+  {
+   "id": "b90",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Some enormous cosmic magistrate with an impossibly long beard and a detailed inventory of your crimes.",
+   "directed": "Some enormous cosmic magistrate with an impossibly long beard and a detailed inventory of your crimes."
+  },
+  {
+   "id": "b91",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You would particularly like to dispute several of those crimes.",
+   "directed": "You would particularly like to dispute several of those crimes."
+  },
+  {
+   "id": "b92",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Perhaps negotiate a reduction.",
+   "directed": "Perhaps negotiate a reduction."
+  },
+  {
+   "id": "b93",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Maybe point out that you've occasionally donated to charity.",
+   "directed": "Maybe point out that you've occasionally donated to charity."
+  },
+  {
+   "id": "b94",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Unfortunately, Buddhism doesn't give you a creator God administering the cosmic justice system.",
+   "directed": "Unfortunately, Buddhism doesn't give you a creator God administering the cosmic justice system."
+  },
+  {
+   "id": "b95",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Karma is intentional action and its causal consequences.**",
+   "directed": "**Karma is intentional action and its causal consequences.**"
+  },
+  {
+   "id": "b96",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "In Buddhist theory, your actions of body, speech and mind leave causal potentials that can ripen into later experiences.",
+   "directed": "In Buddhist theory, your actions of body, speech and mind leave causal potentials that can ripen into later experiences."
+  },
+  {
+   "id": "b97",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And these are not merely changes in psychological habit, although that is part of the picture.",
+   "directed": "And these are not merely changes in psychological habit, although that is part of the picture."
+  },
+  {
+   "id": "b98",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Traditional Buddhism asserts that karmic potentials also condition future rebirths and experiences across lifetimes.",
+   "directed": "Traditional Buddhism asserts that karmic potentials also condition future rebirths and experiences across lifetimes."
+  },
+  {
+   "id": "b99",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There is no independent judge deciding what you deserve.",
+   "directed": "There is no independent judge deciding what you deserve."
+  },
+  {
+   "id": "b100",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is karma simply the claim that bad people are naturally unhappy.",
+   "directed": "Nor is karma simply the claim that bad people are naturally unhappy."
+  },
+  {
+   "id": "b101",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Some appalling people live very comfortable lives. Buddhism knows this.",
+   "directed": "Some appalling people live very comfortable lives. Buddhism knows this."
+  },
+  {
+   "id": "b102",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The claim is that karmic effects may mature under conditions far removed from the actions that produced them.",
+   "directed": "The claim is that karmic effects may mature under conditions far removed from the actions that produced them."
+  },
+  {
+   "id": "b103",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is a moral-causal account of saṃsāra, not a promise of immediate fairness.",
+   "directed": "It is a moral-causal account of saṃsāra, not a promise of immediate fairness."
+  },
+  {
+   "id": "b104",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And importantly, everything unpleasant that happens to someone is not thereby proof that they deserved it.",
+   "directed": "And importantly, everything unpleasant that happens to someone is not thereby proof that they deserved it."
+  },
+  {
+   "id": "b105",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now, your problem is that you've spent decades intentionally cultivating cruelty.",
+   "directed": "Now, your problem is that you've spent decades intentionally cultivating cruelty."
+  },
+  {
+   "id": "b106",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Hatred has become familiar.",
+   "directed": "Hatred has become familiar."
+  },
+  {
+   "id": "b107",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Greed has become familiar.",
+   "directed": "Greed has become familiar."
+  },
+  {
+   "id": "b108",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Fear has become familiar.",
+   "directed": "Fear has become familiar."
+  },
+  {
+   "id": "b109",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And when your ordinary sensory environment falls away, the habitual mental tendencies remain central to how experience unfolds.",
+   "directed": "And when your ordinary sensory environment falls away, the habitual mental tendencies remain central to how experience unfolds."
+  },
+  {
+   "id": "b110",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Here is the explanatory power of the Tibetan model.",
+   "directed": "Here is the explanatory power of the Tibetan model."
+  },
+  {
+   "id": "b111",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**What you repeatedly generate in consciousness conditions what you are disposed to experience.**",
+   "directed": "**What you repeatedly generate in consciousness conditions what you are disposed to experience.**"
+  },
+  {
+   "id": "b112",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Imagine a dream.",
+   "directed": "Imagine a dream."
+  },
+  {
+   "id": "b113",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "When you become frightened, the dream sometimes grows increasingly threatening.",
+   "directed": "When you become frightened, the dream sometimes grows increasingly threatening."
+  },
+  {
+   "id": "b114",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You run.",
+   "directed": "You run."
+  },
+  {
+   "id": "b115",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You expect pursuit.",
+   "directed": "You expect pursuit."
+  },
+  {
+   "id": "b116",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Something pursues you.",
+   "directed": "Something pursues you."
+  },
+  {
+   "id": "b117",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your fear reinforces the reality of the threat.",
+   "directed": "Your fear reinforces the reality of the threat."
+  },
+  {
+   "id": "b118",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You have entered a self-amplifying loop.",
+   "directed": "You have entered a self-amplifying loop."
+  },
+  {
+   "id": "b119",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "That doesn't prove rebirth. It does give us an intelligible analogy for the Tibetan explanation of how karmically conditioned experience can become a seemingly objective world.",
+   "directed": "That doesn't prove rebirth. It does give us an intelligible analogy for the Tibetan explanation of how karmically conditioned experience can become a seemingly objective world."
+  },
+  {
+   "id": "b120",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And, my unfortunate friend, you are about to discover just how thoroughly you've trained yourself in fear.",
+   "directed": "And, my unfortunate friend, you are about to discover just how thoroughly you've trained yourself in fear."
+  },
+  {
+   "id": "b121",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### Congratulations. You've discovered hell.",
+   "directed": "### Congratulations. You've discovered hell."
+  },
+  {
+   "id": "b122",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The Tibetan tradition recognizes six broad realms of saṃsāric rebirth: gods, demi-gods, humans, animals, hungry ghosts and hell beings.",
+   "directed": "The Tibetan tradition recognizes six broad realms of saṃsāric rebirth: gods, demi-gods, humans, animals, hungry ghosts and hell beings."
+  },
+  {
+   "id": "b123",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "These are not simply six moods of the human psyche, though they can also be interpreted psychologically.",
+   "directed": "These are not simply six moods of the human psyche, though they can also be interpreted psychologically."
+  },
+  {
+   "id": "b124",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Within traditional Buddhist cosmology, they are genuine modes of embodied existence conditioned by karma.",
+   "directed": "Within traditional Buddhist cosmology, they are genuine modes of embodied existence conditioned by karma."
+  },
+  {
+   "id": "b125",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Hell is not eternal.",
+   "directed": "Hell is not eternal."
+  },
+  {
+   "id": "b126",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nor is it administered as punishment by a supreme creator.",
+   "directed": "Nor is it administered as punishment by a supreme creator."
+  },
+  {
+   "id": "b127",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is a particular suffering-filled condition of existence, arising through causes and eventually ceasing when the relevant supporting conditions are exhausted.",
+   "directed": "It is a particular suffering-filled condition of existence, arising through causes and eventually ceasing when the relevant supporting conditions are exhausted."
+  },
+  {
+   "id": "b128",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Now imagine the karmic continuum that has spent an entire human lifetime nurturing malice entering an existence overwhelmingly structured by aversion and terror.",
+   "directed": "Now imagine the karmic continuum that has spent an entire human lifetime nurturing malice entering an existence overwhelmingly structured by aversion and terror."
+  },
+  {
+   "id": "b129",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Your ordinary human world has vanished.",
+   "directed": "Your ordinary human world has vanished."
+  },
+  {
+   "id": "b130",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And suddenly, everything burns.",
+   "directed": "And suddenly, everything burns."
+  },
+  {
+   "id": "b131",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You run.",
+   "directed": "You run."
+  },
+  {
+   "id": "b132",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The ground burns.",
+   "directed": "The ground burns."
+  },
+  {
+   "id": "b133",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You look for escape.",
+   "directed": "You look for escape."
+  },
+  {
+   "id": "b134",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The horizon burns.",
+   "directed": "The horizon burns."
+  },
+  {
+   "id": "b135",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You hate the experience.",
+   "directed": "You hate the experience."
+  },
+  {
+   "id": "b136",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The hatred is overwhelming.",
+   "directed": "The hatred is overwhelming."
+  },
+  {
+   "id": "b137",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The terrifying irony is that the very mental quality which helped condition the experience is now repeatedly reactivated by it.",
+   "directed": "The terrifying irony is that the very mental quality which helped condition the experience is now repeatedly reactivated by it."
+  },
+  {
+   "id": "b138",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You are trapped in a world where your own reactive tendencies have become almost impossible to escape.",
+   "directed": "You are trapped in a world where your own reactive tendencies have become almost impossible to escape."
+  },
+  {
+   "id": "b139",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The hot and cold hells of Buddhist cosmology make the suffering vividly concrete.",
+   "directed": "The hot and cold hells of Buddhist cosmology make the suffering vividly concrete."
+  },
+  {
+   "id": "b140",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because a divine sadist decided to open a particularly unpleasant theme park.",
+   "directed": "Not because a divine sadist decided to open a particularly unpleasant theme park."
+  },
+  {
+   "id": "b141",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because, according to the karmic doctrine, profoundly destructive causes can produce correspondingly terrible results.",
+   "directed": "But because, according to the karmic doctrine, profoundly destructive causes can produce correspondingly terrible results."
+  },
+  {
+   "id": "b142",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The point is not that every malicious thought automatically generates a specific infernal destination. Actual karmic ripening is held to be highly complex, involving innumerable past actions and conditions.",
+   "directed": "The point is not that every malicious thought automatically generates a specific infernal destination. Actual karmic ripening is held to be highly complex, involving innumerable past actions and conditions."
+  },
+  {
+   "id": "b143",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And here's the really important part.",
+   "directed": "And here's the really important part."
+  },
+  {
+   "id": "b144",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**Even this is impermanent.**",
+   "directed": "**Even this is impermanent.**"
+  },
+  {
+   "id": "b145",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Eventually, the conditions sustaining this particular existence cease.",
+   "directed": "Eventually, the conditions sustaining this particular existence cease."
+  },
+  {
+   "id": "b146",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Which means you die again.",
+   "directed": "Which means you die again."
+  },
+  {
+   "id": "b147",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "There is no cosmic achievement for surviving your first death only to make it into hell.",
+   "directed": "There is no cosmic achievement for surviving your first death only to make it into hell."
+  },
+  {
+   "id": "b148",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No award.",
+   "directed": "No award."
+  },
+  {
+   "id": "b149",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "No congratulatory email.",
+   "directed": "No congratulatory email."
+  },
+  {
+   "id": "b150",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Just another transition.",
+   "directed": "Just another transition."
+  },
+  {
+   "id": "b151",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And somehow, after vast and potentially inconceivable suffering, other karmic potentials mature.",
+   "directed": "And somehow, after vast and potentially inconceivable suffering, other karmic potentials mature."
+  },
+  {
+   "id": "b152",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A different rebirth becomes possible.",
+   "directed": "A different rebirth becomes possible."
+  },
+  {
+   "id": "b153",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "### You are alive\\!",
+   "directed": "### You are alive\\!"
+  },
+  {
+   "id": "b154",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You're a human being again.",
+   "directed": "You're a human being again."
+  },
+  {
+   "id": "b155",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You have little hands.",
+   "directed": "You have little hands."
+  },
+  {
+   "id": "b156",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Tiny feet.",
+   "directed": "Tiny feet."
+  },
+  {
+   "id": "b157",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A remarkably loud voice.",
+   "directed": "A remarkably loud voice."
+  },
+  {
+   "id": "b158",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Someone picks you up and says that you are beautiful.",
+   "directed": "Someone picks you up and says that you are beautiful."
+  },
+  {
+   "id": "b159",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You are, in fact, covered in bodily fluids and currently capable of expressing only the most rudimentary demands.",
+   "directed": "You are, in fact, covered in bodily fluids and currently capable of expressing only the most rudimentary demands."
+  },
+  {
+   "id": "b160",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Nevertheless, you've made it.",
+   "directed": "Nevertheless, you've made it."
+  },
+  {
+   "id": "b161",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A human birth.",
+   "directed": "A human birth."
+  },
+  {
+   "id": "b162",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "According to Tibetan Buddhism, this is an extraordinary opportunity.",
+   "directed": "According to Tibetan Buddhism, this is an extraordinary opportunity."
+  },
+  {
+   "id": "b163",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not because humans are metaphysically superior in every respect.",
+   "directed": "Not because humans are metaphysically superior in every respect."
+  },
+  {
+   "id": "b164",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But because a human life can contain a particularly useful mixture of suffering, intelligence, leisure, ethical choice and access to spiritual teachings.",
+   "directed": "But because a human life can contain a particularly useful mixture of suffering, intelligence, leisure, ethical choice and access to spiritual teachings."
+  },
+  {
+   "id": "b165",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Too much suffering, and practice becomes almost impossible.",
+   "directed": "Too much suffering, and practice becomes almost impossible."
+  },
+  {
+   "id": "b166",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Too much pleasure, and there may be no urgency to practise.",
+   "directed": "Too much pleasure, and there may be no urgency to practise."
+  },
+  {
+   "id": "b167",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Human existence can occupy a productive middle ground.",
+   "directed": "Human existence can occupy a productive middle ground."
+  },
+  {
+   "id": "b168",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And you've just escaped an appalling realm of suffering.",
+   "directed": "And you've just escaped an appalling realm of suffering."
+  },
+  {
+   "id": "b169",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "One might hope you have learned something.",
+   "directed": "One might hope you have learned something."
+  },
+  {
+   "id": "b170",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Unfortunately, your new brain has no accessible autobiographical memory of that infernal experience.",
+   "directed": "Unfortunately, your new brain has no accessible autobiographical memory of that infernal experience."
+  },
+  {
+   "id": "b171",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You grow up.",
+   "directed": "You grow up."
+  },
+  {
+   "id": "b172",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Acquire a personality.",
+   "directed": "Acquire a personality."
+  },
+  {
+   "id": "b173",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Start forming opinions.",
+   "directed": "Start forming opinions."
+  },
+  {
+   "id": "b174",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Become mildly obsessed with what other people think of you.",
+   "directed": "Become mildly obsessed with what other people think of you."
+  },
+  {
+   "id": "b175",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And one afternoon, at the age of seventeen, someone insults you.",
+   "directed": "And one afternoon, at the age of seventeen, someone insults you."
+  },
+  {
+   "id": "b176",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "A familiar anger rises.",
+   "directed": "A familiar anger rises."
+  },
+  {
+   "id": "b177",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Oh, for fuck's sake.",
+   "directed": "Oh, for fuck's sake."
+  },
+  {
+   "id": "b178",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "**It's happening again.**",
+   "directed": "**It's happening again.**"
+  },
+  {
+   "id": "b179",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "You have acquired another body, another name, another world and another opportunity.",
+   "directed": "You have acquired another body, another name, another world and another opportunity."
+  },
+  {
+   "id": "b180",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the fundamental ignorance remains unexamined.",
+   "directed": "But the fundamental ignorance remains unexamined."
+  },
+  {
+   "id": "b181",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And that, according to the Tibetan account, is the tragedy of saṃsāra.",
+   "directed": "And that, according to the Tibetan account, is the tragedy of saṃsāra."
+  },
+  {
+   "id": "b182",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Not simply that you die.",
+   "directed": "Not simply that you die."
+  },
+  {
+   "id": "b183",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But that you keep mistaking the next arising identity for the whole truth of what you are.",
+   "directed": "But that you keep mistaking the next arising identity for the whole truth of what you are."
+  },
+  {
+   "id": "b184",
+   "section": "You Are Dead. And You Were an Absolute Bastard.",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And because that mistake remains uncorrected, the machinery keeps turning.",
+   "directed": "And because that mistake remains uncorrected, the machinery keeps turning."
+  },
+  {
+   "id": "b185",
+   "section": "The deeper question",
+   "type": "title",
+   "voice": "granny",
+   "text": "The deeper question",
+   "directed": "[long pause] The deeper question"
+  },
+  {
+   "id": "b186",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Why is the Tibetan tradition so concerned with what happens at death?",
+   "directed": "Why is the Tibetan tradition so concerned with what happens at death?"
+  },
+  {
+   "id": "b187",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because death is understood as an extraordinary opportunity to reveal the distinction between awareness and the appearances ordinarily mistaken for a permanent self.",
+   "directed": "Because death is understood as an extraordinary opportunity to reveal the distinction between awareness and the appearances ordinarily mistaken for a permanent self."
+  },
+  {
+   "id": "b188",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "But the teachings are equally concerned with **what happens while you are alive**\\.",
+   "directed": "But the teachings are equally concerned with **what happens while you are alive**\\."
+  },
+  {
+   "id": "b189",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every night you dream, constructing an entire world that feels convincing until you awaken.",
+   "directed": "Every night you dream, constructing an entire world that feels convincing until you awaken."
+  },
+  {
+   "id": "b190",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every day emotions arise, become apparently solid, and dissolve.",
+   "directed": "Every day emotions arise, become apparently solid, and dissolve."
+  },
+  {
+   "id": "b191",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Every moment some experience appears and is appropriated as *mine*\\.",
+   "directed": "Every moment some experience appears and is appropriated as *mine*\\."
+  },
+  {
+   "id": "b192",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The death process is not treated as an entirely separate metaphysical curiosity.",
+   "directed": "The death process is not treated as an entirely separate metaphysical curiosity."
+  },
+  {
+   "id": "b193",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It is the most radical instance of a process already occurring throughout life.",
+   "directed": "It is the most radical instance of a process already occurring throughout life."
+  },
+  {
+   "id": "b194",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "This is why the tradition teaches six bardos, not merely an interval between two physical incarnations. The natural bardo of life, the bardos of meditation and dreaming, the painful bardo of dying, the luminous bardo of dharmatā, and the karmic bardo of becoming are interconnected opportunities for recognition.",
+   "directed": "This is why the tradition teaches six bardos, not merely an interval between two physical incarnations. The natural bardo of life, the bardos of meditation and dreaming, the painful bardo of dying, the luminous bardo of dharmatā, and the karmic bardo of becoming are interconnected opportunities for recognition."
+  },
+  {
+   "id": "b195",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "We have begun with the worst plausible trajectory: destructive karmic conditioning, failure to recognize the clear light, an unhappy rebirth, and eventually another opportunity as a human.",
+   "directed": "We have begun with the worst plausible trajectory: destructive karmic conditioning, failure to recognize the clear light, an unhappy rebirth, and eventually another opportunity as a human."
+  },
+  {
+   "id": "b196",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "The next death is going to be considerably stranger.",
+   "directed": "The next death is going to be considerably stranger."
+  },
+  {
+   "id": "b197",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Because this time you're going to encounter the peaceful and wrathful deities.",
+   "directed": "Because this time you're going to encounter the peaceful and wrathful deities."
+  },
+  {
+   "id": "b198",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "And the terrifying thing isn't what they do to you.",
+   "directed": "And the terrifying thing isn't what they do to you."
+  },
+  {
+   "id": "b199",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "It's that, according to the text, **they are manifestations of the very nature of mind you've spent your entire life failing to recognize**\\.",
+   "directed": "It's that, according to the text, **they are manifestations of the very nature of mind you've spent your entire life failing to recognize**\\."
+  },
+  {
+   "id": "b200",
+   "section": "The deeper question",
+   "type": "narration",
+   "voice": "granny",
+   "text": "Next death: the hundred peaceful and wrathful deities, and the spectacular consequences of running away from your own mind.",
+   "directed": "Next death: the hundred peaceful and wrathful deities, and the spectacular consequences of running away from your own mind."
+  }
+ ],
+ "totals": {
+  "blocks": 201,
+  "words_per_voice": {
+   "none": 1,
+   "granny": 2077
+  },
+  "est_min": {
+   "none": 0.0,
+   "granny": 13.8
+  }
+ },
+ "validation": {
+  "errors": [],
+  "warnings": []
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "unit": "d02",
+ "files": {
+  "storyboards/storyboard_d02.json": {
+   "sha256": "81d6abd8a0f634f8",
+   "bytes": 273877
+  },
+  "chapters/d02.md": {
+   "sha256": "c795a54e52730941",
+   "bytes": 57117
+  },
+  "glossary_d02.json": {
+   "sha256": "85ff3a66a46b6ca2",
+   "bytes": 1146
+  },
+  "drops_d02.proposed.json": {
+   "sha256": "68b73f41827da84f",
+   "bytes": 127
+  }
+ },
+ "drops": "death-bell toll proposed (render debt: opener asset hardcoded)",
+ "glossary": "heading-candidates-glosses-empty-owner-confirms"
+}
