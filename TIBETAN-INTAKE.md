@@ -25,3 +25,5 @@ dead" opening (all five chapters open on death). See DEATHWORKS-INTAKE.
 2. Storyboards, casting, glossaries: pending.
 3. Lane wiring: pending. Thumbnail: none yet.
 4. Approvals: owner act at render time.
+
+House visual law: videofactory/docs/VISUALS.md (ladder: Deva+gloss → GIF motifs → drawn landscapes; white law).
