@@ -1,0 +1,135 @@
+{
+ "b4": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b5",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 The sixth day: The entire fucking mandala \u2014 visual-plan gap"
+ },
+ "b51": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b52",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 Day thirteen: things become considerably worse -> SPLIT x2 (~90s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b98": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b99",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 What does liberation actually interrupt? -> SPLIT x2 (~112s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b144": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b145",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 opening -> SPLIT x7 (~94s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b327": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/mandala-bardo.png",
+  "complete_bid": "b328",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 The sixth day: The entire fucking mandala -> SPLIT x2 (~91s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b362": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b363",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 The sixth day: The entire fucking mandala \u2014 visual-plan gap"
+ },
+ "b396": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b397",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 The sixth day: The entire fucking mandala -> SPLIT x4 (~91s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b503": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b504",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 Day thirteen: things become considerably worse -> SPLIT x3 (~96s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b585": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b586",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 The most embarrassing possible use of supernatural powers -> SPLIT x3 (~83s each, subdivide by sub-h \u2014 visual-plan gap"
+ },
+ "b659": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/mandala-bardo.png",
+  "complete_bid": "b660",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 The most embarrassing possible use of supernatural powers -> SPLIT x2 (~103s each, subdivide by sub- \u2014 visual-plan gap"
+ },
+ "b715": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b716",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 The most embarrassing possible use of supernatural powers -> SPLIT x2 (~94s each, subdivide by sub-h \u2014 visual-plan gap"
+ },
+ "b755": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b756",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 The most embarrassing possible use of supernatural powers -> SPLIT x2 (~107s each, subdivide by sub- \u2014 visual-plan gap"
+ },
+ "b814": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b815",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 The most embarrassing possible use of supernatural powers \u2014 visual-plan gap"
+ },
+ "b860": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b861",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 The most embarrassing possible use of supernatural powers -> SPLIT x4 (~81s each, subdivide by sub-h \u2014 visual-plan gap"
+ },
+ "b107": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b108",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 etch lead-in for mandala clip at b108 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b531": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b532",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 etch lead-in for death-bell clip at b532 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b60": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b61",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 etch lead-in for rainbow-body clip at b61 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b88": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b89",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 etch lead-in for rainbow-body clip at b89 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b583": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b584",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d02 etch lead-in for yama-scales clip at b584 \u2014 first frame etches from white, then motion takes over seamless"
+ }
+}

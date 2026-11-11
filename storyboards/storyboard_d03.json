@@ -31,16 +31,16 @@
    "section": "You Fed Some Geckos, Chanted at Them, and Now You're Dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "*A wildly irreverent, philosophically rigorous exploration of merit, karma, mantras, Buddha-fields, devotion and the decidedly peculiar economics of enlightenment.*",
-   "directed": "*A wildly irreverent, philosophically rigorous exploration of merit, karma, mantras, Buddha-fields, devotion and the decidedly peculiar economics of enlightenment.*"
+   "text": "A wildly irreverent, philosophically rigorous exploration of merit, karma, mantras, Buddha-fields, devotion and the decidedly peculiar economics of enlightenment.",
+   "directed": "A wildly irreverent, philosophically rigorous exploration of merit, karma, mantras, Buddha-fields, devotion and the decidedly peculiar economics of enlightenment."
   },
   {
    "id": "b4",
    "section": "You Fed Some Geckos, Chanted at Them, and Now You're Dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Our principal sources for this chapter are Śāntideva's Bodhicaryāvatāra, the Kāraṇḍavyūha Sūtra, the Sukhāvatīvyūha sūtras, Karma Lingpa's Bardo Thödol, and Tibetan aspiration prayers by Mipham Rinpoche, Jigme Lingpa and others. They belong to related but distinct Indian Mahāyāna and Tibetan traditions.*",
-   "directed": "*Our principal sources for this chapter are Śāntideva's Bodhicaryāvatāra, the Kāraṇḍavyūha Sūtra, the Sukhāvatīvyūha sūtras, Karma Lingpa's Bardo Thödol, and Tibetan aspiration prayers by Mipham Rinpoche, Jigme Lingpa and others. They belong to related but distinct Indian Mahāyāna and Tibetan traditions.*"
+   "text": "Our principal sources for this chapter are Śāntideva's Bodhicaryāvatāra, the Kāraṇḍavyūha Sūtra, the Sukhāvatīvyūha sūtras, Karma Lingpa's Bardo Thödol, and Tibetan aspiration prayers by Mipham Rinpoche, Jigme Lingpa and others. They belong to related but distinct Indian Mahāyāna and Tibetan traditions.",
+   "directed": "Our principal sources for this chapter are Śāntideva's Bodhicaryāvatāra, the Kāraṇḍavyūha Sūtra, the Sukhāvatīvyūha sūtras, Karma Lingpa's Bardo Thödol, and Tibetan aspiration prayers by Mipham Rinpoche, Jigme Lingpa and others. They belong to related but distinct Indian Mahāyāna and Tibetan traditions."
   },
   {
    "id": "b5",
@@ -223,8 +223,8 @@
    "section": "1. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**You actually give a shit about other beings.**",
-   "directed": "**You actually give a shit about other beings.**"
+   "text": "You actually give a shit about other beings.",
+   "directed": "You actually give a shit about other beings."
   },
   {
    "id": "b28",
@@ -431,8 +431,8 @@
    "section": "1. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**Could this possibly matter to what happens after any of you die?**",
-   "directed": "**Could this possibly matter to what happens after any of you die?**"
+   "text": "Could this possibly matter to what happens after any of you die?",
+   "directed": "Could this possibly matter to what happens after any of you die?"
   },
   {
    "id": "b54",
@@ -511,16 +511,16 @@
    "section": "2. What the fuck is merit?",
    "type": "narration",
    "voice": "granny",
-   "text": "In Sanskrit, *karma* means action.",
-   "directed": "In Sanskrit, *karma* means action."
+   "text": "In Sanskrit, karma means action.",
+   "directed": "In Sanskrit, karma means action."
   },
   {
    "id": "b64",
    "section": "2. What the fuck is merit?",
    "type": "narration",
    "voice": "granny",
-   "text": "Within Buddhist ethics, the decisive factor is intention: *cetanā*.",
-   "directed": "Within Buddhist ethics, the decisive factor is intention: *cetanā*."
+   "text": "Within Buddhist ethics, the decisive factor is intention: cetanā.",
+   "directed": "Within Buddhist ethics, the decisive factor is intention: cetanā."
   },
   {
    "id": "b65",
@@ -535,8 +535,8 @@
    "section": "2. What the fuck is merit?",
    "type": "narration",
    "voice": "granny",
-   "text": "The Tibetan word for merit, *bsod nams*, translates Sanskrit *puṇya*.",
-   "directed": "The Tibetan word for merit, *bsod nams*, translates Sanskrit *puṇya*."
+   "text": "The Tibetan word for merit, bsod nams, translates Sanskrit puṇya.",
+   "directed": "The Tibetan word for merit, bsod nams, translates Sanskrit puṇya."
   },
   {
    "id": "b67",
@@ -559,8 +559,8 @@
    "section": "2. What the fuck is merit?",
    "type": "narration",
    "voice": "granny",
-   "text": "**Merit is not a substance.**",
-   "directed": "**Merit is not a substance.**"
+   "text": "Merit is not a substance.",
+   "directed": "Merit is not a substance."
   },
   {
    "id": "b70",
@@ -735,8 +735,8 @@
    "section": "2. What the fuck is merit?",
    "type": "narration",
    "voice": "granny",
-   "text": "### You are not merely performing actions. You are becoming disposed to perform them.",
-   "directed": "### You are not merely performing actions. You are becoming disposed to perform them."
+   "text": "You are not merely performing actions. You are becoming disposed to perform them.",
+   "directed": "You are not merely performing actions. You are becoming disposed to perform them."
   },
   {
    "id": "b92",
@@ -879,8 +879,8 @@
    "section": "2. What the fuck is merit?",
    "type": "narration",
    "voice": "granny",
-   "text": "But because **the character of intentional activity helps condition the possibilities that follow it**.",
-   "directed": "But because **the character of intentional activity helps condition the possibilities that follow it**."
+   "text": "But because the character of intentional activity helps condition the possibilities that follow it.",
+   "directed": "But because the character of intentional activity helps condition the possibilities that follow it."
   },
   {
    "id": "b110",
@@ -895,16 +895,16 @@
    "section": "2. What the fuck is merit?",
    "type": "narration",
    "voice": "granny",
-   "text": "### The six perfections: the actual curriculum",
-   "directed": "### The six perfections: the actual curriculum"
+   "text": "The six perfections: the actual curriculum",
+   "directed": "The six perfections: the actual curriculum"
   },
   {
    "id": "b112",
    "section": "2. What the fuck is merit?",
    "type": "narration",
    "voice": "granny",
-   "text": "Your teacher eventually introduces you to the six *pāramitās*, the perfections of the bodhisattva.",
-   "directed": "Your teacher eventually introduces you to the six *pāramitās*, the perfections of the bodhisattva."
+   "text": "Your teacher eventually introduces you to the six pāramitās, the perfections of the bodhisattva.",
+   "directed": "Your teacher eventually introduces you to the six pāramitās, the perfections of the bodhisattva."
   },
   {
    "id": "b113",
@@ -1071,8 +1071,8 @@
    "section": "2. What the fuck is merit?",
    "type": "narration",
    "voice": "granny",
-   "text": "And in doing so, you discover that the imagined solidity of *mine* can become less absolute.",
-   "directed": "And in doing so, you discover that the imagined solidity of *mine* can become less absolute."
+   "text": "And in doing so, you discover that the imagined solidity of mine can become less absolute.",
+   "directed": "And in doing so, you discover that the imagined solidity of mine can become less absolute."
   },
   {
    "id": "b134",
@@ -1143,8 +1143,8 @@
    "section": "3. Excuse me, can I transfer my karma to a lizard?",
    "type": "narration",
    "voice": "granny",
-   "text": "*If everyone inherits the consequences of their own karma, how the fuck can I give merit to someone else?*",
-   "directed": "*If everyone inherits the consequences of their own karma, how the fuck can I give merit to someone else?*"
+   "text": "If everyone inherits the consequences of their own karma, how the fuck can I give merit to someone else?",
+   "directed": "If everyone inherits the consequences of their own karma, how the fuck can I give merit to someone else?"
   },
   {
    "id": "b143",
@@ -1191,16 +1191,16 @@
    "section": "3. Excuse me, can I transfer my karma to a lizard?",
    "type": "narration",
    "voice": "granny",
-   "text": "First, we must distinguish **dedication from the literal transfer of a substance**.",
-   "directed": "First, we must distinguish **dedication from the literal transfer of a substance**."
+   "text": "First, we must distinguish dedication from the literal transfer of a substance.",
+   "directed": "First, we must distinguish dedication from the literal transfer of a substance."
   },
   {
    "id": "b149",
    "section": "3. Excuse me, can I transfer my karma to a lizard?",
    "type": "narration",
    "voice": "granny",
-   "text": "The Sanskrit term *pariṇāmanā* means something like dedication, transformation or directing toward an end.",
-   "directed": "The Sanskrit term *pariṇāmanā* means something like dedication, transformation or directing toward an end."
+   "text": "The Sanskrit term pariṇāmanā means something like dedication, transformation or directing toward an end.",
+   "directed": "The Sanskrit term pariṇāmanā means something like dedication, transformation or directing toward an end."
   },
   {
    "id": "b150",
@@ -1311,8 +1311,8 @@
    "section": "3. Excuse me, can I transfer my karma to a lizard?",
    "type": "narration",
    "voice": "granny",
-   "text": "**You cannot simply erase another being's karmic history by deciding to be generous.**",
-   "directed": "**You cannot simply erase another being's karmic history by deciding to be generous.**"
+   "text": "You cannot simply erase another being's karmic history by deciding to be generous.",
+   "directed": "You cannot simply erase another being's karmic history by deciding to be generous."
   },
   {
    "id": "b164",
@@ -1455,8 +1455,8 @@
    "section": "3. Excuse me, can I transfer my karma to a lizard?",
    "type": "narration",
    "voice": "granny",
-   "text": "*You are cultivating the causes of benefit. You are not controlling another being's destiny.*",
-   "directed": "*You are cultivating the causes of benefit. You are not controlling another being's destiny.*"
+   "text": "You are cultivating the causes of benefit. You are not controlling another being's destiny.",
+   "directed": "You are cultivating the causes of benefit. You are not controlling another being's destiny."
   },
   {
    "id": "b182",
@@ -1639,8 +1639,8 @@
    "section": "4. Śāntideva enters the room and absolutely destroys your un",
    "type": "narration",
    "voice": "granny",
-   "text": "And crucially, Śāntideva's third chapter links this transformation to the arising of *bodhicitta*: the determination to attain complete awakening for the benefit of all beings.",
-   "directed": "And crucially, Śāntideva's third chapter links this transformation to the arising of *bodhicitta*: the determination to attain complete awakening for the benefit of all beings."
+   "text": "And crucially, Śāntideva's third chapter links this transformation to the arising of bodhicitta: the determination to attain complete awakening for the benefit of all beings.",
+   "directed": "And crucially, Śāntideva's third chapter links this transformation to the arising of bodhicitta: the determination to attain complete awakening for the benefit of all beings."
   },
   {
    "id": "b205",
@@ -1695,8 +1695,8 @@
    "section": "4. Śāntideva enters the room and absolutely destroys your un",
    "type": "narration",
    "voice": "granny",
-   "text": "But it remains organized around *your* future welfare.",
-   "directed": "But it remains organized around *your* future welfare."
+   "text": "But it remains organized around your future welfare.",
+   "directed": "But it remains organized around your future welfare."
   },
   {
    "id": "b212",
@@ -1727,8 +1727,8 @@
    "section": "4. Śāntideva enters the room and absolutely destroys your un",
    "type": "narration",
    "voice": "granny",
-   "text": "**You are training yourself to stop treating your personal happiness as the final objective of existence.**",
-   "directed": "**You are training yourself to stop treating your personal happiness as the final objective of existence.**"
+   "text": "You are training yourself to stop treating your personal happiness as the final objective of existence.",
+   "directed": "You are training yourself to stop treating your personal happiness as the final objective of existence."
   },
   {
    "id": "b216",
@@ -1743,8 +1743,8 @@
    "section": "4. Śāntideva enters the room and absolutely destroys your un",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why doesn't giving merit away mean you lose it?",
-   "directed": "### Why doesn't giving merit away mean you lose it?"
+   "text": "Why doesn't giving merit away mean you lose it?",
+   "directed": "Why doesn't giving merit away mean you lose it?"
   },
   {
    "id": "b218",
@@ -1759,8 +1759,8 @@
    "section": "4. Śāntideva enters the room and absolutely destroys your un",
    "type": "narration",
    "voice": "granny",
-   "text": "*If I dedicate all my merit to other beings, haven't I just given away my chance of enlightenment?*",
-   "directed": "*If I dedicate all my merit to other beings, haven't I just given away my chance of enlightenment?*"
+   "text": "If I dedicate all my merit to other beings, haven't I just given away my chance of enlightenment?",
+   "directed": "If I dedicate all my merit to other beings, haven't I just given away my chance of enlightenment?"
   },
   {
    "id": "b220",
@@ -1903,8 +1903,8 @@
    "section": "4. Śāntideva enters the room and absolutely destroys your un",
    "type": "narration",
    "voice": "granny",
-   "text": "**You are no longer trying to become the proud owner of a magnificent collection of good deeds.**",
-   "directed": "**You are no longer trying to become the proud owner of a magnificent collection of good deeds.**"
+   "text": "You are no longer trying to become the proud owner of a magnificent collection of good deeds.",
+   "directed": "You are no longer trying to become the proud owner of a magnificent collection of good deeds."
   },
   {
    "id": "b238",
@@ -2055,8 +2055,8 @@
    "section": "5. Bodhicitta: the moment the entire direction of the journe",
    "type": "narration",
    "voice": "granny",
-   "text": "The Tibetan *lojong* and *lamrim* traditions frequently develop compassion by contemplating that all sentient beings have, across beginningless lives, been intimately related to us.",
-   "directed": "The Tibetan *lojong* and *lamrim* traditions frequently develop compassion by contemplating that all sentient beings have, across beginningless lives, been intimately related to us."
+   "text": "The Tibetan lojong and lamrim traditions frequently develop compassion by contemplating that all sentient beings have, across beginningless lives, been intimately related to us.",
+   "directed": "The Tibetan lojong and lamrim traditions frequently develop compassion by contemplating that all sentient beings have, across beginningless lives, been intimately related to us."
   },
   {
    "id": "b257",
@@ -2127,8 +2127,8 @@
    "section": "5. Bodhicitta: the moment the entire direction of the journe",
    "type": "narration",
    "voice": "granny",
-   "text": "**That last step is bodhicitta.**",
-   "directed": "**That last step is bodhicitta.**"
+   "text": "That last step is bodhicitta.",
+   "directed": "That last step is bodhicitta."
   },
   {
    "id": "b266",
@@ -2239,8 +2239,8 @@
    "section": "5. Bodhicitta: the moment the entire direction of the journe",
    "type": "narration",
    "voice": "granny",
-   "text": "### The problem with merely feeling compassionate",
-   "directed": "### The problem with merely feeling compassionate"
+   "text": "The problem with merely feeling compassionate",
+   "directed": "The problem with merely feeling compassionate"
   },
   {
    "id": "b280",
@@ -2263,8 +2263,8 @@
    "section": "5. Bodhicitta: the moment the entire direction of the journe",
    "type": "narration",
    "voice": "granny",
-   "text": "*I love these little bastards.*",
-   "directed": "*I love these little bastards.*"
+   "text": "I love these little bastards.",
+   "directed": "I love these little bastards."
   },
   {
    "id": "b283",
@@ -2319,8 +2319,8 @@
    "section": "5. Bodhicitta: the moment the entire direction of the journe",
    "type": "narration",
    "voice": "granny",
-   "text": "And tantric Buddhism will eventually describe an inseparability of *prajñā*, wisdom, and *upāya*, skilful means.",
-   "directed": "And tantric Buddhism will eventually describe an inseparability of *prajñā*, wisdom, and *upāya*, skilful means."
+   "text": "And tantric Buddhism will eventually describe an inseparability of prajñā, wisdom, and upāya, skilful means.",
+   "directed": "And tantric Buddhism will eventually describe an inseparability of prajñā, wisdom, and upāya, skilful means."
   },
   {
    "id": "b290",
@@ -2415,8 +2415,8 @@
    "section": "6. Oṃ maṇi padme hūṃ: six syllables, and apparently an absur",
    "type": "narration",
    "voice": "granny",
-   "text": "**Oṃ maṇi padme hūṃ.**",
-   "directed": "**Oṃ maṇi padme hūṃ.**"
+   "text": "Oṃ maṇi padme hūṃ.",
+   "directed": "Oṃ maṇi padme hūṃ."
   },
   {
    "id": "b302",
@@ -2471,8 +2471,8 @@
    "section": "6. Oṃ maṇi padme hūṃ: six syllables, and apparently an absur",
    "type": "narration",
    "voice": "granny",
-   "text": "*How?*",
-   "directed": "*How?*"
+   "text": "How?",
+   "directed": "How?"
   },
   {
    "id": "b309",
@@ -2495,8 +2495,8 @@
    "section": "6. Oṃ maṇi padme hūṃ: six syllables, and apparently an absur",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Kāraṇḍavyūha Sūtra*, translated into English by Peter Alan Roberts as The Basket's Display, is one of the foundational Indian scriptures for the six-syllable mantra.",
-   "directed": "The *Kāraṇḍavyūha Sūtra*, translated into English by Peter Alan Roberts as The Basket's Display, is one of the foundational Indian scriptures for the six-syllable mantra."
+   "text": "The Kāraṇḍavyūha Sūtra, translated into English by Peter Alan Roberts as The Basket's Display, is one of the foundational Indian scriptures for the six-syllable mantra.",
+   "directed": "The Kāraṇḍavyūha Sūtra, translated into English by Peter Alan Roberts as The Basket's Display, is one of the foundational Indian scriptures for the six-syllable mantra."
   },
   {
    "id": "b312",
@@ -2559,32 +2559,32 @@
    "section": "6. Oṃ maṇi padme hūṃ: six syllables, and apparently an absur",
    "type": "narration",
    "voice": "granny",
-   "text": "### What do the syllables actually mean?",
-   "directed": "### What do the syllables actually mean?"
+   "text": "What do the syllables actually mean?",
+   "directed": "What do the syllables actually mean?"
   },
   {
    "id": "b320",
    "section": "6. Oṃ maṇi padme hūṃ: six syllables, and apparently an absur",
    "type": "narration",
    "voice": "granny",
-   "text": "*Oṃ* is a sacred syllable with a long history in Indian religious traditions.",
-   "directed": "*Oṃ* is a sacred syllable with a long history in Indian religious traditions."
+   "text": "Oṃ is a sacred syllable with a long history in Indian religious traditions.",
+   "directed": "Oṃ is a sacred syllable with a long history in Indian religious traditions."
   },
   {
    "id": "b321",
    "section": "6. Oṃ maṇi padme hūṃ: six syllables, and apparently an absur",
    "type": "narration",
    "voice": "granny",
-   "text": "*Maṇi* means jewel.",
-   "directed": "*Maṇi* means jewel."
+   "text": "Maṇi means jewel.",
+   "directed": "Maṇi means jewel."
   },
   {
    "id": "b322",
    "section": "6. Oṃ maṇi padme hūṃ: six syllables, and apparently an absur",
    "type": "narration",
    "voice": "granny",
-   "text": "*Padme* is related to lotus, but the famous English rendering about a jewel being inside a lotus is not a securely literal translation of the whole mantra.",
-   "directed": "*Padme* is related to lotus, but the famous English rendering about a jewel being inside a lotus is not a securely literal translation of the whole mantra."
+   "text": "Padme is related to lotus, but the famous English rendering about a jewel being inside a lotus is not a securely literal translation of the whole mantra.",
+   "directed": "Padme is related to lotus, but the famous English rendering about a jewel being inside a lotus is not a securely literal translation of the whole mantra."
   },
   {
    "id": "b323",
@@ -2599,8 +2599,8 @@
    "section": "6. Oṃ maṇi padme hūṃ: six syllables, and apparently an absur",
    "type": "narration",
    "voice": "granny",
-   "text": "*Hūṃ* is another sacred syllable, particularly significant in tantric contexts.",
-   "directed": "*Hūṃ* is another sacred syllable, particularly significant in tantric contexts."
+   "text": "Hūṃ is another sacred syllable, particularly significant in tantric contexts.",
+   "directed": "Hūṃ is another sacred syllable, particularly significant in tantric contexts."
   },
   {
    "id": "b325",
@@ -2711,16 +2711,16 @@
    "section": "6. Oṃ maṇi padme hūṃ: six syllables, and apparently an absur",
    "type": "narration",
    "voice": "granny",
-   "text": "**The original Kāraṇḍavyūha describes extraordinary benefits without providing every later Tibetan syllable-by-syllable explanation.**",
-   "directed": "**The original Kāraṇḍavyūha describes extraordinary benefits without providing every later Tibetan syllable-by-syllable explanation.**"
+   "text": "The original Kāraṇḍavyūha describes extraordinary benefits without providing every later Tibetan syllable-by-syllable explanation.",
+   "directed": "The original Kāraṇḍavyūha describes extraordinary benefits without providing every later Tibetan syllable-by-syllable explanation."
   },
   {
    "id": "b339",
    "section": "6. Oṃ maṇi padme hūṃ: six syllables, and apparently an absur",
    "type": "narration",
    "voice": "granny",
-   "text": "Those elaborate correspondences developed within subsequent traditions, including the *Maṇi Kambum*.",
-   "directed": "Those elaborate correspondences developed within subsequent traditions, including the *Maṇi Kambum*."
+   "text": "Those elaborate correspondences developed within subsequent traditions, including the Maṇi Kambum.",
+   "directed": "Those elaborate correspondences developed within subsequent traditions, including the Maṇi Kambum."
   },
   {
    "id": "b340",
@@ -2759,8 +2759,8 @@
    "section": "7. Avalokiteśvara becomes a fucking bee",
    "type": "narration",
    "voice": "granny",
-   "text": "This is genuinely in the *Kāraṇḍavyūha Sūtra*.",
-   "directed": "This is genuinely in the *Kāraṇḍavyūha Sūtra*."
+   "text": "This is genuinely in the Kāraṇḍavyūha Sūtra.",
+   "directed": "This is genuinely in the Kāraṇḍavyūha Sūtra."
   },
   {
    "id": "b345",
@@ -2839,8 +2839,8 @@
    "section": "7. Avalokiteśvara becomes a fucking bee",
    "type": "narration",
    "voice": "granny",
-   "text": "**He becomes a bee.**",
-   "directed": "**He becomes a bee.**"
+   "text": "He becomes a bee.",
+   "directed": "He becomes a bee."
   },
   {
    "id": "b355",
@@ -2951,8 +2951,8 @@
    "section": "7. Avalokiteśvara becomes a fucking bee",
    "type": "narration",
    "voice": "granny",
-   "text": "This is *upāya*, skilful means, taken to an almost absurdly literal extreme.",
-   "directed": "This is *upāya*, skilful means, taken to an almost absurdly literal extreme."
+   "text": "This is upāya, skilful means, taken to an almost absurdly literal extreme.",
+   "directed": "This is upāya, skilful means, taken to an almost absurdly literal extreme."
   },
   {
    "id": "b369",
@@ -2975,8 +2975,8 @@
    "section": "7. Avalokiteśvara becomes a fucking bee",
    "type": "narration",
    "voice": "granny",
-   "text": "**An enlightened being has become a buzzing insect because the insects are the beings who need help.**",
-   "directed": "**An enlightened being has become a buzzing insect because the insects are the beings who need help.**"
+   "text": "An enlightened being has become a buzzing insect because the insects are the beings who need help.",
+   "directed": "An enlightened being has become a buzzing insect because the insects are the beings who need help."
   },
   {
    "id": "b372",
@@ -3143,24 +3143,24 @@
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "*Right. Seriously. What is the mechanism?*",
-   "directed": "*Right. Seriously. What is the mechanism?*"
+   "text": "Right. Seriously. What is the mechanism?",
+   "directed": "Right. Seriously. What is the mechanism?"
   },
   {
    "id": "b393",
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "*How can sound possibly affect karma?*",
-   "directed": "*How can sound possibly affect karma?*"
+   "text": "How can sound possibly affect karma?",
+   "directed": "How can sound possibly affect karma?"
   },
   {
    "id": "b394",
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "*And why would looking at six syllables printed on a rock make any difference?*",
-   "directed": "*And why would looking at six syllables printed on a rock make any difference?*"
+   "text": "And why would looking at six syllables printed on a rock make any difference?",
+   "directed": "And why would looking at six syllables printed on a rock make any difference?"
   },
   {
    "id": "b395",
@@ -3183,8 +3183,8 @@
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "### First: ordinary psychological causation",
-   "directed": "### First: ordinary psychological causation"
+   "text": "First: ordinary psychological causation",
+   "directed": "First: ordinary psychological causation"
   },
   {
    "id": "b398",
@@ -3247,8 +3247,8 @@
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "### Second: karmic conditioning",
-   "directed": "### Second: karmic conditioning"
+   "text": "Second: karmic conditioning",
+   "directed": "Second: karmic conditioning"
   },
   {
    "id": "b406",
@@ -3319,16 +3319,16 @@
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "### Third: blessing and enlightened activity",
-   "directed": "### Third: blessing and enlightened activity"
+   "text": "Third: blessing and enlightened activity",
+   "directed": "Third: blessing and enlightened activity"
   },
   {
    "id": "b415",
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "Tibetan Buddhism also employs the concept of *adhiṣṭhāna*, often translated as blessing, inspiration or empowering influence.",
-   "directed": "Tibetan Buddhism also employs the concept of *adhiṣṭhāna*, often translated as blessing, inspiration or empowering influence."
+   "text": "Tibetan Buddhism also employs the concept of adhiṣṭhāna, often translated as blessing, inspiration or empowering influence.",
+   "directed": "Tibetan Buddhism also employs the concept of adhiṣṭhāna, often translated as blessing, inspiration or empowering influence."
   },
   {
    "id": "b416",
@@ -3439,8 +3439,8 @@
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "### Fourth: dependent origination",
-   "directed": "### Fourth: dependent origination"
+   "text": "Fourth: dependent origination",
+   "directed": "Fourth: dependent origination"
   },
   {
    "id": "b430",
@@ -3511,8 +3511,8 @@
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "But **coherence is not the same as empirical verification**.",
-   "directed": "But **coherence is not the same as empirical verification**."
+   "text": "But coherence is not the same as empirical verification.",
+   "directed": "But coherence is not the same as empirical verification."
   },
   {
    "id": "b439",
@@ -3551,8 +3551,8 @@
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "*So should I keep chanting?*",
-   "directed": "*So should I keep chanting?*"
+   "text": "So should I keep chanting?",
+   "directed": "So should I keep chanting?"
   },
   {
    "id": "b444",
@@ -3567,8 +3567,8 @@
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "*Does the practice help you cultivate compassion and wisdom?*",
-   "directed": "*Does the practice help you cultivate compassion and wisdom?*"
+   "text": "Does the practice help you cultivate compassion and wisdom?",
+   "directed": "Does the practice help you cultivate compassion and wisdom?"
   },
   {
    "id": "b446",
@@ -3591,8 +3591,8 @@
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "*Then perhaps start there.*",
-   "directed": "*Then perhaps start there.*"
+   "text": "Then perhaps start there.",
+   "directed": "Then perhaps start there."
   },
   {
    "id": "b449",
@@ -3631,8 +3631,8 @@
    "section": "8. How could a mantra actually work?",
    "type": "narration",
    "voice": "granny",
-   "text": "*Oṃ maṇi padme hūṃ.*",
-   "directed": "*Oṃ maṇi padme hūṃ.*"
+   "text": "Oṃ maṇi padme hūṃ.",
+   "directed": "Oṃ maṇi padme hūṃ."
   },
   {
    "id": "b454",
@@ -3719,8 +3719,8 @@
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "*Are you telling me I can become enlightened by looking at a fucking drawing?*",
-   "directed": "*Are you telling me I can become enlightened by looking at a fucking drawing?*"
+   "text": "Are you telling me I can become enlightened by looking at a fucking drawing?",
+   "directed": "Are you telling me I can become enlightened by looking at a fucking drawing?"
   },
   {
    "id": "b465",
@@ -3759,8 +3759,8 @@
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "- *Mthong grol* - liberation through seeing.\n- *Thos grol* - liberation through hearing.\n- *Btags grol* - liberation through wearing or attachment.\n- *Myong grol* - liberation through tasting.\n- *Reg grol* - liberation through touching.\n- *Dran grol* - liberation through recollection.",
-   "directed": "- *Mthong grol* - liberation through seeing.\n- *Thos grol* - liberation through hearing.\n- *Btags grol* - liberation through wearing or attachment.\n- *Myong grol* - liberation through tasting.\n- *Reg grol* - liberation through touching.\n- *Dran grol* - liberation through recollection."
+   "text": "Mthong grol - liberation through seeing.\nThos grol - liberation through hearing.\nBtags grol - liberation through wearing or attachment.\nMyong grol - liberation through tasting.\nReg grol - liberation through touching.\nDran grol - liberation through recollection.",
+   "directed": "Mthong grol - liberation through seeing.\nThos grol - liberation through hearing.\nBtags grol - liberation through wearing or attachment.\nMyong grol - liberation through tasting.\nReg grol - liberation through touching.\nDran grol - liberation through recollection."
   },
   {
    "id": "b470",
@@ -3775,16 +3775,16 @@
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "These are not all chapters of the *Bardo Thödol* itself.",
-   "directed": "These are not all chapters of the *Bardo Thödol* itself."
+   "text": "These are not all chapters of the Bardo Thödol itself.",
+   "directed": "These are not all chapters of the Bardo Thödol itself."
   },
   {
    "id": "b472",
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "The term *thos grol* is central to the title of Karma Lingpa's liberation-through-hearing instructions.",
-   "directed": "The term *thos grol* is central to the title of Karma Lingpa's liberation-through-hearing instructions."
+   "text": "The term thos grol is central to the title of Karma Lingpa's liberation-through-hearing instructions.",
+   "directed": "The term thos grol is central to the title of Karma Lingpa's liberation-through-hearing instructions."
   },
   {
    "id": "b473",
@@ -3807,8 +3807,8 @@
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "### The amulet that supposedly does more than you do",
-   "directed": "### The amulet that supposedly does more than you do"
+   "text": "The amulet that supposedly does more than you do",
+   "directed": "The amulet that supposedly does more than you do"
   },
   {
    "id": "b476",
@@ -3855,8 +3855,8 @@
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "Certain Nyingma *terma* traditions claim that such objects can provide exceptionally powerful benefits, including liberation.",
-   "directed": "Certain Nyingma *terma* traditions claim that such objects can provide exceptionally powerful benefits, including liberation."
+   "text": "Certain Nyingma terma traditions claim that such objects can provide exceptionally powerful benefits, including liberation.",
+   "directed": "Certain Nyingma terma traditions claim that such objects can provide exceptionally powerful benefits, including liberation."
   },
   {
    "id": "b482",
@@ -3871,24 +3871,24 @@
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "*Hang on.*",
-   "directed": "*Hang on.*"
+   "text": "Hang on.",
+   "directed": "Hang on."
   },
   {
    "id": "b484",
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "*I've spent years meditating.*",
-   "directed": "*I've spent years meditating.*"
+   "text": "I've spent years meditating.",
+   "directed": "I've spent years meditating."
   },
   {
    "id": "b485",
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "*And this fellow is wearing a tiny book in his shirt and apparently getting the same result?*",
-   "directed": "*And this fellow is wearing a tiny book in his shirt and apparently getting the same result?*"
+   "text": "And this fellow is wearing a tiny book in his shirt and apparently getting the same result?",
+   "directed": "And this fellow is wearing a tiny book in his shirt and apparently getting the same result?"
   },
   {
    "id": "b486",
@@ -3951,8 +3951,8 @@
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "*Magical necklace. Enlightenment acquired.*",
-   "directed": "*Magical necklace. Enlightenment acquired.*"
+   "text": "Magical necklace. Enlightenment acquired.",
+   "directed": "Magical necklace. Enlightenment acquired."
   },
   {
    "id": "b494",
@@ -4015,8 +4015,8 @@
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "**The sacred object is not simply information stored on paper. It is a physical participant in a religious practice.**",
-   "directed": "**The sacred object is not simply information stored on paper. It is a physical participant in a religious practice.**"
+   "text": "The sacred object is not simply information stored on paper. It is a physical participant in a religious practice.",
+   "directed": "The sacred object is not simply information stored on paper. It is a physical participant in a religious practice."
   },
   {
    "id": "b502",
@@ -4055,16 +4055,16 @@
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "### Liberation through hearing: why the dead are read instructions",
-   "directed": "### Liberation through hearing: why the dead are read instructions"
+   "text": "Liberation through hearing: why the dead are read instructions",
+   "directed": "Liberation through hearing: why the dead are read instructions"
   },
   {
    "id": "b507",
    "section": "9. Liberation through seeing: Did Buddhism really invent enl",
    "type": "narration",
    "voice": "granny",
-   "text": "Now return to the *Bardo Thödol*.",
-   "directed": "Now return to the *Bardo Thödol*."
+   "text": "Now return to the Bardo Thödol.",
+   "directed": "Now return to the Bardo Thödol."
   },
   {
    "id": "b508",
@@ -4455,8 +4455,8 @@
    "section": "10. Why devotion is not necessarily intellectual surrender",
    "type": "narration",
    "voice": "granny",
-   "text": "**Devotion can change what the mind finds compelling.**",
-   "directed": "**Devotion can change what the mind finds compelling.**"
+   "text": "Devotion can change what the mind finds compelling.",
+   "directed": "Devotion can change what the mind finds compelling."
   },
   {
    "id": "b557",
@@ -4623,8 +4623,8 @@
    "section": "11. Buddha-fields: Have the Buddhas built their own fucking ",
    "type": "narration",
    "voice": "granny",
-   "text": "The Sanskrit term *buddhakṣetra* refers to a field or realm associated with a Buddha.",
-   "directed": "The Sanskrit term *buddhakṣetra* refers to a field or realm associated with a Buddha."
+   "text": "The Sanskrit term buddhakṣetra refers to a field or realm associated with a Buddha.",
+   "directed": "The Sanskrit term buddhakṣetra refers to a field or realm associated with a Buddha."
   },
   {
    "id": "b578",
@@ -4695,8 +4695,8 @@
    "section": "11. Buddha-fields: Have the Buddhas built their own fucking ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Could a world be structured by the awakening of the consciousness associated with it?**",
-   "directed": "**Could a world be structured by the awakening of the consciousness associated with it?**"
+   "text": "Could a world be structured by the awakening of the consciousness associated with it?",
+   "directed": "Could a world be structured by the awakening of the consciousness associated with it?"
   },
   {
    "id": "b587",
@@ -4831,8 +4831,8 @@
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "In Tibetan, it's commonly called *Dewachen*.",
-   "directed": "In Tibetan, it's commonly called *Dewachen*."
+   "text": "In Tibetan, it's commonly called Dewachen.",
+   "directed": "In Tibetan, it's commonly called Dewachen."
   },
   {
    "id": "b604",
@@ -4863,8 +4863,8 @@
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "According to the *Sukhāvatīvyūha* literature, the realm is characterized by extraordinary beauty, absence of the ordinary forms of suffering, and conditions that support the path toward awakening.",
-   "directed": "According to the *Sukhāvatīvyūha* literature, the realm is characterized by extraordinary beauty, absence of the ordinary forms of suffering, and conditions that support the path toward awakening."
+   "text": "According to the Sukhāvatīvyūha literature, the realm is characterized by extraordinary beauty, absence of the ordinary forms of suffering, and conditions that support the path toward awakening.",
+   "directed": "According to the Sukhāvatīvyūha literature, the realm is characterized by extraordinary beauty, absence of the ordinary forms of suffering, and conditions that support the path toward awakening."
   },
   {
    "id": "b608",
@@ -4943,16 +4943,16 @@
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "**The birds teach Buddhism.**",
-   "directed": "**The birds teach Buddhism.**"
+   "text": "The birds teach Buddhism.",
+   "directed": "The birds teach Buddhism."
   },
   {
    "id": "b618",
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "The shorter *Sukhāvatīvyūha Sūtra* explicitly explains that these are not animals undergoing an unfortunate lower rebirth.",
-   "directed": "The shorter *Sukhāvatīvyūha Sūtra* explicitly explains that these are not animals undergoing an unfortunate lower rebirth."
+   "text": "The shorter Sukhāvatīvyūha Sūtra explicitly explains that these are not animals undergoing an unfortunate lower rebirth.",
+   "directed": "The shorter Sukhāvatīvyūha Sūtra explicitly explains that these are not animals undergoing an unfortunate lower rebirth."
   },
   {
    "id": "b619",
@@ -4983,8 +4983,8 @@
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "*So even the fucking birds are teaching?*",
-   "directed": "*So even the fucking birds are teaching?*"
+   "text": "So even the fucking birds are teaching?",
+   "directed": "So even the fucking birds are teaching?"
   },
   {
    "id": "b623",
@@ -4999,8 +4999,8 @@
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "*And the wind?*",
-   "directed": "*And the wind?*"
+   "text": "And the wind?",
+   "directed": "And the wind?"
   },
   {
    "id": "b625",
@@ -5015,8 +5015,8 @@
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "*What happens if I go for a walk?*",
-   "directed": "*What happens if I go for a walk?*"
+   "text": "What happens if I go for a walk?",
+   "directed": "What happens if I go for a walk?"
   },
   {
    "id": "b627",
@@ -5031,8 +5031,8 @@
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "*What if I try to have a completely ordinary, spiritually unproductive afternoon?*",
-   "directed": "*What if I try to have a completely ordinary, spiritually unproductive afternoon?*"
+   "text": "What if I try to have a completely ordinary, spiritually unproductive afternoon?",
+   "directed": "What if I try to have a completely ordinary, spiritually unproductive afternoon?"
   },
   {
    "id": "b629",
@@ -5135,16 +5135,16 @@
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "Except instead of hiring a world-class meditation instructor, **the instructor is the wind, the birds, the trees and the entire surrounding reality**.",
-   "directed": "Except instead of hiring a world-class meditation instructor, **the instructor is the wind, the birds, the trees and the entire surrounding reality**."
+   "text": "Except instead of hiring a world-class meditation instructor, the instructor is the wind, the birds, the trees and the entire surrounding reality.",
+   "directed": "Except instead of hiring a world-class meditation instructor, the instructor is the wind, the birds, the trees and the entire surrounding reality."
   },
   {
    "id": "b642",
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why would a Buddha make such a place?",
-   "directed": "### Why would a Buddha make such a place?"
+   "text": "Why would a Buddha make such a place?",
+   "directed": "Why would a Buddha make such a place?"
   },
   {
    "id": "b643",
@@ -5191,8 +5191,8 @@
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "The shorter *Sukhāvatīvyūha*, preserved in the Tibetan Kangyur as Toh 115, presents the field and the conditions for rebirth there. The longer *Array of Amitābha*, Toh 49, develops the background of the vows.",
-   "directed": "The shorter *Sukhāvatīvyūha*, preserved in the Tibetan Kangyur as Toh 115, presents the field and the conditions for rebirth there. The longer *Array of Amitābha*, Toh 49, develops the background of the vows."
+   "text": "The shorter Sukhāvatīvyūha, preserved in the Tibetan Kangyur as Toh 115, presents the field and the conditions for rebirth there. The longer Array of Amitābha, Toh 49, develops the background of the vows.",
+   "directed": "The shorter Sukhāvatīvyūha, preserved in the Tibetan Kangyur as Toh 115, presents the field and the conditions for rebirth there. The longer Array of Amitābha, Toh 49, develops the background of the vows."
   },
   {
    "id": "b649",
@@ -5231,8 +5231,8 @@
    "section": "12. Sukhāvatī: Amitābha has apparently constructed an enligh",
    "type": "narration",
    "voice": "granny",
-   "text": "**You want to stop trying to attain enlightenment while constantly being sabotaged by the ordinary conditions of saṃsāra.**",
-   "directed": "**You want to stop trying to attain enlightenment while constantly being sabotaged by the ordinary conditions of saṃsāra.**"
+   "text": "You want to stop trying to attain enlightenment while constantly being sabotaged by the ordinary conditions of saṃsāra.",
+   "directed": "You want to stop trying to attain enlightenment while constantly being sabotaged by the ordinary conditions of saṃsāra."
   },
   {
    "id": "b654",
@@ -5375,8 +5375,8 @@
    "section": "13. Right. How do I actually get into Sukhāvatī?",
    "type": "narration",
    "voice": "granny",
-   "text": "| Recollection | Repeatedly bring Amitābha and Sukhāvatī to mind. |\n|--------|--------|\n| Merit and purification | Cultivate wholesome causes and counteract harmful ones. |\n| Bodhicitta | Generate the intention to awaken for the benefit of all beings. |\n| Aspiration and dedication | Direct virtue toward rebirth in the pure land and the completion of the path. |",
-   "directed": "| Recollection | Repeatedly bring Amitābha and Sukhāvatī to mind. |\n|--------|--------|\n| Merit and purification | Cultivate wholesome causes and counteract harmful ones. |\n| Bodhicitta | Generate the intention to awaken for the benefit of all beings. |\n| Aspiration and dedication | Direct virtue toward rebirth in the pure land and the completion of the path. |"
+   "text": "Recollection: Repeatedly bring Amitābha and Sukhāvatī to mind. Merit and purification: Cultivate wholesome causes and counteract harmful ones. Bodhicitta: Generate the intention to awaken for the benefit of all beings. Aspiration and dedication: Direct virtue toward rebirth in the pure land and the completion of the path.",
+   "directed": "Recollection: Repeatedly bring Amitābha and Sukhāvatī to mind. Merit and purification: Cultivate wholesome causes and counteract harmful ones. Bodhicitta: Generate the intention to awaken for the benefit of all beings. Aspiration and dedication: Direct virtue toward rebirth in the pure land and the completion of the path."
   },
   {
    "id": "b672",
@@ -5527,8 +5527,8 @@
    "section": "13. Right. How do I actually get into Sukhāvatī?",
    "type": "narration",
    "voice": "granny",
-   "text": "**You can aspire toward a situation in which the remaining work of awakening becomes vastly more favourable.**",
-   "directed": "**You can aspire toward a situation in which the remaining work of awakening becomes vastly more favourable.**"
+   "text": "You can aspire toward a situation in which the remaining work of awakening becomes vastly more favourable.",
+   "directed": "You can aspire toward a situation in which the remaining work of awakening becomes vastly more favourable."
   },
   {
    "id": "b691",
@@ -5655,8 +5655,8 @@
    "section": "14. Tuṣita: Another heaven? Oh, for fuck's sake.",
    "type": "narration",
    "voice": "granny",
-   "text": "In Tibetan, *Ganden*.",
-   "directed": "In Tibetan, *Ganden*."
+   "text": "In Tibetan, Ganden.",
+   "directed": "In Tibetan, Ganden."
   },
   {
    "id": "b707",
@@ -5679,24 +5679,24 @@
    "section": "14. Tuṣita: Another heaven? Oh, for fuck's sake.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Is this another pure land?*",
-   "directed": "*Is this another pure land?*"
+   "text": "Is this another pure land?",
+   "directed": "Is this another pure land?"
   },
   {
    "id": "b710",
    "section": "14. Tuṣita: Another heaven? Oh, for fuck's sake.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Another heaven?*",
-   "directed": "*Another heaven?*"
+   "text": "Another heaven?",
+   "directed": "Another heaven?"
   },
   {
    "id": "b711",
    "section": "14. Tuṣita: Another heaven? Oh, for fuck's sake.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Are there different departments?*",
-   "directed": "*Are there different departments?*"
+   "text": "Are there different departments?",
+   "directed": "Are there different departments?"
   },
   {
    "id": "b712",
@@ -5815,8 +5815,8 @@
    "section": "14. Tuṣita: Another heaven? Oh, for fuck's sake.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why would anyone want to go there?",
-   "directed": "### Why would anyone want to go there?"
+   "text": "Why would anyone want to go there?",
+   "directed": "Why would anyone want to go there?"
   },
   {
    "id": "b727",
@@ -5895,8 +5895,8 @@
    "section": "14. Tuṣita: Another heaven? Oh, for fuck's sake.",
    "type": "narration",
    "voice": "granny",
-   "text": "**You have just discovered the ultimate postgraduate programme.**",
-   "directed": "**You have just discovered the ultimate postgraduate programme.**"
+   "text": "You have just discovered the ultimate postgraduate programme.",
+   "directed": "You have just discovered the ultimate postgraduate programme."
   },
   {
    "id": "b737",
@@ -5943,8 +5943,8 @@
    "section": "14. Tuṣita: Another heaven? Oh, for fuck's sake.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Sukhāvatī versus Tuṣita",
-   "directed": "### Sukhāvatī versus Tuṣita"
+   "text": "Sukhāvatī versus Tuṣita",
+   "directed": "Sukhāvatī versus Tuṣita"
   },
   {
    "id": "b743",
@@ -6015,8 +6015,8 @@
    "section": "14. Tuṣita: Another heaven? Oh, for fuck's sake.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Where and how you continue practising matters.**",
-   "directed": "**Where and how you continue practising matters.**"
+   "text": "Where and how you continue practising matters.",
+   "directed": "Where and how you continue practising matters."
   },
   {
    "id": "b752",
@@ -6215,8 +6215,8 @@
    "section": "15. The scientific question: Could intention actually organi",
    "type": "narration",
    "voice": "granny",
-   "text": "**A person's future experience is not independent of the structure of their present activity.**",
-   "directed": "**A person's future experience is not independent of the structure of their present activity.**"
+   "text": "A person's future experience is not independent of the structure of their present activity.",
+   "directed": "A person's future experience is not independent of the structure of their present activity."
   },
   {
    "id": "b777",
@@ -6359,8 +6359,8 @@
    "section": "15. The scientific question: Could intention actually organi",
    "type": "narration",
    "voice": "granny",
-   "text": "**A deeply familiar orientation toward compassion.**",
-   "directed": "**A deeply familiar orientation toward compassion.**"
+   "text": "A deeply familiar orientation toward compassion.",
+   "directed": "A deeply familiar orientation toward compassion."
   },
   {
    "id": "b795",
@@ -6695,8 +6695,8 @@
    "section": "16. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Oṃ maṇi padme hūṃ.**",
-   "directed": "**Oṃ maṇi padme hūṃ.**"
+   "text": "Oṃ maṇi padme hūṃ.",
+   "directed": "Oṃ maṇi padme hūṃ."
   },
   {
    "id": "b837",
@@ -6743,8 +6743,8 @@
    "section": "16. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Earth dissolves into water",
-   "directed": "### Earth dissolves into water"
+   "text": "Earth dissolves into water",
+   "directed": "Earth dissolves into water"
   },
   {
    "id": "b843",
@@ -6807,8 +6807,8 @@
    "section": "16. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Water dissolves into fire",
-   "directed": "### Water dissolves into fire"
+   "text": "Water dissolves into fire",
+   "directed": "Water dissolves into fire"
   },
   {
    "id": "b851",
@@ -6855,8 +6855,8 @@
    "section": "16. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Fire dissolves into wind",
-   "directed": "### Fire dissolves into wind"
+   "text": "Fire dissolves into wind",
+   "directed": "Fire dissolves into wind"
   },
   {
    "id": "b857",
@@ -6895,8 +6895,8 @@
    "section": "16. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Wind dissolves into consciousness",
-   "directed": "### Wind dissolves into consciousness"
+   "text": "Wind dissolves into consciousness",
+   "directed": "Wind dissolves into consciousness"
   },
   {
    "id": "b862",
@@ -6959,8 +6959,8 @@
    "section": "16. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "**The clear light of death.**",
-   "directed": "**The clear light of death.**"
+   "text": "The clear light of death.",
+   "directed": "The clear light of death."
   },
   {
    "id": "b870",
@@ -7103,8 +7103,8 @@
    "section": "16. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "**You miss the highest immediate opportunity again.**",
-   "directed": "**You miss the highest immediate opportunity again.**"
+   "text": "You miss the highest immediate opportunity again.",
+   "directed": "You miss the highest immediate opportunity again."
   },
   {
    "id": "b888",
@@ -7255,8 +7255,8 @@
    "section": "17. You're dead, but this time you actually remember the fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "*I know this.*",
-   "directed": "*I know this.*"
+   "text": "I know this.",
+   "directed": "I know this."
   },
   {
    "id": "b907",
@@ -7327,8 +7327,8 @@
    "section": "17. You're dead, but this time you actually remember the fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "*What will happen to me?*",
-   "directed": "*What will happen to me?*"
+   "text": "What will happen to me?",
+   "directed": "What will happen to me?"
   },
   {
    "id": "b916",
@@ -7343,8 +7343,8 @@
    "section": "17. You're dead, but this time you actually remember the fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "*May whatever happens become beneficial to all beings.*",
-   "directed": "*May whatever happens become beneficial to all beings.*"
+   "text": "May whatever happens become beneficial to all beings.",
+   "directed": "May whatever happens become beneficial to all beings."
   },
   {
    "id": "b918",
@@ -7423,8 +7423,8 @@
    "section": "17. You're dead, but this time you actually remember the fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "### One life, three very different possible endings",
-   "directed": "### One life, three very different possible endings"
+   "text": "One life, three very different possible endings",
+   "directed": "One life, three very different possible endings"
   },
   {
    "id": "b928",
@@ -7439,8 +7439,8 @@
    "section": "17. You're dead, but this time you actually remember the fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "**First possibility: direct recognition.**",
-   "directed": "**First possibility: direct recognition.**"
+   "text": "First possibility: direct recognition.",
+   "directed": "First possibility: direct recognition."
   },
   {
    "id": "b930",
@@ -7471,8 +7471,8 @@
    "section": "17. You're dead, but this time you actually remember the fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "**Second possibility: rebirth in Sukhāvatī.**",
-   "directed": "**Second possibility: rebirth in Sukhāvatī.**"
+   "text": "Second possibility: rebirth in Sukhāvatī.",
+   "directed": "Second possibility: rebirth in Sukhāvatī."
   },
   {
    "id": "b934",
@@ -7503,8 +7503,8 @@
    "section": "17. You're dead, but this time you actually remember the fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "**Third possibility: another conditioned rebirth.**",
-   "directed": "**Third possibility: another conditioned rebirth.**"
+   "text": "Third possibility: another conditioned rebirth.",
+   "directed": "Third possibility: another conditioned rebirth."
   },
   {
    "id": "b938",
@@ -7559,8 +7559,8 @@
    "section": "17. You're dead, but this time you actually remember the fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "But because **the cultivation of merit and compassion does not in itself guarantee that every aspiration has fully matured**.",
-   "directed": "But because **the cultivation of merit and compassion does not in itself guarantee that every aspiration has fully matured**."
+   "text": "But because the cultivation of merit and compassion does not in itself guarantee that every aspiration has fully matured.",
+   "directed": "But because the cultivation of merit and compassion does not in itself guarantee that every aspiration has fully matured."
   },
   {
    "id": "b945",
@@ -7759,8 +7759,8 @@
    "section": "18. A surprising new destination",
    "type": "narration",
    "voice": "granny",
-   "text": "**Meditative realization itself.**",
-   "directed": "**Meditative realization itself.**"
+   "text": "Meditative realization itself.",
+   "directed": "Meditative realization itself."
   },
   {
    "id": "b970",
@@ -7911,16 +7911,16 @@
    "section": "19. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "You learn about *śamatha*, the stabilization of attention.",
-   "directed": "You learn about *śamatha*, the stabilization of attention."
+   "text": "You learn about śamatha, the stabilization of attention.",
+   "directed": "You learn about śamatha, the stabilization of attention."
   },
   {
    "id": "b989",
    "section": "19. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "*Vipaśyanā*, insight.",
-   "directed": "*Vipaśyanā*, insight."
+   "text": "Vipaśyanā, insight.",
+   "directed": "Vipaśyanā, insight."
   },
   {
    "id": "b990",
@@ -7975,8 +7975,8 @@
    "section": "19. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "You hear about **phowa**, the transference of consciousness.",
-   "directed": "You hear about **phowa**, the transference of consciousness."
+   "text": "You hear about phowa, the transference of consciousness.",
+   "directed": "You hear about phowa, the transference of consciousness."
   },
   {
    "id": "b997",
@@ -7999,8 +7999,8 @@
    "section": "19. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "The tradition calls this *tukdam*.",
-   "directed": "The tradition calls this *tukdam*."
+   "text": "The tradition calls this tukdam.",
+   "directed": "The tradition calls this tukdam."
   },
   {
    "id": "b1000",
@@ -8015,16 +8015,16 @@
    "section": "19. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "*Hang on.*",
-   "directed": "*Hang on.*"
+   "text": "Hang on.",
+   "directed": "Hang on."
   },
   {
    "id": "b1002",
    "section": "19. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "*Are you saying someone can die and yet remain in meditation?*",
-   "directed": "*Are you saying someone can die and yet remain in meditation?*"
+   "text": "Are you saying someone can die and yet remain in meditation?",
+   "directed": "Are you saying someone can die and yet remain in meditation?"
   },
   {
    "id": "b1003",
@@ -8039,8 +8039,8 @@
    "section": "19. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "*And the body sometimes remains unusually fresh?*",
-   "directed": "*And the body sometimes remains unusually fresh?*"
+   "text": "And the body sometimes remains unusually fresh?",
+   "directed": "And the body sometimes remains unusually fresh?"
   },
   {
    "id": "b1005",
@@ -8055,8 +8055,8 @@
    "section": "19. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "*And you're telling me the subtle mind may remain present after ordinary biological signs of death?*",
-   "directed": "*And you're telling me the subtle mind may remain present after ordinary biological signs of death?*"
+   "text": "And you're telling me the subtle mind may remain present after ordinary biological signs of death?",
+   "directed": "And you're telling me the subtle mind may remain present after ordinary biological signs of death?"
   },
   {
    "id": "b1007",
@@ -8143,8 +8143,8 @@
    "section": "19. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**You're actually going to fucking practise.**",
-   "directed": "**You're actually going to fucking practise.**"
+   "text": "You're actually going to fucking practise.",
+   "directed": "You're actually going to fucking practise."
   },
   {
    "id": "b1018",
@@ -8271,32 +8271,32 @@
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "*What do I want?*",
-   "directed": "*What do I want?*"
+   "text": "What do I want?",
+   "directed": "What do I want?"
   },
   {
    "id": "b1034",
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "*What threatens me?*",
-   "directed": "*What threatens me?*"
+   "text": "What threatens me?",
+   "directed": "What threatens me?"
   },
   {
    "id": "b1035",
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "*What can I acquire?*",
-   "directed": "*What can I acquire?*"
+   "text": "What can I acquire?",
+   "directed": "What can I acquire?"
   },
   {
    "id": "b1036",
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "*What must I defend?*",
-   "directed": "*What must I defend?*"
+   "text": "What must I defend?",
+   "directed": "What must I defend?"
   },
   {
    "id": "b1037",
@@ -8311,32 +8311,32 @@
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "*How can suffering be relieved?*",
-   "directed": "*How can suffering be relieved?*"
+   "text": "How can suffering be relieved?",
+   "directed": "How can suffering be relieved?"
   },
   {
    "id": "b1039",
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "*What causes liberation?*",
-   "directed": "*What causes liberation?*"
+   "text": "What causes liberation?",
+   "directed": "What causes liberation?"
   },
   {
    "id": "b1040",
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "*How can I cultivate the capacities to help?*",
-   "directed": "*How can I cultivate the capacities to help?*"
+   "text": "How can I cultivate the capacities to help?",
+   "directed": "How can I cultivate the capacities to help?"
   },
   {
    "id": "b1041",
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "*How can I act without treating myself and others as independently existing objects?*",
-   "directed": "*How can I act without treating myself and others as independently existing objects?*"
+   "text": "How can I act without treating myself and others as independently existing objects?",
+   "directed": "How can I act without treating myself and others as independently existing objects?"
   },
   {
    "id": "b1042",
@@ -8391,8 +8391,8 @@
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "**Compassion and wisdom begin to undermine the very self-centred ignorance that perpetuates saṃsāra.**",
-   "directed": "**Compassion and wisdom begin to undermine the very self-centred ignorance that perpetuates saṃsāra.**"
+   "text": "Compassion and wisdom begin to undermine the very self-centred ignorance that perpetuates saṃsāra.",
+   "directed": "Compassion and wisdom begin to undermine the very self-centred ignorance that perpetuates saṃsāra."
   },
   {
    "id": "b1049",
@@ -8479,8 +8479,8 @@
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "The great Mahāyāna aspirations aren't ultimately about making *your* saṃsāra nicer.",
-   "directed": "The great Mahāyāna aspirations aren't ultimately about making *your* saṃsāra nicer."
+   "text": "The great Mahāyāna aspirations aren't ultimately about making your saṃsāra nicer.",
+   "directed": "The great Mahāyāna aspirations aren't ultimately about making your saṃsāra nicer."
   },
   {
    "id": "b1060",
@@ -8583,16 +8583,16 @@
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "But because you've spent a lifetime becoming less dependent upon the idea that everything must happen for *you*.",
-   "directed": "But because you've spent a lifetime becoming less dependent upon the idea that everything must happen for *you*."
+   "text": "But because you've spent a lifetime becoming less dependent upon the idea that everything must happen for you.",
+   "directed": "But because you've spent a lifetime becoming less dependent upon the idea that everything must happen for you."
   },
   {
    "id": "b1073",
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "**You are still going to die.**",
-   "directed": "**You are still going to die.**"
+   "text": "You are still going to die.",
+   "directed": "You are still going to die."
   },
   {
    "id": "b1074",
@@ -8615,8 +8615,8 @@
    "section": "20. The final lesson: Merit does not buy liberation. It help",
    "type": "narration",
    "voice": "granny",
-   "text": "**Source distinction.** Karma Lingpa's *Bardo Thödol* provides the principal intermediate-state architecture. The *Kāraṇḍavyūha* supplies the early Indian scriptural basis for Avalokiteśvara's six-syllable mantra and its extraordinary efficacy claims. The Sukhāvatī sūtras describe Amitābha's field, while Tibetan masters such as Mipham systematize rebirth aspirations. The sensory-liberation and amulet teachings belong to additional tantric and Dzogchen traditions. These connected sources should not be mistaken for one original text or an empirically verified account of life after death.",
-   "directed": "**Source distinction.** Karma Lingpa's *Bardo Thödol* provides the principal intermediate-state architecture. The *Kāraṇḍavyūha* supplies the early Indian scriptural basis for Avalokiteśvara's six-syllable mantra and its extraordinary efficacy claims. The Sukhāvatī sūtras describe Amitābha's field, while Tibetan masters such as Mipham systematize rebirth aspirations. The sensory-liberation and amulet teachings belong to additional tantric and Dzogchen traditions. These connected sources should not be mistaken for one original text or an empirically verified account of life after death."
+   "text": "Source distinction. Karma Lingpa's Bardo Thödol provides the principal intermediate-state architecture. The Kāraṇḍavyūha supplies the early Indian scriptural basis for Avalokiteśvara's six-syllable mantra and its extraordinary efficacy claims. The Sukhāvatī sūtras describe Amitābha's field, while Tibetan masters such as Mipham systematize rebirth aspirations. The sensory-liberation and amulet teachings belong to additional tantric and Dzogchen traditions. These connected sources should not be mistaken for one original text or an empirically verified account of life after death.",
+   "directed": "Source distinction. Karma Lingpa's Bardo Thödol provides the principal intermediate-state architecture. The Kāraṇḍavyūha supplies the early Indian scriptural basis for Avalokiteśvara's six-syllable mantra and its extraordinary efficacy claims. The Sukhāvatī sūtras describe Amitābha's field, while Tibetan masters such as Mipham systematize rebirth aspirations. The sensory-liberation and amulet teachings belong to additional tantric and Dzogchen traditions. These connected sources should not be mistaken for one original text or an empirically verified account of life after death."
   },
   {
    "id": "b1077",

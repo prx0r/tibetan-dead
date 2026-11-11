@@ -31,8 +31,8 @@
    "section": "You're Dead Again. Please Stop Running Away from the Buddhas",
    "type": "narration",
    "voice": "granny",
-   "text": "*Based principally on Karma Lingpa's Bardo Thödol, the Great Liberation Through Hearing, with reference to the complete Gyurme Dorje translation, the Dawa-Samdup translation, Karma Lingpa's Root Verses, and later Tibetan bardo commentaries. All dialogue and comedy are original.*",
-   "directed": "*Based principally on Karma Lingpa's Bardo Thödol, the Great Liberation Through Hearing, with reference to the complete Gyurme Dorje translation, the Dawa-Samdup translation, Karma Lingpa's Root Verses, and later Tibetan bardo commentaries. All dialogue and comedy are original.*"
+   "text": "Based principally on Karma Lingpa's Bardo Thödol, the Great Liberation Through Hearing, with reference to the complete Gyurme Dorje translation, the Dawa-Samdup translation, Karma Lingpa's Root Verses, and later Tibetan bardo commentaries. All dialogue and comedy are original.",
+   "directed": "Based principally on Karma Lingpa's Bardo Thödol, the Great Liberation Through Hearing, with reference to the complete Gyurme Dorje translation, the Dawa-Samdup translation, Karma Lingpa's Root Verses, and later Tibetan bardo commentaries. All dialogue and comedy are original."
   },
   {
    "id": "b4",
@@ -295,8 +295,8 @@
    "section": "1. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "You've even learned to pronounce *dharmatā*.",
-   "directed": "You've even learned to pronounce *dharmatā*."
+   "text": "You've even learned to pronounce dharmatā.",
+   "directed": "You've even learned to pronounce dharmatā."
   },
   {
    "id": "b37",
@@ -311,8 +311,8 @@
    "section": "1. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**You understand the theory of nonattachment and are still personally attached to absolutely fucking everything.**",
-   "directed": "**You understand the theory of nonattachment and are still personally attached to absolutely fucking everything.**"
+   "text": "You understand the theory of nonattachment and are still personally attached to absolutely fucking everything.",
+   "directed": "You understand the theory of nonattachment and are still personally attached to absolutely fucking everything."
   },
   {
    "id": "b39",
@@ -591,8 +591,8 @@
    "section": "2. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "The conceptual machinery of *me, here, observing that, over there* falls away.",
-   "directed": "The conceptual machinery of *me, here, observing that, over there* falls away."
+   "text": "The conceptual machinery of me, here, observing that, over there falls away.",
+   "directed": "The conceptual machinery of me, here, observing that, over there falls away."
   },
   {
    "id": "b74",
@@ -631,8 +631,8 @@
    "section": "2. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Clear light.**",
-   "directed": "**Clear light.**"
+   "text": "Clear light.",
+   "directed": "Clear light."
   },
   {
    "id": "b79",
@@ -751,8 +751,8 @@
    "section": "2. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Congratulations. You have missed the most important appointment of your entire life for the second time.**",
-   "directed": "**Congratulations. You have missed the most important appointment of your entire life for the second time.**"
+   "text": "Congratulations. You have missed the most important appointment of your entire life for the second time.",
+   "directed": "Congratulations. You have missed the most important appointment of your entire life for the second time."
   },
   {
    "id": "b94",
@@ -807,8 +807,8 @@
    "section": "3. The six bardos: Buddhism's deeply inconvenient understand",
    "type": "narration",
    "voice": "granny",
-   "text": "A *bardo* is an intermediate state.",
-   "directed": "A *bardo* is an intermediate state."
+   "text": "A bardo is an intermediate state.",
+   "directed": "A bardo is an intermediate state."
   },
   {
    "id": "b101",
@@ -823,8 +823,8 @@
    "section": "3. The six bardos: Buddhism's deeply inconvenient understand",
    "type": "narration",
    "voice": "granny",
-   "text": "**Everything you ordinarily call your life is already an intermediate state.**",
-   "directed": "**Everything you ordinarily call your life is already an intermediate state.**"
+   "text": "Everything you ordinarily call your life is already an intermediate state.",
+   "directed": "Everything you ordinarily call your life is already an intermediate state."
   },
   {
    "id": "b103",
@@ -855,8 +855,8 @@
    "section": "3. The six bardos: Buddhism's deeply inconvenient understand",
    "type": "narration",
    "voice": "granny",
-   "text": "The Tibetan teachings describe six bardos, three associated with living experience and three particularly associated with death and rebirth. Karma Lingpa's actual *Root Verses on the Six Bardos* lays these out.",
-   "directed": "The Tibetan teachings describe six bardos, three associated with living experience and three particularly associated with death and rebirth. Karma Lingpa's actual *Root Verses on the Six Bardos* lays these out."
+   "text": "The Tibetan teachings describe six bardos, three associated with living experience and three particularly associated with death and rebirth. Karma Lingpa's actual Root Verses on the Six Bardos lays these out.",
+   "directed": "The Tibetan teachings describe six bardos, three associated with living experience and three particularly associated with death and rebirth. Karma Lingpa's actual Root Verses on the Six Bardos lays these out."
   },
   {
    "id": "b107",
@@ -871,8 +871,8 @@
    "section": "3. The six bardos: Buddhism's deeply inconvenient understand",
    "type": "narration",
    "voice": "granny",
-   "text": "| 1. Life | The interval between birth and dying. The training ground. |\n|--------|--------|\n| 2. Dream | The dream state, in which experience seems real until recognized. |\n| 3. Meditation | States of meditative absorption in which awareness is trained. |\n| 4. Dying | The dissolution of embodied functions and emergence of ground luminosity. |\n| 5. Dharmatā | The luminous display of reality's nature, including the peaceful and wrathful appearances. |\n| 6. Becoming | Karmically conditioned movement towards a new existence. |",
-   "directed": "| 1. Life | The interval between birth and dying. The training ground. |\n|--------|--------|\n| 2. Dream | The dream state, in which experience seems real until recognized. |\n| 3. Meditation | States of meditative absorption in which awareness is trained. |\n| 4. Dying | The dissolution of embodied functions and emergence of ground luminosity. |\n| 5. Dharmatā | The luminous display of reality's nature, including the peaceful and wrathful appearances. |\n| 6. Becoming | Karmically conditioned movement towards a new existence. |"
+   "text": "1. Life: The interval between birth and dying. The training ground. 2. Dream: The dream state, in which experience seems real until recognized. 3. Meditation: States of meditative absorption in which awareness is trained. 4. Dying: The dissolution of embodied functions and emergence of ground luminosity. 5. Dharmatā: The luminous display of reality's nature, including the peaceful and wrathful appearances. 6. Becoming: Karmically conditioned movement towards a new existence.",
+   "directed": "1. Life: The interval between birth and dying. The training ground. 2. Dream: The dream state, in which experience seems real until recognized. 3. Meditation: States of meditative absorption in which awareness is trained. 4. Dying: The dissolution of embodied functions and emergence of ground luminosity. 5. Dharmatā: The luminous display of reality's nature, including the peaceful and wrathful appearances. 6. Becoming: Karmically conditioned movement towards a new existence."
   },
   {
    "id": "b109",
@@ -895,8 +895,8 @@
    "section": "3. The six bardos: Buddhism's deeply inconvenient understand",
    "type": "narration",
    "voice": "granny",
-   "text": "**You have been rehearsing death your entire life.**",
-   "directed": "**You have been rehearsing death your entire life.**"
+   "text": "You have been rehearsing death your entire life.",
+   "directed": "You have been rehearsing death your entire life."
   },
   {
    "id": "b112",
@@ -1079,8 +1079,8 @@
    "section": "3. The six bardos: Buddhism's deeply inconvenient understand",
    "type": "narration",
    "voice": "granny",
-   "text": "Phenomena are *empty of inherent existence*, not necessarily nonexistent.",
-   "directed": "Phenomena are *empty of inherent existence*, not necessarily nonexistent."
+   "text": "Phenomena are empty of inherent existence, not necessarily nonexistent.",
+   "directed": "Phenomena are empty of inherent existence, not necessarily nonexistent."
   },
   {
    "id": "b135",
@@ -1119,8 +1119,8 @@
    "section": "3. The six bardos: Buddhism's deeply inconvenient understand",
    "type": "narration",
    "voice": "granny",
-   "text": "The *chönyi bardo*.",
-   "directed": "The *chönyi bardo*."
+   "text": "The chönyi bardo.",
+   "directed": "The chönyi bardo."
   },
   {
    "id": "b140",
@@ -1207,8 +1207,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "According to the *Bardo Thödol*, the visions are radiant, overwhelming and accompanied by tremendous sounds, often compared to thunder.",
-   "directed": "According to the *Bardo Thödol*, the visions are radiant, overwhelming and accompanied by tremendous sounds, often compared to thunder."
+   "text": "According to the Bardo Thödol, the visions are radiant, overwhelming and accompanied by tremendous sounds, often compared to thunder.",
+   "directed": "According to the Bardo Thödol, the visions are radiant, overwhelming and accompanied by tremendous sounds, often compared to thunder."
   },
   {
    "id": "b151",
@@ -1279,8 +1279,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "**A mandala.**",
-   "directed": "**A mandala.**"
+   "text": "A mandala.",
+   "directed": "A mandala."
   },
   {
    "id": "b160",
@@ -1399,8 +1399,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "**Enlightenment isn't the destruction of your capacity to experience. It's the end of experiencing everything through compulsive misrecognition.**",
-   "directed": "**Enlightenment isn't the destruction of your capacity to experience. It's the end of experiencing everything through compulsive misrecognition.**"
+   "text": "Enlightenment isn't the destruction of your capacity to experience. It's the end of experiencing everything through compulsive misrecognition.",
+   "directed": "Enlightenment isn't the destruction of your capacity to experience. It's the end of experiencing everything through compulsive misrecognition."
   },
   {
    "id": "b175",
@@ -1415,8 +1415,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "### The first day: Vairocana",
-   "directed": "### The first day: Vairocana"
+   "text": "The first day: Vairocana",
+   "directed": "The first day: Vairocana"
   },
   {
    "id": "b177",
@@ -1535,8 +1535,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "*Do you have anything with softer lighting?*",
-   "directed": "*Do you have anything with softer lighting?*"
+   "text": "Do you have anything with softer lighting?",
+   "directed": "Do you have anything with softer lighting?"
   },
   {
    "id": "b192",
@@ -1631,8 +1631,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "**The problem is that you interpret the collapse of ignorance as a threat to yourself.**",
-   "directed": "**The problem is that you interpret the collapse of ignorance as a threat to yourself.**"
+   "text": "The problem is that you interpret the collapse of ignorance as a threat to yourself.",
+   "directed": "The problem is that you interpret the collapse of ignorance as a threat to yourself."
   },
   {
    "id": "b204",
@@ -1671,8 +1671,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "### The second day: Akṣobhya",
-   "directed": "### The second day: Akṣobhya"
+   "text": "The second day: Akṣobhya",
+   "directed": "The second day: Akṣobhya"
   },
   {
    "id": "b209",
@@ -1855,8 +1855,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "**You've just chosen the spiritual equivalent of a polluted industrial estate over perfect wisdom because the industrial estate looked less intimidating.**",
-   "directed": "**You've just chosen the spiritual equivalent of a polluted industrial estate over perfect wisdom because the industrial estate looked less intimidating.**"
+   "text": "You've just chosen the spiritual equivalent of a polluted industrial estate over perfect wisdom because the industrial estate looked less intimidating.",
+   "directed": "You've just chosen the spiritual equivalent of a polluted industrial estate over perfect wisdom because the industrial estate looked less intimidating."
   },
   {
    "id": "b232",
@@ -1871,8 +1871,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "### The third day: Ratnasambhava",
-   "directed": "### The third day: Ratnasambhava"
+   "text": "The third day: Ratnasambhava",
+   "directed": "The third day: Ratnasambhava"
   },
   {
    "id": "b234",
@@ -1935,24 +1935,24 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "*I am particularly significant.*",
-   "directed": "*I am particularly significant.*"
+   "text": "I am particularly significant.",
+   "directed": "I am particularly significant."
   },
   {
    "id": "b242",
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "*My accomplishments are particularly significant.*",
-   "directed": "*My accomplishments are particularly significant.*"
+   "text": "My accomplishments are particularly significant.",
+   "directed": "My accomplishments are particularly significant."
   },
   {
    "id": "b243",
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "*My preferences are particularly significant.*",
-   "directed": "*My preferences are particularly significant.*"
+   "text": "My preferences are particularly significant.",
+   "directed": "My preferences are particularly significant."
   },
   {
    "id": "b244",
@@ -2071,8 +2071,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "### The fourth day: Amitābha",
-   "directed": "### The fourth day: Amitābha"
+   "text": "The fourth day: Amitābha",
+   "directed": "The fourth day: Amitābha"
   },
   {
    "id": "b259",
@@ -2191,32 +2191,32 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "*That thing is beautiful.*",
-   "directed": "*That thing is beautiful.*"
+   "text": "That thing is beautiful.",
+   "directed": "That thing is beautiful."
   },
   {
    "id": "b274",
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "*Therefore I must possess it.*",
-   "directed": "*Therefore I must possess it.*"
+   "text": "Therefore I must possess it.",
+   "directed": "Therefore I must possess it."
   },
   {
    "id": "b275",
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "*Therefore I must preserve it.*",
-   "directed": "*Therefore I must preserve it.*"
+   "text": "Therefore I must preserve it.",
+   "directed": "Therefore I must preserve it."
   },
   {
    "id": "b276",
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "*Therefore I will become miserable when it changes.*",
-   "directed": "*Therefore I will become miserable when it changes.*"
+   "text": "Therefore I will become miserable when it changes.",
+   "directed": "Therefore I will become miserable when it changes."
   },
   {
    "id": "b277",
@@ -2255,8 +2255,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "*I just need one more thing.*",
-   "directed": "*I just need one more thing.*"
+   "text": "I just need one more thing.",
+   "directed": "I just need one more thing."
   },
   {
    "id": "b282",
@@ -2287,8 +2287,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "### The fifth day: Amoghasiddhi",
-   "directed": "### The fifth day: Amoghasiddhi"
+   "text": "The fifth day: Amoghasiddhi",
+   "directed": "The fifth day: Amoghasiddhi"
   },
   {
    "id": "b286",
@@ -2423,8 +2423,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "### The sixth day: The entire fucking mandala",
-   "directed": "### The sixth day: The entire fucking mandala"
+   "text": "The sixth day: The entire fucking mandala",
+   "directed": "The sixth day: The entire fucking mandala"
   },
   {
    "id": "b303",
@@ -2591,8 +2591,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "One thing needs particular precision: the classic sixth-day sequence emphasizes the *four wisdom lights united*, explaining that the green light of all-accomplishing wisdom does not manifest in the same way at that stage. It isn't merely an uncomplicated five-colour light show.",
-   "directed": "One thing needs particular precision: the classic sixth-day sequence emphasizes the *four wisdom lights united*, explaining that the green light of all-accomplishing wisdom does not manifest in the same way at that stage. It isn't merely an uncomplicated five-colour light show."
+   "text": "One thing needs particular precision: the classic sixth-day sequence emphasizes the four wisdom lights united, explaining that the green light of all-accomplishing wisdom does not manifest in the same way at that stage. It isn't merely an uncomplicated five-colour light show.",
+   "directed": "One thing needs particular precision: the classic sixth-day sequence emphasizes the four wisdom lights united, explaining that the green light of all-accomplishing wisdom does not manifest in the same way at that stage. It isn't merely an uncomplicated five-colour light show."
   },
   {
    "id": "b324",
@@ -2607,8 +2607,8 @@
    "section": "4. Forty-two Buddhas have arrived. You are already frightene",
    "type": "narration",
    "voice": "granny",
-   "text": "**The entire architecture of awakened experience is being disclosed.**",
-   "directed": "**The entire architecture of awakened experience is being disclosed.**"
+   "text": "The entire architecture of awakened experience is being disclosed.",
+   "directed": "The entire architecture of awakened experience is being disclosed."
   },
   {
    "id": "b326",
@@ -2703,8 +2703,8 @@
    "section": "5. Why are these deities appearing inside your mind?",
    "type": "narration",
    "voice": "granny",
-   "text": "But **that is not quite the same as reducing them to random hallucinations generated by a dying brain.**",
-   "directed": "But **that is not quite the same as reducing them to random hallucinations generated by a dying brain.**"
+   "text": "But that is not quite the same as reducing them to random hallucinations generated by a dying brain.",
+   "directed": "But that is not quite the same as reducing them to random hallucinations generated by a dying brain."
   },
   {
    "id": "b338",
@@ -2799,8 +2799,8 @@
    "section": "5. Why are these deities appearing inside your mind?",
    "type": "narration",
    "voice": "granny",
-   "text": "This is where Dzogchen's language of *rigpa*, awakened awareness, becomes important.",
-   "directed": "This is where Dzogchen's language of *rigpa*, awakened awareness, becomes important."
+   "text": "This is where Dzogchen's language of rigpa, awakened awareness, becomes important.",
+   "directed": "This is where Dzogchen's language of rigpa, awakened awareness, becomes important."
   },
   {
    "id": "b350",
@@ -2839,16 +2839,16 @@
    "section": "5. Why are these deities appearing inside your mind?",
    "type": "narration",
    "voice": "granny",
-   "text": "**The appearance and its knowing are recognized without the ordinary error of treating subject and object as self-existing entities.**",
-   "directed": "**The appearance and its knowing are recognized without the ordinary error of treating subject and object as self-existing entities.**"
+   "text": "The appearance and its knowing are recognized without the ordinary error of treating subject and object as self-existing entities.",
+   "directed": "The appearance and its knowing are recognized without the ordinary error of treating subject and object as self-existing entities."
   },
   {
    "id": "b355",
    "section": "5. Why are these deities appearing inside your mind?",
    "type": "narration",
    "voice": "granny",
-   "text": "Karma Lingpa's *Root Verses* explicitly direct the practitioner to recognize whatever appears as the display of awareness and not to fear the peaceful and wrathful deities.",
-   "directed": "Karma Lingpa's *Root Verses* explicitly direct the practitioner to recognize whatever appears as the display of awareness and not to fear the peaceful and wrathful deities."
+   "text": "Karma Lingpa's Root Verses explicitly direct the practitioner to recognize whatever appears as the display of awareness and not to fear the peaceful and wrathful deities.",
+   "directed": "Karma Lingpa's Root Verses explicitly direct the practitioner to recognize whatever appears as the display of awareness and not to fear the peaceful and wrathful deities."
   },
   {
    "id": "b356",
@@ -2895,8 +2895,8 @@
    "section": "5. Why are these deities appearing inside your mind?",
    "type": "narration",
    "voice": "granny",
-   "text": "**This time carrying skulls.**",
-   "directed": "**This time carrying skulls.**"
+   "text": "This time carrying skulls.",
+   "directed": "This time carrying skulls."
   },
   {
    "id": "b362",
@@ -2919,8 +2919,8 @@
    "section": "6. The seventh day: the knowledge-holders throw a party",
    "type": "narration",
    "voice": "granny",
-   "text": "On the seventh day, the text describes an assembly of *vidyādharas* - knowledge-holders - accompanied by ḍākinīs.",
-   "directed": "On the seventh day, the text describes an assembly of *vidyādharas* - knowledge-holders - accompanied by ḍākinīs."
+   "text": "On the seventh day, the text describes an assembly of vidyādharas - knowledge-holders - accompanied by ḍākinīs.",
+   "directed": "On the seventh day, the text describes an assembly of vidyādharas - knowledge-holders - accompanied by ḍākinīs."
   },
   {
    "id": "b365",
@@ -3135,8 +3135,8 @@
    "section": "6. The seventh day: the knowledge-holders throw a party",
    "type": "narration",
    "voice": "granny",
-   "text": "*This is getting a bit much.*",
-   "directed": "*This is getting a bit much.*"
+   "text": "This is getting a bit much.",
+   "directed": "This is getting a bit much."
   },
   {
    "id": "b392",
@@ -3335,8 +3335,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "**The wrathful deity is not an enemy of enlightenment. It is an expression of enlightenment.**",
-   "directed": "**The wrathful deity is not an enemy of enlightenment. It is an expression of enlightenment.**"
+   "text": "The wrathful deity is not an enemy of enlightenment. It is an expression of enlightenment.",
+   "directed": "The wrathful deity is not an enemy of enlightenment. It is an expression of enlightenment."
   },
   {
    "id": "b417",
@@ -3359,8 +3359,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "*It wants to kill me.*",
-   "directed": "*It wants to kill me.*"
+   "text": "It wants to kill me.",
+   "directed": "It wants to kill me."
   },
   {
    "id": "b420",
@@ -3375,8 +3375,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "*Recognize its nature.*",
-   "directed": "*Recognize its nature.*"
+   "text": "Recognize its nature.",
+   "directed": "Recognize its nature."
   },
   {
    "id": "b422",
@@ -3391,8 +3391,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "*It has six hands and is holding a human skull.*",
-   "directed": "*It has six hands and is holding a human skull.*"
+   "text": "It has six hands and is holding a human skull.",
+   "directed": "It has six hands and is holding a human skull."
   },
   {
    "id": "b424",
@@ -3407,8 +3407,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "*Recognize its nature.*",
-   "directed": "*Recognize its nature.*"
+   "text": "Recognize its nature.",
+   "directed": "Recognize its nature."
   },
   {
    "id": "b426",
@@ -3423,8 +3423,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "*I would prefer to conduct this conversation from a considerable distance.*",
-   "directed": "*I would prefer to conduct this conversation from a considerable distance.*"
+   "text": "I would prefer to conduct this conversation from a considerable distance.",
+   "directed": "I would prefer to conduct this conversation from a considerable distance."
   },
   {
    "id": "b428",
@@ -3559,8 +3559,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "### Days nine through twelve: four more attempts",
-   "directed": "### Days nine through twelve: four more attempts"
+   "text": "Days nine through twelve: four more attempts",
+   "directed": "Days nine through twelve: four more attempts"
   },
   {
    "id": "b445",
@@ -3655,8 +3655,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "**The obstacle is your failure to recognize what appears.**",
-   "directed": "**The obstacle is your failure to recognize what appears.**"
+   "text": "The obstacle is your failure to recognize what appears.",
+   "directed": "The obstacle is your failure to recognize what appears."
   },
   {
    "id": "b457",
@@ -3775,8 +3775,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "### Day thirteen: things become considerably worse",
-   "directed": "### Day thirteen: things become considerably worse"
+   "text": "Day thirteen: things become considerably worse",
+   "directed": "Day thirteen: things become considerably worse"
   },
   {
    "id": "b472",
@@ -3903,8 +3903,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "**Nothing appearing in experience possesses the independent nature your fear attributes to it.**",
-   "directed": "**Nothing appearing in experience possesses the independent nature your fear attributes to it.**"
+   "text": "Nothing appearing in experience possesses the independent nature your fear attributes to it.",
+   "directed": "Nothing appearing in experience possesses the independent nature your fear attributes to it."
   },
   {
    "id": "b488",
@@ -3919,8 +3919,8 @@
    "section": "7. The eighth day: The Buddhas have decided to become absolu",
    "type": "narration",
    "voice": "granny",
-   "text": "The instructions in the actual *Bardo Thödol* repeatedly identify the wrathful forms with the peaceful Buddha families and direct the deceased not to fear their appearance.",
-   "directed": "The instructions in the actual *Bardo Thödol* repeatedly identify the wrathful forms with the peaceful Buddha families and direct the deceased not to fear their appearance."
+   "text": "The instructions in the actual Bardo Thödol repeatedly identify the wrathful forms with the peaceful Buddha families and direct the deceased not to fear their appearance.",
+   "directed": "The instructions in the actual Bardo Thödol repeatedly identify the wrathful forms with the peaceful Buddha families and direct the deceased not to fear their appearance."
   },
   {
    "id": "b490",
@@ -4263,16 +4263,16 @@
    "section": "8. You have a body again. Unfortunately, it's a fucking ghos",
    "type": "narration",
    "voice": "granny",
-   "text": "**You are still dead.**",
-   "directed": "**You are still dead.**"
+   "text": "You are still dead.",
+   "directed": "You are still dead."
   },
   {
    "id": "b533",
    "section": "8. You have a body again. Unfortunately, it's a fucking ghos",
    "type": "narration",
    "voice": "granny",
-   "text": "In the bardo of becoming, Tibetan texts describe a mind-made or mentally conditioned body, sometimes called a *yid lus*.",
-   "directed": "In the bardo of becoming, Tibetan texts describe a mind-made or mentally conditioned body, sometimes called a *yid lus*."
+   "text": "In the bardo of becoming, Tibetan texts describe a mind-made or mentally conditioned body, sometimes called a yid lus.",
+   "directed": "In the bardo of becoming, Tibetan texts describe a mind-made or mentally conditioned body, sometimes called a yid lus."
   },
   {
    "id": "b534",
@@ -4335,8 +4335,8 @@
    "section": "8. You have a body again. Unfortunately, it's a fucking ghos",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Bardo Thödol* describes the deceased seeing family members, attempting to speak, receiving no reply and becoming distressed upon realizing the situation.",
-   "directed": "The *Bardo Thödol* describes the deceased seeing family members, attempting to speak, receiving no reply and becoming distressed upon realizing the situation."
+   "text": "The Bardo Thödol describes the deceased seeing family members, attempting to speak, receiving no reply and becoming distressed upon realizing the situation.",
+   "directed": "The Bardo Thödol describes the deceased seeing family members, attempting to speak, receiving no reply and becoming distressed upon realizing the situation."
   },
   {
    "id": "b542",
@@ -4367,8 +4367,8 @@
    "section": "8. You have a body again. Unfortunately, it's a fucking ghos",
    "type": "narration",
    "voice": "granny",
-   "text": "**What makes a body a body?**",
-   "directed": "**What makes a body a body?**"
+   "text": "What makes a body a body?",
+   "directed": "What makes a body a body?"
   },
   {
    "id": "b546",
@@ -4487,8 +4487,8 @@
    "section": "8. You have a body again. Unfortunately, it's a fucking ghos",
    "type": "narration",
    "voice": "granny",
-   "text": "### The most embarrassing possible use of supernatural powers",
-   "directed": "### The most embarrassing possible use of supernatural powers"
+   "text": "The most embarrassing possible use of supernatural powers",
+   "directed": "The most embarrassing possible use of supernatural powers"
   },
   {
    "id": "b561",
@@ -4927,8 +4927,8 @@
    "section": "9. There is a judge. You are about to discover why that is n",
    "type": "narration",
    "voice": "granny",
-   "text": "**The Lord of Death is not an independently existing cosmic judge.**",
-   "directed": "**The Lord of Death is not an independently existing cosmic judge.**"
+   "text": "The Lord of Death is not an independently existing cosmic judge.",
+   "directed": "The Lord of Death is not an independently existing cosmic judge."
   },
   {
    "id": "b616",
@@ -5055,8 +5055,8 @@
    "section": "9. There is a judge. You are about to discover why that is n",
    "type": "narration",
    "voice": "granny",
-   "text": "**Actions don't merely produce external consequences. They condition the very form of future experience.**",
-   "directed": "**Actions don't merely produce external consequences. They condition the very form of future experience.**"
+   "text": "Actions don't merely produce external consequences. They condition the very form of future experience.",
+   "directed": "Actions don't merely produce external consequences. They condition the very form of future experience."
   },
   {
    "id": "b632",
@@ -5191,8 +5191,8 @@
    "section": "9. There is a judge. You are about to discover why that is n",
    "type": "narration",
    "voice": "granny",
-   "text": "**You could recognize the empty nature of experience and stop the whole process.**",
-   "directed": "**You could recognize the empty nature of experience and stop the whole process.**"
+   "text": "You could recognize the empty nature of experience and stop the whole process.",
+   "directed": "You could recognize the empty nature of experience and stop the whole process."
   },
   {
    "id": "b649",
@@ -5567,8 +5567,8 @@
    "section": "10. Forty-nine days. The worst possible holiday.",
    "type": "narration",
    "voice": "granny",
-   "text": "**At least direct the continuum toward a favourable rebirth.**",
-   "directed": "**At least direct the continuum toward a favourable rebirth.**"
+   "text": "At least direct the continuum toward a favourable rebirth.",
+   "directed": "At least direct the continuum toward a favourable rebirth."
   },
   {
    "id": "b696",
@@ -5639,8 +5639,8 @@
    "section": "10. Forty-nine days. The worst possible holiday.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Please recognize the nature of mind.*",
-   "directed": "*Please recognize the nature of mind.*"
+   "text": "Please recognize the nature of mind.",
+   "directed": "Please recognize the nature of mind."
   },
   {
    "id": "b705",
@@ -5655,8 +5655,8 @@
    "section": "10. Forty-nine days. The worst possible holiday.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Please recognize the peaceful Buddhas.*",
-   "directed": "*Please recognize the peaceful Buddhas.*"
+   "text": "Please recognize the peaceful Buddhas.",
+   "directed": "Please recognize the peaceful Buddhas."
   },
   {
    "id": "b707",
@@ -5671,8 +5671,8 @@
    "section": "10. Forty-nine days. The worst possible holiday.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Please recognize the wrathful Buddhas.*",
-   "directed": "*Please recognize the wrathful Buddhas.*"
+   "text": "Please recognize the wrathful Buddhas.",
+   "directed": "Please recognize the wrathful Buddhas."
   },
   {
    "id": "b709",
@@ -5687,8 +5687,8 @@
    "section": "10. Forty-nine days. The worst possible holiday.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Please stop reacting with terror.*",
-   "directed": "*Please stop reacting with terror.*"
+   "text": "Please stop reacting with terror.",
+   "directed": "Please stop reacting with terror."
   },
   {
    "id": "b711",
@@ -5703,8 +5703,8 @@
    "section": "10. Forty-nine days. The worst possible holiday.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Could you at least remember compassion?*",
-   "directed": "*Could you at least remember compassion?*"
+   "text": "Could you at least remember compassion?",
+   "directed": "Could you at least remember compassion?"
   },
   {
    "id": "b713",
@@ -5719,8 +5719,8 @@
    "section": "10. Forty-nine days. The worst possible holiday.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Please, for the love of all sentient beings, don't accidentally become a cockroach.*",
-   "directed": "*Please, for the love of all sentient beings, don't accidentally become a cockroach.*"
+   "text": "Please, for the love of all sentient beings, don't accidentally become a cockroach.",
+   "directed": "Please, for the love of all sentient beings, don't accidentally become a cockroach."
   },
   {
    "id": "b715",
@@ -5775,8 +5775,8 @@
    "section": "11. The six realms: choose your next disaster",
    "type": "narration",
    "voice": "granny",
-   "text": "| Gods - devas | Extraordinary pleasure and power, but still impermanent. Even the gods die. |\n|--------|--------|\n| Demi-gods - asuras | Rivalry, competition, jealousy and conflict. |\n| Humans | Mixed pleasure and suffering, but a particularly valuable opportunity for Dharma. |\n| Animals | Vulnerability, fear, exploitation and impediments to reflective spiritual practice. |\n| Hungry ghosts - pretas | Overwhelming deprivation and craving without satisfaction. |\n| Hell beings - narakas | Extreme suffering associated with destructive karmic conditions; still impermanent. |",
-   "directed": "| Gods - devas | Extraordinary pleasure and power, but still impermanent. Even the gods die. |\n|--------|--------|\n| Demi-gods - asuras | Rivalry, competition, jealousy and conflict. |\n| Humans | Mixed pleasure and suffering, but a particularly valuable opportunity for Dharma. |\n| Animals | Vulnerability, fear, exploitation and impediments to reflective spiritual practice. |\n| Hungry ghosts - pretas | Overwhelming deprivation and craving without satisfaction. |\n| Hell beings - narakas | Extreme suffering associated with destructive karmic conditions; still impermanent. |"
+   "text": "Gods - devas: Extraordinary pleasure and power, but still impermanent. Even the gods die. Demi-gods - asuras: Rivalry, competition, jealousy and conflict. Humans: Mixed pleasure and suffering, but a particularly valuable opportunity for Dharma. Animals: Vulnerability, fear, exploitation and impediments to reflective spiritual practice. Hungry ghosts - pretas: Overwhelming deprivation and craving without satisfaction. Hell beings - narakas: Extreme suffering associated with destructive karmic conditions; still impermanent.",
+   "directed": "Gods - devas: Extraordinary pleasure and power, but still impermanent. Even the gods die. Demi-gods - asuras: Rivalry, competition, jealousy and conflict. Humans: Mixed pleasure and suffering, but a particularly valuable opportunity for Dharma. Animals: Vulnerability, fear, exploitation and impediments to reflective spiritual practice. Hungry ghosts - pretas: Overwhelming deprivation and craving without satisfaction. Hell beings - narakas: Extreme suffering associated with destructive karmic conditions; still impermanent."
   },
   {
    "id": "b722",
@@ -6039,8 +6039,8 @@
    "section": "11. The six realms: choose your next disaster",
    "type": "narration",
    "voice": "granny",
-   "text": "**How does craving actually become another birth?**",
-   "directed": "**How does craving actually become another birth?**"
+   "text": "How does craving actually become another birth?",
+   "directed": "How does craving actually become another birth?"
   },
   {
    "id": "b755",
@@ -6111,8 +6111,8 @@
    "section": "12. The womb door: Oh, you absolute idiot.",
    "type": "narration",
    "voice": "granny",
-   "text": "In the *Bardo Thödol*, the description of womb-entry includes visions of prospective parents in sexual union.",
-   "directed": "In the *Bardo Thödol*, the description of womb-entry includes visions of prospective parents in sexual union."
+   "text": "In the Bardo Thödol, the description of womb-entry includes visions of prospective parents in sexual union.",
+   "directed": "In the Bardo Thödol, the description of womb-entry includes visions of prospective parents in sexual union."
   },
   {
    "id": "b764",
@@ -6271,8 +6271,8 @@
    "section": "12. The womb door: Oh, you absolute idiot.",
    "type": "narration",
    "voice": "granny",
-   "text": "**The great catastrophe of saṃsāra is not that you voluntarily choose to reincarnate. It is that you keep mistaking compulsive attraction for free choice.**",
-   "directed": "**The great catastrophe of saṃsāra is not that you voluntarily choose to reincarnate. It is that you keep mistaking compulsive attraction for free choice.**"
+   "text": "The great catastrophe of saṃsāra is not that you voluntarily choose to reincarnate. It is that you keep mistaking compulsive attraction for free choice.",
+   "directed": "The great catastrophe of saṃsāra is not that you voluntarily choose to reincarnate. It is that you keep mistaking compulsive attraction for free choice."
   },
   {
    "id": "b784",
@@ -6287,8 +6287,8 @@
    "section": "12. The womb door: Oh, you absolute idiot.",
    "type": "narration",
    "voice": "granny",
-   "text": "It calls this *closing the womb door*.",
-   "directed": "It calls this *closing the womb door*."
+   "text": "It calls this closing the womb door.",
+   "directed": "It calls this closing the womb door."
   },
   {
    "id": "b786",
@@ -6871,8 +6871,8 @@
    "section": "13. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**What the fuck is merit, and how could giving a piece of food to a lizard possibly alter the destiny of consciousness?**",
-   "directed": "**What the fuck is merit, and how could giving a piece of food to a lizard possibly alter the destiny of consciousness?**"
+   "text": "What the fuck is merit, and how could giving a piece of food to a lizard possibly alter the destiny of consciousness?",
+   "directed": "What the fuck is merit, and how could giving a piece of food to a lizard possibly alter the destiny of consciousness?"
   },
   {
    "id": "b859",
@@ -7039,8 +7039,8 @@
    "section": "14. The final philosophical revelation: you were running fro",
    "type": "narration",
    "voice": "granny",
-   "text": "The persistent factor was **your relationship to them**.",
-   "directed": "The persistent factor was **your relationship to them**."
+   "text": "The persistent factor was your relationship to them.",
+   "directed": "The persistent factor was your relationship to them."
   },
   {
    "id": "b880",
@@ -7199,8 +7199,8 @@
    "section": "14. The final philosophical revelation: you were running fro",
    "type": "narration",
    "voice": "granny",
-   "text": "### What does liberation actually interrupt?",
-   "directed": "### What does liberation actually interrupt?"
+   "text": "What does liberation actually interrupt?",
+   "directed": "What does liberation actually interrupt?"
   },
   {
    "id": "b900",
@@ -7407,8 +7407,8 @@
    "section": "14. The final philosophical revelation: you were running fro",
    "type": "narration",
    "voice": "granny",
-   "text": "**You don't need to die to discover whether you spend your life running away from the nature of your own experience.**",
-   "directed": "**You don't need to die to discover whether you spend your life running away from the nature of your own experience.**"
+   "text": "You don't need to die to discover whether you spend your life running away from the nature of your own experience.",
+   "directed": "You don't need to die to discover whether you spend your life running away from the nature of your own experience."
   },
   {
    "id": "b926",

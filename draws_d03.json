@@ -1,0 +1,198 @@
+{
+ "b5": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b6",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 The amulet that supposedly does more than you do -> SPLIT x2 (~91s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b61": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b62",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Liberation through hearing: why the dead are read instructio -> SPLIT x3 (~104s each, subdivide by s \u2014 visual-plan gap"
+ },
+ "b140": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b141",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 The six perfections: the actual curriculum -> SPLIT x2 (~105s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b187": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b188",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 The six perfections: the actual curriculum -> SPLIT x3 (~81s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b239": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/mandala-bardo.png",
+  "complete_bid": "b240",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Why doesn't giving merit away mean you lose it? -> SPLIT x3 (~75s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b300": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b301",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 The problem with merely feeling compassionate -> SPLIT x2 (~107s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b342": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b343",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 What do the syllables actually mean? -> SPLIT x2 (~96s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b389": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b390",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 What do the syllables actually mean? -> SPLIT x3 (~97s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b455": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b456",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Fourth: dependent origination -> SPLIT x4 (~85s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b532": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/mandala-bardo.png",
+  "complete_bid": "b533",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Liberation through hearing: why the dead are read instructio \u2014 visual-plan gap"
+ },
+ "b571": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b572",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Liberation through hearing: why the dead are read instructio \u2014 visual-plan gap"
+ },
+ "b600": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b601",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Liberation through hearing: why the dead are read instructio -> SPLIT x3 (~86s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b663": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b664",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Why would a Buddha make such a place? -> SPLIT x2 (~96s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b705": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b706",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Why would a Buddha make such a place? -> SPLIT x3 (~82s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b758": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/mandala-bardo.png",
+  "complete_bid": "b759",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Sukh\u0101vat\u012b versus Tu\u1e63ita -> SPLIT x2 (~91s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b796": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b797",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Sukh\u0101vat\u012b versus Tu\u1e63ita -> SPLIT x3 (~89s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b910": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b911",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 Wind dissolves into consciousness \u2014 visual-plan gap"
+ },
+ "b948": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b949",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 One life, three very different possible endings \u2014 visual-plan gap"
+ },
+ "b978": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b979",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 One life, three very different possible endings \u2014 visual-plan gap"
+ },
+ "b1022": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/mandala-bardo.png",
+  "complete_bid": "b1023",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 opening -> SPLIT x3 (~85s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b12": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b13",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 etch lead-in for mandala clip at b13 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b14": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b15",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 etch lead-in for mandala clip at b15 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b1": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b2",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 etch lead-in for death-bell clip at b2 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b505": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b506",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 etch lead-in for death-bell clip at b506 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b841": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b842",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 etch lead-in for rainbow-body clip at b842 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b849": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b850",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 etch lead-in for rainbow-body clip at b850 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b102": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b103",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 etch lead-in for yama-scales clip at b103 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b351": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b352",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d03 etch lead-in for yama-scales clip at b352 \u2014 first frame etches from white, then motion takes over seamless"
+ }
+}

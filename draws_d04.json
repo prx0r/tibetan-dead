@@ -1,0 +1,205 @@
+{
+ "b4": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b5",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex \u2014 visual-plan gap"
+ },
+ "b54": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b55",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex \u2014 visual-plan gap"
+ },
+ "b106": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b107",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 opening -> SPLIT x3 (~85s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b180": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b181",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex \u2014 visual-plan gap"
+ },
+ "b224": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/mandala-bardo.png",
+  "complete_bid": "b225",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x3 (~98s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b288": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b289",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x3 (~93s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b352": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b353",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x3 (~90s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b421": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b422",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x4 (~80s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b488": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b489",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x5 (~96s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b610": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/mandala-bardo.png",
+  "complete_bid": "b611",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex \u2014 visual-plan gap"
+ },
+ "b651": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b652",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x3 (~100s each, subdivide by s \u2014 visual-plan gap"
+ },
+ "b714": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b715",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x3 (~94s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b778": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b779",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x5 (~95s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b886": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b887",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x2 (~109s each, subdivide by s \u2014 visual-plan gap"
+ },
+ "b945": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/mandala-bardo.png",
+  "complete_bid": "b946",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x4 (~84s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b1024": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b1025",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 opening -> SPLIT x4 (~91s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b1110": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b1111",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 The difference between persistence of form and persistence o -> SPLIT x3 (~89s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b1170": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b1171",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 The consciousness question -> SPLIT x3 (~85s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b1228": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b1229",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Meanwhile, the distinction between mind and body becomes unb -> SPLIT x4 (~84s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b1315": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/mandala-bardo.png",
+  "complete_bid": "b1316",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex \u2014 visual-plan gap"
+ },
+ "b1356": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b1357",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 Ending D: You die suddenly and cannot use the training as ex -> SPLIT x4 (~90s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b11": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b12",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 etch lead-in for mandala clip at b12 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b13": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b14",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 etch lead-in for mandala clip at b14 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b1": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b2",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 etch lead-in for death-bell clip at b2 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b198": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b199",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 etch lead-in for death-bell clip at b199 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b169": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b170",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 etch lead-in for rainbow-body clip at b170 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b257": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b258",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 etch lead-in for rainbow-body clip at b258 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b56": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b57",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 etch lead-in for yama-scales clip at b57 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b64": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b65",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d04 etch lead-in for yama-scales clip at b65 \u2014 first frame etches from white, then motion takes over seamless"
+ }
+}

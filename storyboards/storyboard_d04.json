@@ -31,8 +31,8 @@
    "section": "You Actually Meditated This Time. Unfortunately, You're Stil",
    "type": "narration",
    "voice": "granny",
-   "text": "*Death yoga, the indestructible mind, the mother and child luminosities, phowa, tukdam, the biological persistence of form, and the extraordinary possibility that you have spent your entire life mistaking the contents of consciousness for its nature.*",
-   "directed": "*Death yoga, the indestructible mind, the mother and child luminosities, phowa, tukdam, the biological persistence of form, and the extraordinary possibility that you have spent your entire life mistaking the contents of consciousness for its nature.*"
+   "text": "Death yoga, the indestructible mind, the mother and child luminosities, phowa, tukdam, the biological persistence of form, and the extraordinary possibility that you have spent your entire life mistaking the contents of consciousness for its nature.",
+   "directed": "Death yoga, the indestructible mind, the mother and child luminosities, phowa, tukdam, the biological persistence of form, and the extraordinary possibility that you have spent your entire life mistaking the contents of consciousness for its nature."
   },
   {
    "id": "b4",
@@ -303,8 +303,8 @@
    "section": "I. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**Being a nice person has not actually solved the fundamental problem.**",
-   "directed": "**Being a nice person has not actually solved the fundamental problem.**"
+   "text": "Being a nice person has not actually solved the fundamental problem.",
+   "directed": "Being a nice person has not actually solved the fundamental problem."
   },
   {
    "id": "b38",
@@ -431,8 +431,8 @@
    "section": "I. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**You're going to fucking look.**",
-   "directed": "**You're going to fucking look.**"
+   "text": "You're going to fucking look.",
+   "directed": "You're going to fucking look."
   },
   {
    "id": "b54",
@@ -511,8 +511,8 @@
    "section": "II. At twenty-three, you meet a Tibetan meditation master wh",
    "type": "narration",
    "voice": "granny",
-   "text": "*What is aware of this experience?*",
-   "directed": "*What is aware of this experience?*"
+   "text": "What is aware of this experience?",
+   "directed": "What is aware of this experience?"
   },
   {
    "id": "b64",
@@ -551,8 +551,8 @@
    "section": "II. At twenty-three, you meet a Tibetan meditation master wh",
    "type": "narration",
    "voice": "granny",
-   "text": "*Right now?*",
-   "directed": "*Right now?*"
+   "text": "Right now?",
+   "directed": "Right now?"
   },
   {
    "id": "b69",
@@ -575,8 +575,8 @@
    "section": "II. At twenty-three, you meet a Tibetan meditation master wh",
    "type": "narration",
    "voice": "granny",
-   "text": "*Look.*",
-   "directed": "*Look.*"
+   "text": "Look.",
+   "directed": "Look."
   },
   {
    "id": "b72",
@@ -599,8 +599,8 @@
    "section": "II. At twenty-three, you meet a Tibetan meditation master wh",
    "type": "narration",
    "voice": "granny",
-   "text": "**You don't actually know what the fuck he's asking you to do.**",
-   "directed": "**You don't actually know what the fuck he's asking you to do.**"
+   "text": "You don't actually know what the fuck he's asking you to do.",
+   "directed": "You don't actually know what the fuck he's asking you to do."
   },
   {
    "id": "b75",
@@ -679,8 +679,8 @@
    "section": "II. At twenty-three, you meet a Tibetan meditation master wh",
    "type": "narration",
    "voice": "granny",
-   "text": "You are very good at manipulating the *contents* of consciousness.",
-   "directed": "You are very good at manipulating the *contents* of consciousness."
+   "text": "You are very good at manipulating the contents of consciousness.",
+   "directed": "You are very good at manipulating the contents of consciousness."
   },
   {
    "id": "b85",
@@ -759,8 +759,8 @@
    "section": "II. At twenty-three, you meet a Tibetan meditation master wh",
    "type": "narration",
    "voice": "granny",
-   "text": "In Dzogchen, a qualified teacher may introduce the practitioner to *rigpa*, the knowing of the primordial nature of awareness.",
-   "directed": "In Dzogchen, a qualified teacher may introduce the practitioner to *rigpa*, the knowing of the primordial nature of awareness."
+   "text": "In Dzogchen, a qualified teacher may introduce the practitioner to rigpa, the knowing of the primordial nature of awareness.",
+   "directed": "In Dzogchen, a qualified teacher may introduce the practitioner to rigpa, the knowing of the primordial nature of awareness."
   },
   {
    "id": "b95",
@@ -775,8 +775,8 @@
    "section": "II. At twenty-three, you meet a Tibetan meditation master wh",
    "type": "narration",
    "voice": "granny",
-   "text": "**Rigpa is not simply concentration.**",
-   "directed": "**Rigpa is not simply concentration.**"
+   "text": "Rigpa is not simply concentration.",
+   "directed": "Rigpa is not simply concentration."
   },
   {
    "id": "b97",
@@ -1023,8 +1023,8 @@
    "section": "III. Dream yoga: You've been dying in miniature every fuckin",
    "type": "narration",
    "voice": "granny",
-   "text": "**Recognize a dream as a dream while it is happening.**",
-   "directed": "**Recognize a dream as a dream while it is happening.**"
+   "text": "Recognize a dream as a dream while it is happening.",
+   "directed": "Recognize a dream as a dream while it is happening."
   },
   {
    "id": "b128",
@@ -1111,16 +1111,16 @@
    "section": "III. Dream yoga: You've been dying in miniature every fuckin",
    "type": "narration",
    "voice": "granny",
-   "text": "*Hang on.*",
-   "directed": "*Hang on.*"
+   "text": "Hang on.",
+   "directed": "Hang on."
   },
   {
    "id": "b139",
    "section": "III. Dream yoga: You've been dying in miniature every fuckin",
    "type": "narration",
    "voice": "granny",
-   "text": "*I'm asleep.*",
-   "directed": "*I'm asleep.*"
+   "text": "I'm asleep.",
+   "directed": "I'm asleep."
   },
   {
    "id": "b140",
@@ -1207,8 +1207,8 @@
    "section": "III. Dream yoga: You've been dying in miniature every fuckin",
    "type": "narration",
    "voice": "granny",
-   "text": "### The tiger is not the ultimate problem.",
-   "directed": "### The tiger is not the ultimate problem."
+   "text": "The tiger is not the ultimate problem.",
+   "directed": "The tiger is not the ultimate problem."
   },
   {
    "id": "b151",
@@ -1231,8 +1231,8 @@
    "section": "III. Dream yoga: You've been dying in miniature every fuckin",
    "type": "narration",
    "voice": "granny",
-   "text": "*There is a terrifying object over there, and I must escape.*",
-   "directed": "*There is a terrifying object over there, and I must escape.*"
+   "text": "There is a terrifying object over there, and I must escape.",
+   "directed": "There is a terrifying object over there, and I must escape."
   },
   {
    "id": "b154",
@@ -1351,8 +1351,8 @@
    "section": "III. Dream yoga: You've been dying in miniature every fuckin",
    "type": "narration",
    "voice": "granny",
-   "text": "It is that **appearing convincingly is not sufficient evidence for existing independently**.",
-   "directed": "It is that **appearing convincingly is not sufficient evidence for existing independently**."
+   "text": "It is that appearing convincingly is not sufficient evidence for existing independently.",
+   "directed": "It is that appearing convincingly is not sufficient evidence for existing independently."
   },
   {
    "id": "b169",
@@ -1711,8 +1711,8 @@
    "section": "IV. Sleep yoga: Apparently even unconsciousness is no excuse",
    "type": "narration",
    "voice": "granny",
-   "text": "*Even if you can remain aware during sleep, that does not mean you have realized emptiness.*",
-   "directed": "*Even if you can remain aware during sleep, that does not mean you have realized emptiness.*"
+   "text": "Even if you can remain aware during sleep, that does not mean you have realized emptiness.",
+   "directed": "Even if you can remain aware during sleep, that does not mean you have realized emptiness."
   },
   {
    "id": "b214",
@@ -1775,8 +1775,8 @@
    "section": "IV. Sleep yoga: Apparently even unconsciousness is no excuse",
    "type": "narration",
    "voice": "granny",
-   "text": "**You can become astonishingly skilled at navigating consciousness while still misunderstanding its nature.**",
-   "directed": "**You can become astonishingly skilled at navigating consciousness while still misunderstanding its nature.**"
+   "text": "You can become astonishingly skilled at navigating consciousness while still misunderstanding its nature.",
+   "directed": "You can become astonishingly skilled at navigating consciousness while still misunderstanding its nature."
   },
   {
    "id": "b222",
@@ -1831,24 +1831,24 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "He tells you that consciousness is connected with *rlung* - wind, or *prāṇa* in Sanskrit.",
-   "directed": "He tells you that consciousness is connected with *rlung* - wind, or *prāṇa* in Sanskrit."
+   "text": "He tells you that consciousness is connected with rlung - wind, or prāṇa in Sanskrit.",
+   "directed": "He tells you that consciousness is connected with rlung - wind, or prāṇa in Sanskrit."
   },
   {
    "id": "b229",
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "He describes subtle channels, *rtsa* or Sanskrit *nāḍī*.",
-   "directed": "He describes subtle channels, *rtsa* or Sanskrit *nāḍī*."
+   "text": "He describes subtle channels, rtsa or Sanskrit nāḍī.",
+   "directed": "He describes subtle channels, rtsa or Sanskrit nāḍī."
   },
   {
    "id": "b230",
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "He speaks of drops or essences, *thig le*, corresponding to Sanskrit *bindu* in these contexts.",
-   "directed": "He speaks of drops or essences, *thig le*, corresponding to Sanskrit *bindu* in these contexts."
+   "text": "He speaks of drops or essences, thig le, corresponding to Sanskrit bindu in these contexts.",
+   "directed": "He speaks of drops or essences, thig le, corresponding to Sanskrit bindu in these contexts."
   },
   {
    "id": "b231",
@@ -1871,8 +1871,8 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "*So where are these channels?*",
-   "directed": "*So where are these channels?*"
+   "text": "So where are these channels?",
+   "directed": "So where are these channels?"
   },
   {
    "id": "b234",
@@ -1887,8 +1887,8 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "*Can we find them in an anatomy textbook?*",
-   "directed": "*Can we find them in an anatomy textbook?*"
+   "text": "Can we find them in an anatomy textbook?",
+   "directed": "Can we find them in an anatomy textbook?"
   },
   {
    "id": "b236",
@@ -1903,8 +1903,8 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "*Can I get them scanned?*",
-   "directed": "*Can I get them scanned?*"
+   "text": "Can I get them scanned?",
+   "directed": "Can I get them scanned?"
   },
   {
    "id": "b238",
@@ -1919,8 +1919,8 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "*Are you telling me I have an entire system of invisible plumbing?*",
-   "directed": "*Are you telling me I have an entire system of invisible plumbing?*"
+   "text": "Are you telling me I have an entire system of invisible plumbing?",
+   "directed": "Are you telling me I have an entire system of invisible plumbing?"
   },
   {
    "id": "b240",
@@ -1943,16 +1943,16 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "### What are the winds supposed to be?",
-   "directed": "### What are the winds supposed to be?"
+   "text": "What are the winds supposed to be?",
+   "directed": "What are the winds supposed to be?"
   },
   {
    "id": "b243",
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "The important thing is not to translate *rlung* straight into electricity.",
-   "directed": "The important thing is not to translate *rlung* straight into electricity."
+   "text": "The important thing is not to translate rlung straight into electricity.",
+   "directed": "The important thing is not to translate rlung straight into electricity."
   },
   {
    "id": "b244",
@@ -2047,8 +2047,8 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "### The three principal channels",
-   "directed": "### The three principal channels"
+   "text": "The three principal channels",
+   "directed": "The three principal channels"
   },
   {
    "id": "b256",
@@ -2167,24 +2167,24 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "**They are rehearsing, within a traditional subtle-body framework, the conditions under which the mind is believed to become exceptionally subtle at death.**",
-   "directed": "**They are rehearsing, within a traditional subtle-body framework, the conditions under which the mind is believed to become exceptionally subtle at death.**"
+   "text": "They are rehearsing, within a traditional subtle-body framework, the conditions under which the mind is believed to become exceptionally subtle at death.",
+   "directed": "They are rehearsing, within a traditional subtle-body framework, the conditions under which the mind is believed to become exceptionally subtle at death."
   },
   {
    "id": "b271",
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "Lati Rinbochay and Jeffrey Hopkins's *Death, Intermediate State, and Rebirth in Tibetan Buddhism*, based on Geluk presentations associated with Tsongkhapa, offers a detailed explanation of this physiology. It associates the dissolution of the eighty coarse conceptions with the withdrawal of winds and describes the progressively subtler appearances culminating in clear light.",
-   "directed": "Lati Rinbochay and Jeffrey Hopkins's *Death, Intermediate State, and Rebirth in Tibetan Buddhism*, based on Geluk presentations associated with Tsongkhapa, offers a detailed explanation of this physiology. It associates the dissolution of the eighty coarse conceptions with the withdrawal of winds and describes the progressively subtler appearances culminating in clear light."
+   "text": "Lati Rinbochay and Jeffrey Hopkins's Death, Intermediate State, and Rebirth in Tibetan Buddhism, based on Geluk presentations associated with Tsongkhapa, offers a detailed explanation of this physiology. It associates the dissolution of the eighty coarse conceptions with the withdrawal of winds and describes the progressively subtler appearances culminating in clear light.",
+   "directed": "Lati Rinbochay and Jeffrey Hopkins's Death, Intermediate State, and Rebirth in Tibetan Buddhism, based on Geluk presentations associated with Tsongkhapa, offers a detailed explanation of this physiology. It associates the dissolution of the eighty coarse conceptions with the withdrawal of winds and describes the progressively subtler appearances culminating in clear light."
   },
   {
    "id": "b272",
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "### The eighty conceptions",
-   "directed": "### The eighty conceptions"
+   "text": "The eighty conceptions",
+   "directed": "The eighty conceptions"
   },
   {
    "id": "b273",
@@ -2271,8 +2271,8 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "**In this system, the death process isn't simply a series of increasingly interesting visual effects. It's a progressive withdrawal of the conditions sustaining ordinary dualistic cognition.**",
-   "directed": "**In this system, the death process isn't simply a series of increasingly interesting visual effects. It's a progressive withdrawal of the conditions sustaining ordinary dualistic cognition.**"
+   "text": "In this system, the death process isn't simply a series of increasingly interesting visual effects. It's a progressive withdrawal of the conditions sustaining ordinary dualistic cognition.",
+   "directed": "In this system, the death process isn't simply a series of increasingly interesting visual effects. It's a progressive withdrawal of the conditions sustaining ordinary dualistic cognition."
   },
   {
    "id": "b284",
@@ -2287,8 +2287,8 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "*If all my ordinary thoughts disappear, what remains?*",
-   "directed": "*If all my ordinary thoughts disappear, what remains?*"
+   "text": "If all my ordinary thoughts disappear, what remains?",
+   "directed": "If all my ordinary thoughts disappear, what remains?"
   },
   {
    "id": "b286",
@@ -2303,8 +2303,8 @@
    "section": "V. The subtle body: You have apparently got seventy-two thou",
    "type": "narration",
    "voice": "granny",
-   "text": "*That is precisely what you need to understand.*",
-   "directed": "*That is precisely what you need to understand.*"
+   "text": "That is precisely what you need to understand.",
+   "directed": "That is precisely what you need to understand."
   },
   {
    "id": "b288",
@@ -2343,8 +2343,8 @@
    "section": "VI. The indestructible drop: Have the Tibetans located consc",
    "type": "narration",
    "voice": "granny",
-   "text": "The term *indestructible* does not mean that there is a tiny physically indestructible marble lodged in the cardiac muscle.",
-   "directed": "The term *indestructible* does not mean that there is a tiny physically indestructible marble lodged in the cardiac muscle."
+   "text": "The term indestructible does not mean that there is a tiny physically indestructible marble lodged in the cardiac muscle.",
+   "directed": "The term indestructible does not mean that there is a tiny physically indestructible marble lodged in the cardiac muscle."
   },
   {
    "id": "b293",
@@ -2367,8 +2367,8 @@
    "section": "VI. The indestructible drop: Have the Tibetans located consc",
    "type": "narration",
    "voice": "granny",
-   "text": "But what does *endure* mean here?",
-   "directed": "But what does *endure* mean here?"
+   "text": "But what does endure mean here?",
+   "directed": "But what does endure mean here?"
   },
   {
    "id": "b296",
@@ -2471,8 +2471,8 @@
    "section": "VI. The indestructible drop: Have the Tibetans located consc",
    "type": "narration",
    "voice": "granny",
-   "text": "*If consciousness depends upon a physical brain, how could a mental continuum continue when that brain decomposes?*",
-   "directed": "*If consciousness depends upon a physical brain, how could a mental continuum continue when that brain decomposes?*"
+   "text": "If consciousness depends upon a physical brain, how could a mental continuum continue when that brain decomposes?",
+   "directed": "If consciousness depends upon a physical brain, how could a mental continuum continue when that brain decomposes?"
   },
   {
    "id": "b309",
@@ -2631,8 +2631,8 @@
    "section": "VI. The indestructible drop: Have the Tibetans located consc",
    "type": "narration",
    "voice": "granny",
-   "text": "### The subtlest mind is not automatically enlightened.",
-   "directed": "### The subtlest mind is not automatically enlightened."
+   "text": "The subtlest mind is not automatically enlightened.",
+   "directed": "The subtlest mind is not automatically enlightened."
   },
   {
    "id": "b329",
@@ -2647,16 +2647,16 @@
    "section": "VI. The indestructible drop: Have the Tibetans located consc",
    "type": "narration",
    "voice": "granny",
-   "text": "*Fantastic!*",
-   "directed": "*Fantastic!*"
+   "text": "Fantastic!",
+   "directed": "Fantastic!"
   },
   {
    "id": "b331",
    "section": "VI. The indestructible drop: Have the Tibetans located consc",
    "type": "narration",
    "voice": "granny",
-   "text": "*So everyone gets enlightened!*",
-   "directed": "*So everyone gets enlightened!*"
+   "text": "So everyone gets enlightened!",
+   "directed": "So everyone gets enlightened!"
   },
   {
    "id": "b332",
@@ -2671,8 +2671,8 @@
    "section": "VI. The indestructible drop: Have the Tibetans located consc",
    "type": "narration",
    "voice": "granny",
-   "text": "*But everyone's ordinary conceptual activity dissolves?*",
-   "directed": "*But everyone's ordinary conceptual activity dissolves?*"
+   "text": "But everyone's ordinary conceptual activity dissolves?",
+   "directed": "But everyone's ordinary conceptual activity dissolves?"
   },
   {
    "id": "b334",
@@ -2687,8 +2687,8 @@
    "section": "VI. The indestructible drop: Have the Tibetans located consc",
    "type": "narration",
    "voice": "granny",
-   "text": "*And the clear light manifests?*",
-   "directed": "*And the clear light manifests?*"
+   "text": "And the clear light manifests?",
+   "directed": "And the clear light manifests?"
   },
   {
    "id": "b336",
@@ -2703,16 +2703,16 @@
    "section": "VI. The indestructible drop: Have the Tibetans located consc",
    "type": "narration",
    "voice": "granny",
-   "text": "*So what's the fucking problem?*",
-   "directed": "*So what's the fucking problem?*"
+   "text": "So what's the fucking problem?",
+   "directed": "So what's the fucking problem?"
   },
   {
    "id": "b338",
    "section": "VI. The indestructible drop: Have the Tibetans located consc",
    "type": "narration",
    "voice": "granny",
-   "text": "**Recognizing it.**",
-   "directed": "**Recognizing it.**"
+   "text": "Recognizing it.",
+   "directed": "Recognizing it."
   },
   {
    "id": "b339",
@@ -2847,8 +2847,8 @@
    "section": "VII. Mother and child luminosity: The metaphysical family re",
    "type": "narration",
    "voice": "granny",
-   "text": "**The meeting of mother and child luminosity.**",
-   "directed": "**The meeting of mother and child luminosity.**"
+   "text": "The meeting of mother and child luminosity.",
+   "directed": "The meeting of mother and child luminosity."
   },
   {
    "id": "b356",
@@ -2967,16 +2967,16 @@
    "section": "VII. Mother and child luminosity: The metaphysical family re",
    "type": "narration",
    "voice": "granny",
-   "text": "In the Nyingma *Liberation Upon Hearing* by Mindroling Terchen, the convergence is explicitly associated with the possibility of awakening as clear-light dharmakāya at death.",
-   "directed": "In the Nyingma *Liberation Upon Hearing* by Mindroling Terchen, the convergence is explicitly associated with the possibility of awakening as clear-light dharmakāya at death."
+   "text": "In the Nyingma Liberation Upon Hearing by Mindroling Terchen, the convergence is explicitly associated with the possibility of awakening as clear-light dharmakāya at death.",
+   "directed": "In the Nyingma Liberation Upon Hearing by Mindroling Terchen, the convergence is explicitly associated with the possibility of awakening as clear-light dharmakāya at death."
   },
   {
    "id": "b371",
    "section": "VII. Mother and child luminosity: The metaphysical family re",
    "type": "narration",
    "voice": "granny",
-   "text": "### What precisely meets what?",
-   "directed": "### What precisely meets what?"
+   "text": "What precisely meets what?",
+   "directed": "What precisely meets what?"
   },
   {
    "id": "b372",
@@ -3143,8 +3143,8 @@
    "section": "VII. Mother and child luminosity: The metaphysical family re",
    "type": "narration",
    "voice": "granny",
-   "text": "### Your teacher makes the problem unbearably clear.",
-   "directed": "### Your teacher makes the problem unbearably clear."
+   "text": "Your teacher makes the problem unbearably clear.",
+   "directed": "Your teacher makes the problem unbearably clear."
   },
   {
    "id": "b393",
@@ -3159,8 +3159,8 @@
    "section": "VII. Mother and child luminosity: The metaphysical family re",
    "type": "narration",
    "voice": "granny",
-   "text": "*I think I understand.*",
-   "directed": "*I think I understand.*"
+   "text": "I think I understand.",
+   "directed": "I think I understand."
   },
   {
    "id": "b395",
@@ -3175,8 +3175,8 @@
    "section": "VII. Mother and child luminosity: The metaphysical family re",
    "type": "narration",
    "voice": "granny",
-   "text": "*What is it that you understand?*",
-   "directed": "*What is it that you understand?*"
+   "text": "What is it that you understand?",
+   "directed": "What is it that you understand?"
   },
   {
    "id": "b397",
@@ -3191,8 +3191,8 @@
    "section": "VII. Mother and child luminosity: The metaphysical family re",
    "type": "narration",
    "voice": "granny",
-   "text": "*The mind is empty and luminous.*",
-   "directed": "*The mind is empty and luminous.*"
+   "text": "The mind is empty and luminous.",
+   "directed": "The mind is empty and luminous."
   },
   {
    "id": "b399",
@@ -3207,8 +3207,8 @@
    "section": "VII. Mother and child luminosity: The metaphysical family re",
    "type": "narration",
    "voice": "granny",
-   "text": "*Is that your present recognition, or another idea about recognition?*",
-   "directed": "*Is that your present recognition, or another idea about recognition?*"
+   "text": "Is that your present recognition, or another idea about recognition?",
+   "directed": "Is that your present recognition, or another idea about recognition?"
   },
   {
    "id": "b401",
@@ -3367,8 +3367,8 @@
    "section": "VII. Mother and child luminosity: The metaphysical family re",
    "type": "narration",
    "voice": "granny",
-   "text": "**What are you actually going to do when death arrives?**",
-   "directed": "**What are you actually going to do when death arrives?**"
+   "text": "What are you actually going to do when death arrives?",
+   "directed": "What are you actually going to do when death arrives?"
   },
   {
    "id": "b421",
@@ -3391,8 +3391,8 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "Your teacher introduces *phowa* - Tibetan *'pho ba*, the transference of consciousness.",
-   "directed": "Your teacher introduces *phowa* - Tibetan *'pho ba*, the transference of consciousness."
+   "text": "Your teacher introduces phowa - Tibetan 'pho ba, the transference of consciousness.",
+   "directed": "Your teacher introduces phowa - Tibetan 'pho ba, the transference of consciousness."
   },
   {
    "id": "b424",
@@ -3407,40 +3407,40 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "*Right.*",
-   "directed": "*Right.*"
+   "text": "Right.",
+   "directed": "Right."
   },
   {
    "id": "b426",
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "*So I can escape through the top of my skull?*",
-   "directed": "*So I can escape through the top of my skull?*"
+   "text": "So I can escape through the top of my skull?",
+   "directed": "So I can escape through the top of my skull?"
   },
   {
    "id": "b427",
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "Well, some forms of phowa use the image of the crown aperture, the *brahmarandhra*, and the transference of consciousness toward a Buddha-field.",
-   "directed": "Well, some forms of phowa use the image of the crown aperture, the *brahmarandhra*, and the transference of consciousness toward a Buddha-field."
+   "text": "Well, some forms of phowa use the image of the crown aperture, the brahmarandhra, and the transference of consciousness toward a Buddha-field.",
+   "directed": "Well, some forms of phowa use the image of the crown aperture, the brahmarandhra, and the transference of consciousness toward a Buddha-field."
   },
   {
    "id": "b428",
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "*Excellent.*",
-   "directed": "*Excellent.*"
+   "text": "Excellent.",
+   "directed": "Excellent."
   },
   {
    "id": "b429",
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "*So after years of trying to understand emptiness, you're telling me there's a fucking exit hatch?*",
-   "directed": "*So after years of trying to understand emptiness, you're telling me there's a fucking exit hatch?*"
+   "text": "So after years of trying to understand emptiness, you're telling me there's a fucking exit hatch?",
+   "directed": "So after years of trying to understand emptiness, you're telling me there's a fucking exit hatch?"
   },
   {
    "id": "b430",
@@ -3471,8 +3471,8 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "### The basic transference model",
-   "directed": "### The basic transference model"
+   "text": "The basic transference model",
+   "directed": "The basic transference model"
   },
   {
    "id": "b434",
@@ -3511,8 +3511,8 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "*Could someone actually transfer my consciousness for me?*",
-   "directed": "*Could someone actually transfer my consciousness for me?*"
+   "text": "Could someone actually transfer my consciousness for me?",
+   "directed": "Could someone actually transfer my consciousness for me?"
   },
   {
    "id": "b439",
@@ -3535,8 +3535,8 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "*And what if it goes wrong?*",
-   "directed": "*And what if it goes wrong?*"
+   "text": "And what if it goes wrong?",
+   "directed": "And what if it goes wrong?"
   },
   {
    "id": "b442",
@@ -3575,8 +3575,8 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "### The extraordinary complication: the highest phowa doesn't actually go anywhere.",
-   "directed": "### The extraordinary complication: the highest phowa doesn't actually go anywhere."
+   "text": "The extraordinary complication: the highest phowa doesn't actually go anywhere.",
+   "directed": "The extraordinary complication: the highest phowa doesn't actually go anywhere."
   },
   {
    "id": "b447",
@@ -3607,8 +3607,8 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "At the highest level, *dharmakāya phowa* involves recognizing the nature of mind.",
-   "directed": "At the highest level, *dharmakāya phowa* involves recognizing the nature of mind."
+   "text": "At the highest level, dharmakāya phowa involves recognizing the nature of mind.",
+   "directed": "At the highest level, dharmakāya phowa involves recognizing the nature of mind."
   },
   {
    "id": "b451",
@@ -3647,16 +3647,16 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "Other forms involve aspiration toward pure realms and the methods associated with the *saṃbhogakāya* or *nirmāṇakāya*.",
-   "directed": "Other forms involve aspiration toward pure realms and the methods associated with the *saṃbhogakāya* or *nirmāṇakāya*."
+   "text": "Other forms involve aspiration toward pure realms and the methods associated with the saṃbhogakāya or nirmāṇakāya.",
+   "directed": "Other forms involve aspiration toward pure realms and the methods associated with the saṃbhogakāya or nirmāṇakāya."
   },
   {
    "id": "b456",
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "Karma Chakmé's text explicitly connects the highest form with Mahāmudrā and Dzogchen *trekchö* and the meeting of mother and child luminosity.",
-   "directed": "Karma Chakmé's text explicitly connects the highest form with Mahāmudrā and Dzogchen *trekchö* and the meeting of mother and child luminosity."
+   "text": "Karma Chakmé's text explicitly connects the highest form with Mahāmudrā and Dzogchen trekchö and the meeting of mother and child luminosity.",
+   "directed": "Karma Chakmé's text explicitly connects the highest form with Mahāmudrā and Dzogchen trekchö and the meeting of mother and child luminosity."
   },
   {
    "id": "b457",
@@ -3703,8 +3703,8 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "### Different exits, different destinations",
-   "directed": "### Different exits, different destinations"
+   "text": "Different exits, different destinations",
+   "directed": "Different exits, different destinations"
   },
   {
    "id": "b463",
@@ -3743,8 +3743,8 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "Longchenpa's *Lama Yangtik Phowa* presents an explicitly Dzogchen-associated transference instruction, while other Tibetan traditions preserve distinct liturgies and classifications.",
-   "directed": "Longchenpa's *Lama Yangtik Phowa* presents an explicitly Dzogchen-associated transference instruction, while other Tibetan traditions preserve distinct liturgies and classifications."
+   "text": "Longchenpa's Lama Yangtik Phowa presents an explicitly Dzogchen-associated transference instruction, while other Tibetan traditions preserve distinct liturgies and classifications.",
+   "directed": "Longchenpa's Lama Yangtik Phowa presents an explicitly Dzogchen-associated transference instruction, while other Tibetan traditions preserve distinct liturgies and classifications."
   },
   {
    "id": "b468",
@@ -3815,8 +3815,8 @@
    "section": "VIII. Phowa: The emergency exit from saṃsāra apparently goes",
    "type": "narration",
    "voice": "granny",
-   "text": "**It is not one technique. It is a hierarchy of liberating opportunities adapted to different capacities.**",
-   "directed": "**It is not one technique. It is a hierarchy of liberating opportunities adapted to different capacities.**"
+   "text": "It is not one technique. It is a hierarchy of liberating opportunities adapted to different capacities.",
+   "directed": "It is not one technique. It is a hierarchy of liberating opportunities adapted to different capacities."
   },
   {
    "id": "b477",
@@ -3999,8 +3999,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "**Can you remain familiar with the nature of awareness as the ordinary supports of experience disappear?**",
-   "directed": "**Can you remain familiar with the nature of awareness as the ordinary supports of experience disappear?**"
+   "text": "Can you remain familiar with the nature of awareness as the ordinary supports of experience disappear?",
+   "directed": "Can you remain familiar with the nature of awareness as the ordinary supports of experience disappear?"
   },
   {
    "id": "b500",
@@ -4071,8 +4071,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "### First dissolution: Earth into water",
-   "directed": "### First dissolution: Earth into water"
+   "text": "First dissolution: Earth into water",
+   "directed": "First dissolution: Earth into water"
   },
   {
    "id": "b509",
@@ -4167,8 +4167,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "### Second dissolution: Water into fire",
-   "directed": "### Second dissolution: Water into fire"
+   "text": "Second dissolution: Water into fire",
+   "directed": "Second dissolution: Water into fire"
   },
   {
    "id": "b521",
@@ -4239,8 +4239,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "### Third dissolution: Fire into wind",
-   "directed": "### Third dissolution: Fire into wind"
+   "text": "Third dissolution: Fire into wind",
+   "directed": "Third dissolution: Fire into wind"
   },
   {
    "id": "b530",
@@ -4335,8 +4335,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "### Fourth dissolution: Wind into consciousness",
-   "directed": "### Fourth dissolution: Wind into consciousness"
+   "text": "Fourth dissolution: Wind into consciousness",
+   "directed": "Fourth dissolution: Wind into consciousness"
   },
   {
    "id": "b542",
@@ -4375,8 +4375,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "**A clinician declaring death and a tantric practitioner describing the dissolution of subtle consciousness are not measuring the same thing.**",
-   "directed": "**A clinician declaring death and a tantric practitioner describing the dissolution of subtle consciousness are not measuring the same thing.**"
+   "text": "A clinician declaring death and a tantric practitioner describing the dissolution of subtle consciousness are not measuring the same thing.",
+   "directed": "A clinician declaring death and a tantric practitioner describing the dissolution of subtle consciousness are not measuring the same thing."
   },
   {
    "id": "b547",
@@ -4447,8 +4447,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "### Fifth dissolution: White appearance",
-   "directed": "### Fifth dissolution: White appearance"
+   "text": "Fifth dissolution: White appearance",
+   "directed": "Fifth dissolution: White appearance"
   },
   {
    "id": "b556",
@@ -4527,8 +4527,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "### Sixth dissolution: Red increase",
-   "directed": "### Sixth dissolution: Red increase"
+   "text": "Sixth dissolution: Red increase",
+   "directed": "Sixth dissolution: Red increase"
   },
   {
    "id": "b566",
@@ -4591,8 +4591,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "You're not constructing an argument about the best translation of *śūnyatā*.",
-   "directed": "You're not constructing an argument about the best translation of *śūnyatā*."
+   "text": "You're not constructing an argument about the best translation of śūnyatā.",
+   "directed": "You're not constructing an argument about the best translation of śūnyatā."
   },
   {
    "id": "b574",
@@ -4607,8 +4607,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "### Seventh dissolution: Black near-attainment",
-   "directed": "### Seventh dissolution: Black near-attainment"
+   "text": "Seventh dissolution: Black near-attainment",
+   "directed": "Seventh dissolution: Black near-attainment"
   },
   {
    "id": "b576",
@@ -4671,8 +4671,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "### Eighth dissolution: Clear light",
-   "directed": "### Eighth dissolution: Clear light"
+   "text": "Eighth dissolution: Clear light",
+   "directed": "Eighth dissolution: Clear light"
   },
   {
    "id": "b584",
@@ -4751,8 +4751,8 @@
    "section": "IX. You are dying. And for once, you know what the fuck is h",
    "type": "narration",
    "voice": "granny",
-   "text": "**Does the recognition cultivated during life remain operative when the structures supporting ordinary cognition have disappeared?**",
-   "directed": "**Does the recognition cultivated during life remain operative when the structures supporting ordinary cognition have disappeared?**"
+   "text": "Does the recognition cultivated during life remain operative when the structures supporting ordinary cognition have disappeared?",
+   "directed": "Does the recognition cultivated during life remain operative when the structures supporting ordinary cognition have disappeared?"
   },
   {
    "id": "b594",
@@ -4983,8 +4983,8 @@
    "section": "X. You're dead. The monks are delighted. The scientists are ",
    "type": "narration",
    "voice": "granny",
-   "text": "People begin discussing the possibility of *tukdam*.",
-   "directed": "People begin discussing the possibility of *tukdam*."
+   "text": "People begin discussing the possibility of tukdam.",
+   "directed": "People begin discussing the possibility of tukdam."
   },
   {
    "id": "b623",
@@ -4999,8 +4999,8 @@
    "section": "X. You're dead. The monks are delighted. The scientists are ",
    "type": "narration",
    "voice": "granny",
-   "text": "Wylie: *thugs dam*.",
-   "directed": "Wylie: *thugs dam*."
+   "text": "Wylie: thugs dam.",
+   "directed": "Wylie: thugs dam."
   },
   {
    "id": "b625",
@@ -5063,8 +5063,8 @@
    "section": "X. You're dead. The monks are delighted. The scientists are ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Miracle! Consciousness survives death!*",
-   "directed": "*Miracle! Consciousness survives death!*"
+   "text": "Miracle! Consciousness survives death!",
+   "directed": "Miracle! Consciousness survives death!"
   },
   {
    "id": "b633",
@@ -5079,8 +5079,8 @@
    "section": "X. You're dead. The monks are delighted. The scientists are ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Absolute nonsense! Everyone go home!*",
-   "directed": "*Absolute nonsense! Everyone go home!*"
+   "text": "Absolute nonsense! Everyone go home!",
+   "directed": "Absolute nonsense! Everyone go home!"
   },
   {
    "id": "b635",
@@ -5103,16 +5103,16 @@
    "section": "X. You're dead. The monks are delighted. The scientists are ",
    "type": "narration",
    "voice": "granny",
-   "text": "**First: is there measurable residual brain activity?**",
-   "directed": "**First: is there measurable residual brain activity?**"
+   "text": "First: is there measurable residual brain activity?",
+   "directed": "First: is there measurable residual brain activity?"
   },
   {
    "id": "b638",
    "section": "X. You're dead. The monks are delighted. The scientists are ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Second: are the reported patterns of delayed decomposition genuinely unusual and scientifically characterizable?**",
-   "directed": "**Second: are the reported patterns of delayed decomposition genuinely unusual and scientifically characterizable?**"
+   "text": "Second: are the reported patterns of delayed decomposition genuinely unusual and scientifically characterizable?",
+   "directed": "Second: are the reported patterns of delayed decomposition genuinely unusual and scientifically characterizable?"
   },
   {
    "id": "b639",
@@ -5135,16 +5135,16 @@
    "section": "X. You're dead. The monks are delighted. The scientists are ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Before we examine the evidence, one distinction.",
-   "directed": "### Before we examine the evidence, one distinction."
+   "text": "Before we examine the evidence, one distinction.",
+   "directed": "Before we examine the evidence, one distinction."
   },
   {
    "id": "b642",
    "section": "X. You're dead. The monks are delighted. The scientists are ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Delayed decomposition is not equivalent to suspended biological death.*",
-   "directed": "*Delayed decomposition is not equivalent to suspended biological death.*"
+   "text": "Delayed decomposition is not equivalent to suspended biological death.",
+   "directed": "Delayed decomposition is not equivalent to suspended biological death."
   },
   {
    "id": "b643",
@@ -5223,8 +5223,8 @@
    "section": "XI. The tukdam EEG study: The scientists find absolutely fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "In 2021, Dylan Lott, Richard Davidson, Antoine Lutz, John Dunne, Tibetan collaborators and a larger research team published a study in *Frontiers in Psychology*.",
-   "directed": "In 2021, Dylan Lott, Richard Davidson, Antoine Lutz, John Dunne, Tibetan collaborators and a larger research team published a study in *Frontiers in Psychology*."
+   "text": "In 2021, Dylan Lott, Richard Davidson, Antoine Lutz, John Dunne, Tibetan collaborators and a larger research team published a study in Frontiers in Psychology.",
+   "directed": "In 2021, Dylan Lott, Richard Davidson, Antoine Lutz, John Dunne, Tibetan collaborators and a larger research team published a study in Frontiers in Psychology."
   },
   {
    "id": "b653",
@@ -5239,8 +5239,8 @@
    "section": "XI. The tukdam EEG study: The scientists find absolutely fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "*No Detectable Electroencephalographic Activity After Clinical Declaration of Death Among Tibetan Buddhist Meditators in Apparent Tukdam, a Putative Postmortem Meditation State.*",
-   "directed": "*No Detectable Electroencephalographic Activity After Clinical Declaration of Death Among Tibetan Buddhist Meditators in Apparent Tukdam, a Putative Postmortem Meditation State.*"
+   "text": "No Detectable Electroencephalographic Activity After Clinical Declaration of Death Among Tibetan Buddhist Meditators in Apparent Tukdam, a Putative Postmortem Meditation State.",
+   "directed": "No Detectable Electroencephalographic Activity After Clinical Declaration of Death Among Tibetan Buddhist Meditators in Apparent Tukdam, a Putative Postmortem Meditation State."
   },
   {
    "id": "b655",
@@ -5303,8 +5303,8 @@
    "section": "XI. The tukdam EEG study: The scientists find absolutely fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "**No recognizable EEG activity.**",
-   "directed": "**No recognizable EEG activity.**"
+   "text": "No recognizable EEG activity.",
+   "directed": "No recognizable EEG activity."
   },
   {
    "id": "b663",
@@ -5359,8 +5359,8 @@
    "section": "XI. The tukdam EEG study: The scientists find absolutely fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "### What does this result actually mean?",
-   "directed": "### What does this result actually mean?"
+   "text": "What does this result actually mean?",
+   "directed": "What does this result actually mean?"
   },
   {
    "id": "b670",
@@ -5415,8 +5415,8 @@
    "section": "XI. The tukdam EEG study: The scientists find absolutely fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "*Excellent. We have demonstrated that consciousness is continuing invisibly.*",
-   "directed": "*Excellent. We have demonstrated that consciousness is continuing invisibly.*"
+   "text": "Excellent. We have demonstrated that consciousness is continuing invisibly.",
+   "directed": "Excellent. We have demonstrated that consciousness is continuing invisibly."
   },
   {
    "id": "b677",
@@ -5511,8 +5511,8 @@
    "section": "XI. The tukdam EEG study: The scientists find absolutely fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why the twenty-six-hour delay matters",
-   "directed": "### Why the twenty-six-hour delay matters"
+   "text": "Why the twenty-six-hour delay matters",
+   "directed": "Why the twenty-six-hour delay matters"
   },
   {
    "id": "b689",
@@ -5535,8 +5535,8 @@
    "section": "XI. The tukdam EEG study: The scientists find absolutely fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "In a separate 2023 study published in *PNAS*, researchers examined four comatose patients as life support was withdrawn.",
-   "directed": "In a separate 2023 study published in *PNAS*, researchers examined four comatose patients as life support was withdrawn."
+   "text": "In a separate 2023 study published in PNAS, researchers examined four comatose patients as life support was withdrawn.",
+   "directed": "In a separate 2023 study published in PNAS, researchers examined four comatose patients as life support was withdrawn."
   },
   {
    "id": "b692",
@@ -5607,8 +5607,8 @@
    "section": "XI. The tukdam EEG study: The scientists find absolutely fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "**These are three different claims.**",
-   "directed": "**These are three different claims.**"
+   "text": "These are three different claims.",
+   "directed": "These are three different claims."
   },
   {
    "id": "b701",
@@ -5703,8 +5703,8 @@
    "section": "XI. The tukdam EEG study: The scientists find absolutely fuc",
    "type": "narration",
    "voice": "granny",
-   "text": "*What about the decomposition?*",
-   "directed": "*What about the decomposition?*"
+   "text": "What about the decomposition?",
+   "directed": "What about the decomposition?"
   },
   {
    "id": "b713",
@@ -5727,8 +5727,8 @@
    "section": "XII. Thirty-eight days without ordinary decomposition? Now w",
    "type": "narration",
    "voice": "granny",
-   "text": "In 2024, Tawni Tidwell and colleagues published a forensic study in *Forensic Science International: Reports*.",
-   "directed": "In 2024, Tawni Tidwell and colleagues published a forensic study in *Forensic Science International: Reports*."
+   "text": "In 2024, Tawni Tidwell and colleagues published a forensic study in Forensic Science International: Reports.",
+   "directed": "In 2024, Tawni Tidwell and colleagues published a forensic study in Forensic Science International: Reports."
   },
   {
    "id": "b716",
@@ -5815,8 +5815,8 @@
    "section": "XII. Thirty-eight days without ordinary decomposition? Now w",
    "type": "narration",
    "voice": "granny",
-   "text": "**Thirty-eight days after death does not mean thirty-eight days with absolutely no decomposition.**",
-   "directed": "**Thirty-eight days after death does not mean thirty-eight days with absolutely no decomposition.**"
+   "text": "Thirty-eight days after death does not mean thirty-eight days with absolutely no decomposition.",
+   "directed": "Thirty-eight days after death does not mean thirty-eight days with absolutely no decomposition."
   },
   {
    "id": "b727",
@@ -5943,8 +5943,8 @@
    "section": "XII. Thirty-eight days without ordinary decomposition? Now w",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why is that interesting?",
-   "directed": "### Why is that interesting?"
+   "text": "Why is that interesting?",
+   "directed": "Why is that interesting?"
   },
   {
    "id": "b743",
@@ -6039,8 +6039,8 @@
    "section": "XII. Thirty-eight days without ordinary decomposition? Now w",
    "type": "narration",
    "voice": "granny",
-   "text": "*Why isn't the body turning to dust immediately?*",
-   "directed": "*Why isn't the body turning to dust immediately?*"
+   "text": "Why isn't the body turning to dust immediately?",
+   "directed": "Why isn't the body turning to dust immediately?"
   },
   {
    "id": "b755",
@@ -6063,8 +6063,8 @@
    "section": "XII. Thirty-eight days without ordinary decomposition? Now w",
    "type": "narration",
    "voice": "granny",
-   "text": "**Why do some observed bodies appear to change so slowly compared with what would be anticipated under apparently comparable conditions?**",
-   "directed": "**Why do some observed bodies appear to change so slowly compared with what would be anticipated under apparently comparable conditions?**"
+   "text": "Why do some observed bodies appear to change so slowly compared with what would be anticipated under apparently comparable conditions?",
+   "directed": "Why do some observed bodies appear to change so slowly compared with what would be anticipated under apparently comparable conditions?"
   },
   {
    "id": "b758",
@@ -6135,8 +6135,8 @@
    "section": "XII. Thirty-eight days without ordinary decomposition? Now w",
    "type": "narration",
    "voice": "granny",
-   "text": "### By March 2026, the research programme had documented sixty-one cases.",
-   "directed": "### By March 2026, the research programme had documented sixty-one cases."
+   "text": "By March 2026, the research programme had documented sixty-one cases.",
+   "directed": "By March 2026, the research programme had documented sixty-one cases."
   },
   {
    "id": "b767",
@@ -6287,8 +6287,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Hypothesis one: Temperature",
-   "directed": "### Hypothesis one: Temperature"
+   "text": "Hypothesis one: Temperature",
+   "directed": "Hypothesis one: Temperature"
   },
   {
    "id": "b786",
@@ -6375,8 +6375,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "*It's India, therefore it must be boiling, therefore this is miraculous.*",
-   "directed": "*It's India, therefore it must be boiling, therefore this is miraculous.*"
+   "text": "It's India, therefore it must be boiling, therefore this is miraculous.",
+   "directed": "It's India, therefore it must be boiling, therefore this is miraculous."
   },
   {
    "id": "b797",
@@ -6423,8 +6423,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Hypothesis two: Microbes",
-   "directed": "### Hypothesis two: Microbes"
+   "text": "Hypothesis two: Microbes",
+   "directed": "Hypothesis two: Microbes"
   },
   {
    "id": "b803",
@@ -6535,8 +6535,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "The term *necrobiome* is sometimes used to describe the ecological community associated with decomposing remains.",
-   "directed": "The term *necrobiome* is sometimes used to describe the ecological community associated with decomposing remains."
+   "text": "The term necrobiome is sometimes used to describe the ecological community associated with decomposing remains.",
+   "directed": "The term necrobiome is sometimes used to describe the ecological community associated with decomposing remains."
   },
   {
    "id": "b817",
@@ -6623,8 +6623,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Hypothesis three: Drying and partial mummification",
-   "directed": "### Hypothesis three: Drying and partial mummification"
+   "text": "Hypothesis three: Drying and partial mummification",
+   "directed": "Hypothesis three: Drying and partial mummification"
   },
   {
    "id": "b828",
@@ -6719,8 +6719,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "The proper conclusion is not *mummification explains everything*.",
-   "directed": "The proper conclusion is not *mummification explains everything*."
+   "text": "The proper conclusion is not mummification explains everything.",
+   "directed": "The proper conclusion is not mummification explains everything."
   },
   {
    "id": "b840",
@@ -6735,8 +6735,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Hypothesis four: Insects and physical barriers",
-   "directed": "### Hypothesis four: Insects and physical barriers"
+   "text": "Hypothesis four: Insects and physical barriers",
+   "directed": "Hypothesis four: Insects and physical barriers"
   },
   {
    "id": "b842",
@@ -6823,8 +6823,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "**You cannot conclude that a body is resisting decomposition through supernatural power without accounting for the organisms normally involved in decomposition.**",
-   "directed": "**You cannot conclude that a body is resisting decomposition through supernatural power without accounting for the organisms normally involved in decomposition.**"
+   "text": "You cannot conclude that a body is resisting decomposition through supernatural power without accounting for the organisms normally involved in decomposition.",
+   "directed": "You cannot conclude that a body is resisting decomposition through supernatural power without accounting for the organisms normally involved in decomposition."
   },
   {
    "id": "b853",
@@ -6855,8 +6855,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "*He is abiding in the clear light.*",
-   "directed": "*He is abiding in the clear light.*"
+   "text": "He is abiding in the clear light.",
+   "directed": "He is abiding in the clear light."
   },
   {
    "id": "b857",
@@ -6871,8 +6871,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Could I see the temperature records and insect observations?*",
-   "directed": "*Could I see the temperature records and insect observations?*"
+   "text": "Could I see the temperature records and insect observations?",
+   "directed": "Could I see the temperature records and insect observations?"
   },
   {
    "id": "b859",
@@ -6919,8 +6919,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Hypothesis five: The body's condition before death",
-   "directed": "### Hypothesis five: The body's condition before death"
+   "text": "Hypothesis five: The body's condition before death",
+   "directed": "Hypothesis five: The body's condition before death"
   },
   {
    "id": "b865",
@@ -7031,8 +7031,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "This is a plausible *class of hypotheses*.",
-   "directed": "This is a plausible *class of hypotheses*."
+   "text": "This is a plausible class of hypotheses.",
+   "directed": "This is a plausible class of hypotheses."
   },
   {
    "id": "b879",
@@ -7087,8 +7087,8 @@
    "section": "XIII. What actually keeps a corpse fresh? Let's investigate ",
    "type": "narration",
    "voice": "granny",
-   "text": "**The interesting scientific question is not whether we can preserve the word “miracle.” It is whether we can explain the observations.**",
-   "directed": "**The interesting scientific question is not whether we can preserve the word “miracle.” It is whether we can explain the observations.**"
+   "text": "The interesting scientific question is not whether we can preserve the word “miracle.” It is whether we can explain the observations.",
+   "directed": "The interesting scientific question is not whether we can preserve the word “miracle.” It is whether we can explain the observations."
   },
   {
    "id": "b886",
@@ -7183,8 +7183,8 @@
    "section": "XIV. Coherence: Does the body remain organized because consc",
    "type": "narration",
    "voice": "granny",
-   "text": "**It is an actively maintained pattern.**",
-   "directed": "**It is an actively maintained pattern.**"
+   "text": "It is an actively maintained pattern.",
+   "directed": "It is an actively maintained pattern."
   },
   {
    "id": "b898",
@@ -7343,16 +7343,16 @@
    "section": "XIV. Coherence: Does the body remain organized because consc",
    "type": "narration",
    "voice": "granny",
-   "text": "### What does coherence actually mean?",
-   "directed": "### What does coherence actually mean?"
+   "text": "What does coherence actually mean?",
+   "directed": "What does coherence actually mean?"
   },
   {
    "id": "b918",
    "section": "XIV. Coherence: Does the body remain organized because consc",
    "type": "narration",
    "voice": "granny",
-   "text": "The word *coherence* is thrown around with extraordinary recklessness in discussions of consciousness.",
-   "directed": "The word *coherence* is thrown around with extraordinary recklessness in discussions of consciousness."
+   "text": "The word coherence is thrown around with extraordinary recklessness in discussions of consciousness.",
+   "directed": "The word coherence is thrown around with extraordinary recklessness in discussions of consciousness."
   },
   {
    "id": "b919",
@@ -7439,8 +7439,8 @@
    "section": "XIV. Coherence: Does the body remain organized because consc",
    "type": "narration",
    "voice": "granny",
-   "text": "**A coherent sentence and a coherent quantum state do not become scientifically related because they're both called coherent.**",
-   "directed": "**A coherent sentence and a coherent quantum state do not become scientifically related because they're both called coherent.**"
+   "text": "A coherent sentence and a coherent quantum state do not become scientifically related because they're both called coherent.",
+   "directed": "A coherent sentence and a coherent quantum state do not become scientifically related because they're both called coherent."
   },
   {
    "id": "b930",
@@ -7535,8 +7535,8 @@
    "section": "XIV. Coherence: Does the body remain organized because consc",
    "type": "narration",
    "voice": "granny",
-   "text": "So now let us introduce a scientist whose work provides one of the most interesting ways of *thinking* about biological organization.",
-   "directed": "So now let us introduce a scientist whose work provides one of the most interesting ways of *thinking* about biological organization."
+   "text": "So now let us introduce a scientist whose work provides one of the most interesting ways of thinking about biological organization.",
+   "directed": "So now let us introduce a scientist whose work provides one of the most interesting ways of thinking about biological organization."
   },
   {
    "id": "b942",
@@ -7759,8 +7759,8 @@
    "section": "XV. Michael Levin enters the chat, and the body turns out to",
    "type": "narration",
    "voice": "granny",
-   "text": "His 2025 *BioEssays* article, The Multiscale Wisdom of the Body, develops this approach to collective cellular intelligence and anatomical regulation.",
-   "directed": "His 2025 *BioEssays* article, The Multiscale Wisdom of the Body, develops this approach to collective cellular intelligence and anatomical regulation."
+   "text": "His 2025 BioEssays article, The Multiscale Wisdom of the Body, develops this approach to collective cellular intelligence and anatomical regulation.",
+   "directed": "His 2025 BioEssays article, The Multiscale Wisdom of the Body, develops this approach to collective cellular intelligence and anatomical regulation."
   },
   {
    "id": "b970",
@@ -7775,8 +7775,8 @@
    "section": "XV. Michael Levin enters the chat, and the body turns out to",
    "type": "narration",
    "voice": "granny",
-   "text": "### The two-headed flatworm that remembers a different body",
-   "directed": "### The two-headed flatworm that remembers a different body"
+   "text": "The two-headed flatworm that remembers a different body",
+   "directed": "The two-headed flatworm that remembers a different body"
   },
   {
    "id": "b972",
@@ -7943,8 +7943,8 @@
    "section": "XV. Michael Levin enters the chat, and the body turns out to",
    "type": "narration",
    "voice": "granny",
-   "text": "**The body possesses forms of pattern memory that are not reducible to an unchanged DNA sequence.**",
-   "directed": "**The body possesses forms of pattern memory that are not reducible to an unchanged DNA sequence.**"
+   "text": "The body possesses forms of pattern memory that are not reducible to an unchanged DNA sequence.",
+   "directed": "The body possesses forms of pattern memory that are not reducible to an unchanged DNA sequence."
   },
   {
    "id": "b993",
@@ -7967,8 +7967,8 @@
    "section": "XV. Michael Levin enters the chat, and the body turns out to",
    "type": "narration",
    "voice": "granny",
-   "text": "### The anatomical setpoint",
-   "directed": "### The anatomical setpoint"
+   "text": "The anatomical setpoint",
+   "directed": "The anatomical setpoint"
   },
   {
    "id": "b996",
@@ -8103,8 +8103,8 @@
    "section": "XV. Michael Levin enters the chat, and the body turns out to",
    "type": "narration",
    "voice": "granny",
-   "text": "**What happens when the coordinated system loses the capacity to maintain its pattern?**",
-   "directed": "**What happens when the coordinated system loses the capacity to maintain its pattern?**"
+   "text": "What happens when the coordinated system loses the capacity to maintain its pattern?",
+   "directed": "What happens when the coordinated system loses the capacity to maintain its pattern?"
   },
   {
    "id": "b1013",
@@ -8503,8 +8503,8 @@
    "section": "XVI. What if the pattern is the thinker, and the body is mer",
    "type": "narration",
    "voice": "granny",
-   "text": "### But here is the enormous missing step.",
-   "directed": "### But here is the enormous missing step."
+   "text": "But here is the enormous missing step.",
+   "directed": "But here is the enormous missing step."
   },
   {
    "id": "b1063",
@@ -8543,8 +8543,8 @@
    "section": "XVI. What if the pattern is the thinker, and the body is mer",
    "type": "narration",
    "voice": "granny",
-   "text": "So if the human organism dies, and the systems supporting its neural and bodily organization irreversibly break down, **what carries the relevant conscious continuity onward?**",
-   "directed": "So if the human organism dies, and the systems supporting its neural and bodily organization irreversibly break down, **what carries the relevant conscious continuity onward?**"
+   "text": "So if the human organism dies, and the systems supporting its neural and bodily organization irreversibly break down, what carries the relevant conscious continuity onward?",
+   "directed": "So if the human organism dies, and the systems supporting its neural and bodily organization irreversibly break down, what carries the relevant conscious continuity onward?"
   },
   {
    "id": "b1068",
@@ -8639,8 +8639,8 @@
    "section": "XVI. What if the pattern is the thinker, and the body is mer",
    "type": "narration",
    "voice": "granny",
-   "text": "### The difference between persistence of form and persistence of subjectivity",
-   "directed": "### The difference between persistence of form and persistence of subjectivity"
+   "text": "The difference between persistence of form and persistence of subjectivity",
+   "directed": "The difference between persistence of form and persistence of subjectivity"
   },
   {
    "id": "b1080",
@@ -8743,8 +8743,8 @@
    "section": "XVI. What if the pattern is the thinker, and the body is mer",
    "type": "narration",
    "voice": "granny",
-   "text": "**The persistence of information is not automatically the persistence of the experiencer.**",
-   "directed": "**The persistence of information is not automatically the persistence of the experiencer.**"
+   "text": "The persistence of information is not automatically the persistence of the experiencer.",
+   "directed": "The persistence of information is not automatically the persistence of the experiencer."
   },
   {
    "id": "b1093",
@@ -9007,8 +9007,8 @@
    "section": "XVII. What would a serious scientific explanation of tukdam ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The preservation question",
-   "directed": "### The preservation question"
+   "text": "The preservation question",
+   "directed": "The preservation question"
   },
   {
    "id": "b1126",
@@ -9135,8 +9135,8 @@
    "section": "XVII. What would a serious scientific explanation of tukdam ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The coherence question",
-   "directed": "### The coherence question"
+   "text": "The coherence question",
+   "directed": "The coherence question"
   },
   {
    "id": "b1142",
@@ -9231,8 +9231,8 @@
    "section": "XVII. What would a serious scientific explanation of tukdam ",
    "type": "narration",
    "voice": "granny",
-   "text": "### The consciousness question",
-   "directed": "### The consciousness question"
+   "text": "The consciousness question",
+   "directed": "The consciousness question"
   },
   {
    "id": "b1154",
@@ -9495,8 +9495,8 @@
    "section": "XVIII. You've been dead for three days. Your meditation teac",
    "type": "narration",
    "voice": "granny",
-   "text": "**Remaining in a subtle state does not necessarily mean attaining final liberation.**",
-   "directed": "**Remaining in a subtle state does not necessarily mean attaining final liberation.**"
+   "text": "Remaining in a subtle state does not necessarily mean attaining final liberation.",
+   "directed": "Remaining in a subtle state does not necessarily mean attaining final liberation."
   },
   {
    "id": "b1187",
@@ -9543,24 +9543,24 @@
    "section": "XVIII. You've been dead for three days. Your meditation teac",
    "type": "narration",
    "voice": "granny",
-   "text": "*Seven days. Excellent. Probably fourth bhūmi.*",
-   "directed": "*Seven days. Excellent. Probably fourth bhūmi.*"
+   "text": "Seven days. Excellent. Probably fourth bhūmi.",
+   "directed": "Seven days. Excellent. Probably fourth bhūmi."
   },
   {
    "id": "b1193",
    "section": "XVIII. You've been dead for three days. Your meditation teac",
    "type": "narration",
    "voice": "granny",
-   "text": "*Fourteen days. Very impressive.*",
-   "directed": "*Fourteen days. Very impressive.*"
+   "text": "Fourteen days. Very impressive.",
+   "directed": "Fourteen days. Very impressive."
   },
   {
    "id": "b1194",
    "section": "XVIII. You've been dead for three days. Your meditation teac",
    "type": "narration",
    "voice": "granny",
-   "text": "*Thirty-eight days. Absolutely guaranteed Buddhahood.*",
-   "directed": "*Thirty-eight days. Absolutely guaranteed Buddhahood.*"
+   "text": "Thirty-eight days. Absolutely guaranteed Buddhahood.",
+   "directed": "Thirty-eight days. Absolutely guaranteed Buddhahood."
   },
   {
    "id": "b1195",
@@ -9591,8 +9591,8 @@
    "section": "XVIII. You've been dead for three days. Your meditation teac",
    "type": "narration",
    "voice": "granny",
-   "text": "### Meanwhile, the distinction between mind and body becomes unbearable.",
-   "directed": "### Meanwhile, the distinction between mind and body becomes unbearable."
+   "text": "Meanwhile, the distinction between mind and body becomes unbearable.",
+   "directed": "Meanwhile, the distinction between mind and body becomes unbearable."
   },
   {
    "id": "b1199",
@@ -9823,8 +9823,8 @@
    "section": "XVIII. You've been dead for three days. Your meditation teac",
    "type": "narration",
    "voice": "granny",
-   "text": "**Have you actually recognized the nature of mind?**",
-   "directed": "**Have you actually recognized the nature of mind?**"
+   "text": "Have you actually recognized the nature of mind?",
+   "directed": "Have you actually recognized the nature of mind?"
   },
   {
    "id": "b1228",
@@ -9911,8 +9911,8 @@
    "section": "XIX. Four ways your fourth death could go",
    "type": "narration",
    "voice": "granny",
-   "text": "### Ending A: You recognize the clear light.",
-   "directed": "### Ending A: You recognize the clear light."
+   "text": "Ending A: You recognize the clear light.",
+   "directed": "Ending A: You recognize the clear light."
   },
   {
    "id": "b1239",
@@ -10023,8 +10023,8 @@
    "section": "XIX. Four ways your fourth death could go",
    "type": "narration",
    "voice": "granny",
-   "text": "### Ending B: You cannot sustain recognition, but phowa is successful.",
-   "directed": "### Ending B: You cannot sustain recognition, but phowa is successful."
+   "text": "Ending B: You cannot sustain recognition, but phowa is successful.",
+   "directed": "Ending B: You cannot sustain recognition, but phowa is successful."
   },
   {
    "id": "b1253",
@@ -10103,8 +10103,8 @@
    "section": "XIX. Four ways your fourth death could go",
    "type": "narration",
    "voice": "granny",
-   "text": "### Ending C: You remain in tukdam and then enter the bardo.",
-   "directed": "### Ending C: You remain in tukdam and then enter the bardo."
+   "text": "Ending C: You remain in tukdam and then enter the bardo.",
+   "directed": "Ending C: You remain in tukdam and then enter the bardo."
   },
   {
    "id": "b1263",
@@ -10279,8 +10279,8 @@
    "section": "XIX. Four ways your fourth death could go",
    "type": "narration",
    "voice": "granny",
-   "text": "**You have become attached to being a meditator.**",
-   "directed": "**You have become attached to being a meditator.**"
+   "text": "You have become attached to being a meditator.",
+   "directed": "You have become attached to being a meditator."
   },
   {
    "id": "b1285",
@@ -10415,8 +10415,8 @@
    "section": "XIX. Four ways your fourth death could go",
    "type": "narration",
    "voice": "granny",
-   "text": "### Ending D: You die suddenly and cannot use the training as expected.",
-   "directed": "### Ending D: You die suddenly and cannot use the training as expected."
+   "text": "Ending D: You die suddenly and cannot use the training as expected.",
+   "directed": "Ending D: You die suddenly and cannot use the training as expected."
   },
   {
    "id": "b1302",
@@ -10687,16 +10687,16 @@
    "section": "XX. You're alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "The question is whether the nature of awareness can be recognized **without fabricating another state to possess**.",
-   "directed": "The question is whether the nature of awareness can be recognized **without fabricating another state to possess**."
+   "text": "The question is whether the nature of awareness can be recognized without fabricating another state to possess.",
+   "directed": "The question is whether the nature of awareness can be recognized without fabricating another state to possess."
   },
   {
    "id": "b1336",
    "section": "XX. You're alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "Now we approach *trekchö*.",
-   "directed": "Now we approach *trekchö*."
+   "text": "Now we approach trekchö.",
+   "directed": "Now we approach trekchö."
   },
   {
    "id": "b1337",
@@ -10711,8 +10711,8 @@
    "section": "XX. You're alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "And *tögal*.",
-   "directed": "And *tögal*."
+   "text": "And tögal.",
+   "directed": "And tögal."
   },
   {
    "id": "b1339",
@@ -10735,8 +10735,8 @@
    "section": "XX. You're alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**Rainbow body.**",
-   "directed": "**Rainbow body.**"
+   "text": "Rainbow body.",
+   "directed": "Rainbow body."
   },
   {
    "id": "b1342",
@@ -10767,8 +10767,8 @@
    "section": "XX. You're alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "Other traditions describe the *great transference*.",
-   "directed": "Other traditions describe the *great transference*."
+   "text": "Other traditions describe the great transference.",
+   "directed": "Other traditions describe the great transference."
   },
   {
    "id": "b1346",
@@ -10999,8 +10999,8 @@
    "section": "XXI. The final philosophical problem: What exactly dies?",
    "type": "narration",
    "voice": "granny",
-   "text": "**An immortal delusion is still a delusion.**",
-   "directed": "**An immortal delusion is still a delusion.**"
+   "text": "An immortal delusion is still a delusion.",
+   "directed": "An immortal delusion is still a delusion."
   },
   {
    "id": "b1375",
@@ -11127,8 +11127,8 @@
    "section": "XXI. The final philosophical problem: What exactly dies?",
    "type": "narration",
    "voice": "granny",
-   "text": "**You are dead.**",
-   "directed": "**You are dead.**"
+   "text": "You are dead.",
+   "directed": "You are dead."
   },
   {
    "id": "b1391",
@@ -11191,8 +11191,8 @@
    "section": "XXI. The final philosophical problem: What exactly dies?",
    "type": "narration",
    "voice": "granny",
-   "text": "You have been *mistaking what you are*.",
-   "directed": "You have been *mistaking what you are*."
+   "text": "You have been mistaking what you are.",
+   "directed": "You have been mistaking what you are."
   },
   {
    "id": "b1399",
@@ -11335,8 +11335,8 @@
    "section": "XXI. The final philosophical problem: What exactly dies?",
    "type": "narration",
    "voice": "granny",
-   "text": "*What will happen to me when I die?*",
-   "directed": "*What will happen to me when I die?*"
+   "text": "What will happen to me when I die?",
+   "directed": "What will happen to me when I die?"
   },
   {
    "id": "b1417",
@@ -11351,8 +11351,8 @@
    "section": "XXI. The final philosophical problem: What exactly dies?",
    "type": "narration",
    "voice": "granny",
-   "text": "**Who the fuck is this “me” that you keep insisting has been travelling?**",
-   "directed": "**Who the fuck is this “me” that you keep insisting has been travelling?**"
+   "text": "Who the fuck is this “me” that you keep insisting has been travelling?",
+   "directed": "Who the fuck is this “me” that you keep insisting has been travelling?"
   },
   {
    "id": "b1419",
@@ -11423,8 +11423,8 @@
    "section": "XXI. The final philosophical problem: What exactly dies?",
    "type": "narration",
    "voice": "granny",
-   "text": "**For four deaths, you have been trying to escape the prison.**",
-   "directed": "**For four deaths, you have been trying to escape the prison.**"
+   "text": "For four deaths, you have been trying to escape the prison.",
+   "directed": "For four deaths, you have been trying to escape the prison."
   },
   {
    "id": "b1428",
@@ -11447,8 +11447,8 @@
    "section": "XXI. The final philosophical problem: What exactly dies?",
    "type": "narration",
    "voice": "granny",
-   "text": "**Research grounding:** The tantric dissolution account is presented through Lati Rinbochay and Jeffrey Hopkins, Patrul Rinpoche, Mindroling Terchen and Karma Chakmé, rather than falsely attributing every detail to Karma Lingpa's *Bardo Thödol*. The central tukdam evidence comes from Lott et al. (2021), Tidwell et al. (2024), the 2025 anthropological studies and the Tukdam Project's March 2026 research update. The comparison with Michael Levin draws on his peer-reviewed bioelectric morphogenesis research and his explicitly speculative writing about patterns and agency. Observed delayed decomposition, measured neural activity, contemplative interpretations and unverified postmortem consciousness are distinct claims.",
-   "directed": "**Research grounding:** The tantric dissolution account is presented through Lati Rinbochay and Jeffrey Hopkins, Patrul Rinpoche, Mindroling Terchen and Karma Chakmé, rather than falsely attributing every detail to Karma Lingpa's *Bardo Thödol*. The central tukdam evidence comes from Lott et al. (2021), Tidwell et al. (2024), the 2025 anthropological studies and the Tukdam Project's March 2026 research update. The comparison with Michael Levin draws on his peer-reviewed bioelectric morphogenesis research and his explicitly speculative writing about patterns and agency. Observed delayed decomposition, measured neural activity, contemplative interpretations and unverified postmortem consciousness are distinct claims."
+   "text": "Research grounding: The tantric dissolution account is presented through Lati Rinbochay and Jeffrey Hopkins, Patrul Rinpoche, Mindroling Terchen and Karma Chakmé, rather than falsely attributing every detail to Karma Lingpa's Bardo Thödol. The central tukdam evidence comes from Lott et al. (2021), Tidwell et al. (2024), the 2025 anthropological studies and the Tukdam Project's March 2026 research update. The comparison with Michael Levin draws on his peer-reviewed bioelectric morphogenesis research and his explicitly speculative writing about patterns and agency. Observed delayed decomposition, measured neural activity, contemplative interpretations and unverified postmortem consciousness are distinct claims.",
+   "directed": "Research grounding: The tantric dissolution account is presented through Lati Rinbochay and Jeffrey Hopkins, Patrul Rinpoche, Mindroling Terchen and Karma Chakmé, rather than falsely attributing every detail to Karma Lingpa's Bardo Thödol. The central tukdam evidence comes from Lott et al. (2021), Tidwell et al. (2024), the 2025 anthropological studies and the Tukdam Project's March 2026 research update. The comparison with Michael Levin draws on his peer-reviewed bioelectric morphogenesis research and his explicitly speculative writing about patterns and agency. Observed delayed decomposition, measured neural activity, contemplative interpretations and unverified postmortem consciousness are distinct claims."
   },
   {
    "id": "b1431",

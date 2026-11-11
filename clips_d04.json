@@ -1,0 +1,58 @@
+{
+ "b12": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/motion-2x/mandala_2x15s.mp4",
+  "complete_bid": "b13",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "d04 mandala motif \u2014 placement evidence (mandala) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b14": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/motion-2x/mandala_2x15s.mp4",
+  "complete_bid": "b15",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "d04 mandala motif \u2014 placement evidence (mandala) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b2": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/motion-2x/death-bell_2x15s.mp4",
+  "complete_bid": "b3",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "d04 death-bell motif \u2014 placement evidence (death-toll) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b199": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/motion-2x/death-bell_2x15s.mp4",
+  "complete_bid": "b200",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "d04 death-bell motif \u2014 placement evidence (death-toll) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b170": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/motion-2x/rainbow-body_2x15s.mp4",
+  "complete_bid": "b171",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "d04 rainbow-body motif \u2014 placement evidence (rainbow-body) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b258": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/motion-2x/rainbow-body_2x15s.mp4",
+  "complete_bid": "b259",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "d04 rainbow-body motif \u2014 placement evidence (rainbow-body) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b57": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/motion-2x/yama-scales_2x15s.mp4",
+  "complete_bid": "b58",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "d04 yama-scales motif \u2014 placement evidence (yama-scales) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b65": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/motion-2x/yama-scales_2x15s.mp4",
+  "complete_bid": "b66",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "d04 yama-scales motif \u2014 placement evidence (yama-scales) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ }
+}

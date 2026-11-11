@@ -1,0 +1,51 @@
+{
+ "b2": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-death-bell-first.png",
+  "complete_bid": "b3",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d01 You are alive\\! -> SPLIT x9 (~86s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b185": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b186",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d01 You are alive\\! \u2014 visual-plan gap"
+ },
+ "b196": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-mandala-first.png",
+  "complete_bid": "b197",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d01 etch lead-in for mandala clip at b197 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b18": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b19",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d01 etch lead-in for rainbow-body clip at b19 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b23": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b24",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d01 etch lead-in for rainbow-body clip at b24 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b6": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b7",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d01 etch lead-in for yama-scales clip at b7 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b88": {
+  "asset": "/home/ubuntu/tibetan-dead/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b89",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "d01 etch lead-in for yama-scales clip at b89 \u2014 first frame etches from white, then motion takes over seamless"
+ }
+}

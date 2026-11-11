@@ -31,16 +31,16 @@
    "section": "You're Dead. Except There Is No Longer Anyone to Die.",
    "type": "narration",
    "voice": "granny",
-   "text": "*The Great Perfection. Samantabhadra. The primordial ground. The four visions. Rainbow body. The last bardo. And the frankly outrageous possibility that the entire machinery of rebirth has been running on a misunderstanding.*",
-   "directed": "*The Great Perfection. Samantabhadra. The primordial ground. The four visions. Rainbow body. The last bardo. And the frankly outrageous possibility that the entire machinery of rebirth has been running on a misunderstanding.*"
+   "text": "The Great Perfection. Samantabhadra. The primordial ground. The four visions. Rainbow body. The last bardo. And the frankly outrageous possibility that the entire machinery of rebirth has been running on a misunderstanding.",
+   "directed": "The Great Perfection. Samantabhadra. The primordial ground. The four visions. Rainbow body. The last bardo. And the frankly outrageous possibility that the entire machinery of rebirth has been running on a misunderstanding."
   },
   {
    "id": "b4",
    "section": "You're Dead. Except There Is No Longer Anyone to Die.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Our final chapter draws especially on Longchenpa's* Essential Summary *and* Great Guide to the Supreme Secret Path; *Jigme Lingpa's* Prayer of the Ground, Path and Fruition *and* Aspiration for the Bardos; *Patrul Rinpoche's* Special Teaching of the Wise and Glorious King; *Dodrupchen Jigme Tenpé Nyima's* Answers on Dzogchen; *and Karma Lingpa's* Root Verses on the Six Bardos. *The dialogue and five-life narrative are invented, not scriptural quotations.*",
-   "directed": "*Our final chapter draws especially on Longchenpa's* Essential Summary *and* Great Guide to the Supreme Secret Path; *Jigme Lingpa's* Prayer of the Ground, Path and Fruition *and* Aspiration for the Bardos; *Patrul Rinpoche's* Special Teaching of the Wise and Glorious King; *Dodrupchen Jigme Tenpé Nyima's* Answers on Dzogchen; *and Karma Lingpa's* Root Verses on the Six Bardos. *The dialogue and five-life narrative are invented, not scriptural quotations.*"
+   "text": "Our final chapter draws especially on Longchenpa's Essential Summary and Great Guide to the Supreme Secret Path; Jigme Lingpa's Prayer of the Ground, Path and Fruition and Aspiration for the Bardos; Patrul Rinpoche's Special Teaching of the Wise and Glorious King; Dodrupchen Jigme Tenpé Nyima's Answers on Dzogchen; and Karma Lingpa's Root Verses on the Six Bardos. The dialogue and five-life narrative are invented, not scriptural quotations.",
+   "directed": "Our final chapter draws especially on Longchenpa's Essential Summary and Great Guide to the Supreme Secret Path; Jigme Lingpa's Prayer of the Ground, Path and Fruition and Aspiration for the Bardos; Patrul Rinpoche's Special Teaching of the Wise and Glorious King; Dodrupchen Jigme Tenpé Nyima's Answers on Dzogchen; and Karma Lingpa's Root Verses on the Six Bardos. The dialogue and five-life narrative are invented, not scriptural quotations."
   },
   {
    "id": "b5",
@@ -63,8 +63,8 @@
    "section": "I. You are alive!",
    "type": "figure",
    "voice": "none",
-   "text": "**FOR FUCK'S SAKE.**",
-   "directed": "**FOR FUCK'S SAKE.**"
+   "text": "FOR FUCK'S SAKE.",
+   "directed": "FOR FUCK'S SAKE."
   },
   {
    "id": "b8",
@@ -111,8 +111,8 @@
    "section": "I. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**Life One:** You were a vicious bastard.",
-   "directed": "**Life One:** You were a vicious bastard."
+   "text": "Life One: You were a vicious bastard.",
+   "directed": "Life One: You were a vicious bastard."
   },
   {
    "id": "b14",
@@ -151,8 +151,8 @@
    "section": "I. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**Life Two:** You became a Buddhist intellectual.",
-   "directed": "**Life Two:** You became a Buddhist intellectual."
+   "text": "Life Two: You became a Buddhist intellectual.",
+   "directed": "Life Two: You became a Buddhist intellectual."
   },
   {
    "id": "b19",
@@ -231,8 +231,8 @@
    "section": "I. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**Life Three:** You developed compassion.",
-   "directed": "**Life Three:** You developed compassion."
+   "text": "Life Three: You developed compassion.",
+   "directed": "Life Three: You developed compassion."
   },
   {
    "id": "b29",
@@ -287,8 +287,8 @@
    "section": "I. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**Life Four:** You actually meditated.",
-   "directed": "**Life Four:** You actually meditated."
+   "text": "Life Four: You actually meditated.",
+   "directed": "Life Four: You actually meditated."
   },
   {
    "id": "b36",
@@ -359,8 +359,8 @@
    "section": "I. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "You even died in a manner your companions interpreted as *tukdam*.",
-   "directed": "You even died in a manner your companions interpreted as *tukdam*."
+   "text": "You even died in a manner your companions interpreted as tukdam.",
+   "directed": "You even died in a manner your companions interpreted as tukdam."
   },
   {
    "id": "b45",
@@ -519,8 +519,8 @@
    "section": "I. You are alive!",
    "type": "narration",
    "voice": "granny",
-   "text": "**You are trying to produce something that, at the level of the ground, was never absent.**",
-   "directed": "**You are trying to produce something that, at the level of the ground, was never absent.**"
+   "text": "You are trying to produce something that, at the level of the ground, was never absent.",
+   "directed": "You are trying to produce something that, at the level of the ground, was never absent."
   },
   {
    "id": "b65",
@@ -695,8 +695,8 @@
    "section": "II. You meet a Dzogchen master, and he immediately ruins you",
    "type": "narration",
    "voice": "granny",
-   "text": "*What is it that you think you're going to attain?*",
-   "directed": "*What is it that you think you're going to attain?*"
+   "text": "What is it that you think you're going to attain?",
+   "directed": "What is it that you think you're going to attain?"
   },
   {
    "id": "b87",
@@ -743,8 +743,8 @@
    "section": "II. You meet a Dzogchen master, and he immediately ruins you",
    "type": "narration",
    "voice": "granny",
-   "text": "*And who is the one who hopes to possess this realization?*",
-   "directed": "*And who is the one who hopes to possess this realization?*"
+   "text": "And who is the one who hopes to possess this realization?",
+   "directed": "And who is the one who hopes to possess this realization?"
   },
   {
    "id": "b93",
@@ -847,8 +847,8 @@
    "section": "II. You meet a Dzogchen master, and he immediately ruins you",
    "type": "narration",
    "voice": "granny",
-   "text": "**You want the ego to survive long enough to receive an official certificate stating that the ego never existed.**",
-   "directed": "**You want the ego to survive long enough to receive an official certificate stating that the ego never existed.**"
+   "text": "You want the ego to survive long enough to receive an official certificate stating that the ego never existed.",
+   "directed": "You want the ego to survive long enough to receive an official certificate stating that the ego never existed."
   },
   {
    "id": "b106",
@@ -871,8 +871,8 @@
    "section": "II. You meet a Dzogchen master, and he immediately ruins you",
    "type": "narration",
    "voice": "granny",
-   "text": "Actual *ngo sprod*, direct introduction, belongs to a lineage context, with preparation, guidance and verification of understanding.",
-   "directed": "Actual *ngo sprod*, direct introduction, belongs to a lineage context, with preparation, guidance and verification of understanding."
+   "text": "Actual ngo sprod, direct introduction, belongs to a lineage context, with preparation, guidance and verification of understanding.",
+   "directed": "Actual ngo sprod, direct introduction, belongs to a lineage context, with preparation, guidance and verification of understanding."
   },
   {
    "id": "b109",
@@ -935,8 +935,8 @@
    "section": "II. You meet a Dzogchen master, and he immediately ruins you",
    "type": "narration",
    "voice": "granny",
-   "text": "*So what am I supposed to do?*",
-   "directed": "*So what am I supposed to do?*"
+   "text": "So what am I supposed to do?",
+   "directed": "So what am I supposed to do?"
   },
   {
    "id": "b117",
@@ -951,8 +951,8 @@
    "section": "II. You meet a Dzogchen master, and he immediately ruins you",
    "type": "narration",
    "voice": "granny",
-   "text": "*First understand what Dzogchen is actually claiming.*",
-   "directed": "*First understand what Dzogchen is actually claiming.*"
+   "text": "First understand what Dzogchen is actually claiming.",
+   "directed": "First understand what Dzogchen is actually claiming."
   },
   {
    "id": "b119",
@@ -999,16 +999,16 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "The Tibetan term *rdzogs pa chen po* means Great Perfection or Great Completeness.",
-   "directed": "The Tibetan term *rdzogs pa chen po* means Great Perfection or Great Completeness."
+   "text": "The Tibetan term rdzogs pa chen po means Great Perfection or Great Completeness.",
+   "directed": "The Tibetan term rdzogs pa chen po means Great Perfection or Great Completeness."
   },
   {
    "id": "b125",
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "And the most radical part of the teaching concerns the **ground**.",
-   "directed": "And the most radical part of the teaching concerns the **ground**."
+   "text": "And the most radical part of the teaching concerns the ground.",
+   "directed": "And the most radical part of the teaching concerns the ground."
   },
   {
    "id": "b126",
@@ -1023,8 +1023,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "Wylie: *gzhi*.",
-   "directed": "Wylie: *gzhi*."
+   "text": "Wylie: gzhi.",
+   "directed": "Wylie: gzhi."
   },
   {
    "id": "b128",
@@ -1095,8 +1095,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "| **Essence**<br><br>ngo bo | Primordial purity, *ka dag*: empty, unoriginated, never intrinsically stained. |\n|--------|--------|\n| **Nature**<br><br>rang bzhin | Spontaneous presence, *lhun grub*: luminous, expressive, the source of manifestation. |\n| **Compassionate responsiveness**<br><br>thugs rje | Unobstructed responsiveness or expressive capacity, not merely an emotional feeling of kindness. |",
-   "directed": "| **Essence**<br><br>ngo bo | Primordial purity, *ka dag*: empty, unoriginated, never intrinsically stained. |\n|--------|--------|\n| **Nature**<br><br>rang bzhin | Spontaneous presence, *lhun grub*: luminous, expressive, the source of manifestation. |\n| **Compassionate responsiveness**<br><br>thugs rje | Unobstructed responsiveness or expressive capacity, not merely an emotional feeling of kindness. |"
+   "text": "Essence. . ngo bo: Primordial purity, ka dag: empty, unoriginated, never intrinsically stained. Nature. . rang bzhin: Spontaneous presence, lhun grub: luminous, expressive, the source of manifestation. Compassionate responsiveness. . thugs rje: Unobstructed responsiveness or expressive capacity, not merely an emotional feeling of kindness.",
+   "directed": "Essence. . ngo bo: Primordial purity, ka dag: empty, unoriginated, never intrinsically stained. Nature. . rang bzhin: Spontaneous presence, lhun grub: luminous, expressive, the source of manifestation. Compassionate responsiveness. . thugs rje: Unobstructed responsiveness or expressive capacity, not merely an emotional feeling of kindness."
   },
   {
    "id": "b137",
@@ -1119,8 +1119,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "Longchenpa's *Essential Summary* explicitly links the threefold ground with the possibility of either recognizing appearances as its manifestation or becoming confused by them.",
-   "directed": "Longchenpa's *Essential Summary* explicitly links the threefold ground with the possibility of either recognizing appearances as its manifestation or becoming confused by them."
+   "text": "Longchenpa's Essential Summary explicitly links the threefold ground with the possibility of either recognizing appearances as its manifestation or becoming confused by them.",
+   "directed": "Longchenpa's Essential Summary explicitly links the threefold ground with the possibility of either recognizing appearances as its manifestation or becoming confused by them."
   },
   {
    "id": "b140",
@@ -1135,8 +1135,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "### Ka dag: primordial purity",
-   "directed": "### Ka dag: primordial purity"
+   "text": "Ka dag: primordial purity",
+   "directed": "Ka dag: primordial purity"
   },
   {
    "id": "b142",
@@ -1151,24 +1151,24 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "Wylie: *ka dag*.",
-   "directed": "Wylie: *ka dag*."
+   "text": "Wylie: ka dag.",
+   "directed": "Wylie: ka dag."
   },
   {
    "id": "b144",
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "The first syllable, *ka*, is used in this expression to evoke what is primordial or original.",
-   "directed": "The first syllable, *ka*, is used in this expression to evoke what is primordial or original."
+   "text": "The first syllable, ka, is used in this expression to evoke what is primordial or original.",
+   "directed": "The first syllable, ka, is used in this expression to evoke what is primordial or original."
   },
   {
    "id": "b145",
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "*Dag* means pure.",
-   "directed": "*Dag* means pure."
+   "text": "Dag means pure.",
+   "directed": "Dag means pure."
   },
   {
    "id": "b146",
@@ -1239,8 +1239,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "*Congratulations, anger is primordial purity, go and punch somebody.*",
-   "directed": "*Congratulations, anger is primordial purity, go and punch somebody.*"
+   "text": "Congratulations, anger is primordial purity, go and punch somebody.",
+   "directed": "Congratulations, anger is primordial purity, go and punch somebody."
   },
   {
    "id": "b155",
@@ -1311,8 +1311,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "**The ground is not dirty because beings are confused about it.**",
-   "directed": "**The ground is not dirty because beings are confused about it.**"
+   "text": "The ground is not dirty because beings are confused about it.",
+   "directed": "The ground is not dirty because beings are confused about it."
   },
   {
    "id": "b164",
@@ -1343,8 +1343,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "### Lhun grub: spontaneous presence",
-   "directed": "### Lhun grub: spontaneous presence"
+   "text": "Lhun grub: spontaneous presence",
+   "directed": "Lhun grub: spontaneous presence"
   },
   {
    "id": "b168",
@@ -1359,8 +1359,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "Wylie: *lhun grub*.",
-   "directed": "Wylie: *lhun grub*."
+   "text": "Wylie: lhun grub.",
+   "directed": "Wylie: lhun grub."
   },
   {
    "id": "b170",
@@ -1575,8 +1575,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "**The term luminosity is not simply a reference to electromagnetic radiation.**",
-   "directed": "**The term luminosity is not simply a reference to electromagnetic radiation.**"
+   "text": "The term luminosity is not simply a reference to electromagnetic radiation.",
+   "directed": "The term luminosity is not simply a reference to electromagnetic radiation."
   },
   {
    "id": "b197",
@@ -1591,8 +1591,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "### Thugs rje: compassionate responsiveness",
-   "directed": "### Thugs rje: compassionate responsiveness"
+   "text": "Thugs rje: compassionate responsiveness",
+   "directed": "Thugs rje: compassionate responsiveness"
   },
   {
    "id": "b199",
@@ -1607,8 +1607,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "*Thugs rje* is often translated as compassion.",
-   "directed": "*Thugs rje* is often translated as compassion."
+   "text": "Thugs rje is often translated as compassion.",
+   "directed": "Thugs rje is often translated as compassion."
   },
   {
    "id": "b201",
@@ -1727,8 +1727,8 @@
    "section": "III. The primordial ground: Before the universe, before you,",
    "type": "narration",
    "voice": "granny",
-   "text": "*Right. If everything is primordially pure, why the fuck have I spent five lifetimes being miserable?*",
-   "directed": "*Right. If everything is primordially pure, why the fuck have I spent five lifetimes being miserable?*"
+   "text": "Right. If everything is primordially pure, why the fuck have I spent five lifetimes being miserable?",
+   "directed": "Right. If everything is primordially pure, why the fuck have I spent five lifetimes being miserable?"
   },
   {
    "id": "b216",
@@ -1767,8 +1767,8 @@
    "section": "IV. Samantabhadra: The Buddha who never fell for the bullshi",
    "type": "narration",
    "voice": "granny",
-   "text": "In Tibetan, *Kuntuzangpo*.",
-   "directed": "In Tibetan, *Kuntuzangpo*."
+   "text": "In Tibetan, Kuntuzangpo.",
+   "directed": "In Tibetan, Kuntuzangpo."
   },
   {
    "id": "b221",
@@ -1999,8 +1999,8 @@
    "section": "IV. Samantabhadra: The Buddha who never fell for the bullshi",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Prayer of Kuntuzangpo* describes a progression from unawareness and bewilderment to anxiety, the differentiation of self and other, reinforced habitual tendencies, and the proliferation of the five afflictive poisons.",
-   "directed": "The *Prayer of Kuntuzangpo* describes a progression from unawareness and bewilderment to anxiety, the differentiation of self and other, reinforced habitual tendencies, and the proliferation of the five afflictive poisons."
+   "text": "The Prayer of Kuntuzangpo describes a progression from unawareness and bewilderment to anxiety, the differentiation of self and other, reinforced habitual tendencies, and the proliferation of the five afflictive poisons.",
+   "directed": "The Prayer of Kuntuzangpo describes a progression from unawareness and bewilderment to anxiety, the differentiation of self and other, reinforced habitual tendencies, and the proliferation of the five afflictive poisons."
   },
   {
    "id": "b250",
@@ -2039,8 +2039,8 @@
    "section": "IV. Samantabhadra: The Buddha who never fell for the bullshi",
    "type": "narration",
    "voice": "granny",
-   "text": "**Experience arises, and the very nature of the arising is not recognized.**",
-   "directed": "**Experience arises, and the very nature of the arising is not recognized.**"
+   "text": "Experience arises, and the very nature of the arising is not recognized.",
+   "directed": "Experience arises, and the very nature of the arising is not recognized."
   },
   {
    "id": "b255",
@@ -2159,8 +2159,8 @@
    "section": "IV. Samantabhadra: The Buddha who never fell for the bullshi",
    "type": "narration",
    "voice": "granny",
-   "text": "### But why did ignorance arise in the first place?",
-   "directed": "### But why did ignorance arise in the first place?"
+   "text": "But why did ignorance arise in the first place?",
+   "directed": "But why did ignorance arise in the first place?"
   },
   {
    "id": "b270",
@@ -2287,8 +2287,8 @@
    "section": "IV. Samantabhadra: The Buddha who never fell for the bullshi",
    "type": "narration",
    "voice": "granny",
-   "text": "Consequently, asking what happened *before* ignorance can mistakenly impose a temporal sequence upon what the teaching presents as more fundamental than that sequence.",
-   "directed": "Consequently, asking what happened *before* ignorance can mistakenly impose a temporal sequence upon what the teaching presents as more fundamental than that sequence."
+   "text": "Consequently, asking what happened before ignorance can mistakenly impose a temporal sequence upon what the teaching presents as more fundamental than that sequence.",
+   "directed": "Consequently, asking what happened before ignorance can mistakenly impose a temporal sequence upon what the teaching presents as more fundamental than that sequence."
   },
   {
    "id": "b286",
@@ -2327,8 +2327,8 @@
    "section": "IV. Samantabhadra: The Buddha who never fell for the bullshi",
    "type": "narration",
    "voice": "granny",
-   "text": "**The ground is not a cosmic substance that accidentally became ignorant and is now desperately attempting to repair itself.**",
-   "directed": "**The ground is not a cosmic substance that accidentally became ignorant and is now desperately attempting to repair itself.**"
+   "text": "The ground is not a cosmic substance that accidentally became ignorant and is now desperately attempting to repair itself.",
+   "directed": "The ground is not a cosmic substance that accidentally became ignorant and is now desperately attempting to repair itself."
   },
   {
    "id": "b291",
@@ -2359,8 +2359,8 @@
    "section": "IV. Samantabhadra: The Buddha who never fell for the bullshi",
    "type": "narration",
    "voice": "granny",
-   "text": "*So Samantabhadra is the one who never made the original mistake?*",
-   "directed": "*So Samantabhadra is the one who never made the original mistake?*"
+   "text": "So Samantabhadra is the one who never made the original mistake?",
+   "directed": "So Samantabhadra is the one who never made the original mistake?"
   },
   {
    "id": "b295",
@@ -2375,8 +2375,8 @@
    "section": "IV. Samantabhadra: The Buddha who never fell for the bullshi",
    "type": "narration",
    "voice": "granny",
-   "text": "*And I'm the one who has been making it for beginningless time?*",
-   "directed": "*And I'm the one who has been making it for beginningless time?*"
+   "text": "And I'm the one who has been making it for beginningless time?",
+   "directed": "And I'm the one who has been making it for beginningless time?"
   },
   {
    "id": "b297",
@@ -2391,8 +2391,8 @@
    "section": "IV. Samantabhadra: The Buddha who never fell for the bullshi",
    "type": "narration",
    "voice": "granny",
-   "text": "*And the difference is recognition?*",
-   "directed": "*And the difference is recognition?*"
+   "text": "And the difference is recognition?",
+   "directed": "And the difference is recognition?"
   },
   {
    "id": "b299",
@@ -2407,8 +2407,8 @@
    "section": "IV. Samantabhadra: The Buddha who never fell for the bullshi",
    "type": "narration",
    "voice": "granny",
-   "text": "*Jesus Christ.*",
-   "directed": "*Jesus Christ.*"
+   "text": "Jesus Christ.",
+   "directed": "Jesus Christ."
   },
   {
    "id": "b301",
@@ -2439,8 +2439,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*Sem*.",
-   "directed": "*Sem*."
+   "text": "Sem.",
+   "directed": "Sem."
   },
   {
    "id": "b305",
@@ -2463,8 +2463,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "And *rigpa*.",
-   "directed": "And *rigpa*."
+   "text": "And rigpa.",
+   "directed": "And rigpa."
   },
   {
    "id": "b308",
@@ -2519,8 +2519,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "### Ordinary mind: sem",
-   "directed": "### Ordinary mind: sem"
+   "text": "Ordinary mind: sem",
+   "directed": "Ordinary mind: sem"
   },
   {
    "id": "b315",
@@ -2607,48 +2607,48 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*I am a particular person.*",
-   "directed": "*I am a particular person.*"
+   "text": "I am a particular person.",
+   "directed": "I am a particular person."
   },
   {
    "id": "b326",
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*I have a particular history.*",
-   "directed": "*I have a particular history.*"
+   "text": "I have a particular history.",
+   "directed": "I have a particular history."
   },
   {
    "id": "b327",
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*Something is happening to me.*",
-   "directed": "*Something is happening to me.*"
+   "text": "Something is happening to me.",
+   "directed": "Something is happening to me."
   },
   {
    "id": "b328",
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*I like this.*",
-   "directed": "*I like this.*"
+   "text": "I like this.",
+   "directed": "I like this."
   },
   {
    "id": "b329",
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*I dislike that.*",
-   "directed": "*I dislike that.*"
+   "text": "I dislike that.",
+   "directed": "I dislike that."
   },
   {
    "id": "b330",
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*I must do something about it.*",
-   "directed": "*I must do something about it.*"
+   "text": "I must do something about it.",
+   "directed": "I must do something about it."
   },
   {
    "id": "b331",
@@ -2743,8 +2743,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "### Rigpa: the recognition you've been missing",
-   "directed": "### Rigpa: the recognition you've been missing"
+   "text": "Rigpa: the recognition you've been missing",
+   "directed": "Rigpa: the recognition you've been missing"
   },
   {
    "id": "b343",
@@ -2767,8 +2767,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*I am aware.*",
-   "directed": "*I am aware.*"
+   "text": "I am aware.",
+   "directed": "I am aware."
   },
   {
    "id": "b346",
@@ -2823,8 +2823,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "The word itself has a broad range in Tibetan, so we should not pretend that every occurrence of *rig pa* in every Buddhist text carries this exact technical meaning.",
-   "directed": "The word itself has a broad range in Tibetan, so we should not pretend that every occurrence of *rig pa* in every Buddhist text carries this exact technical meaning."
+   "text": "The word itself has a broad range in Tibetan, so we should not pretend that every occurrence of rig pa in every Buddhist text carries this exact technical meaning.",
+   "directed": "The word itself has a broad range in Tibetan, so we should not pretend that every occurrence of rig pa in every Buddhist text carries this exact technical meaning."
   },
   {
    "id": "b353",
@@ -2887,8 +2887,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*I am meditating very successfully.*",
-   "directed": "*I am meditating very successfully.*"
+   "text": "I am meditating very successfully.",
+   "directed": "I am meditating very successfully."
   },
   {
    "id": "b361",
@@ -2911,8 +2911,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*This would make a magnificent book.*",
-   "directed": "*This would make a magnificent book.*"
+   "text": "This would make a magnificent book.",
+   "directed": "This would make a magnificent book."
   },
   {
    "id": "b364",
@@ -2927,8 +2927,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*I wonder whether anyone else understands this as well as I do.*",
-   "directed": "*I wonder whether anyone else understands this as well as I do.*"
+   "text": "I wonder whether anyone else understands this as well as I do.",
+   "directed": "I wonder whether anyone else understands this as well as I do."
   },
   {
    "id": "b366",
@@ -2999,8 +2999,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*Ah! There must be a permanent witness behind the thoughts!*",
-   "directed": "*Ah! There must be a permanent witness behind the thoughts!*"
+   "text": "Ah! There must be a permanent witness behind the thoughts!",
+   "directed": "Ah! There must be a permanent witness behind the thoughts!"
   },
   {
    "id": "b375",
@@ -3071,8 +3071,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "### Why isn't this just Kashmir Śaivism?",
-   "directed": "### Why isn't this just Kashmir Śaivism?"
+   "text": "Why isn't this just Kashmir Śaivism?",
+   "directed": "Why isn't this just Kashmir Śaivism?"
   },
   {
    "id": "b384",
@@ -3175,8 +3175,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "*Consciousness, emptiness, Śiva, rigpa, dharmakāya-same shit.*",
-   "directed": "*Consciousness, emptiness, Śiva, rigpa, dharmakāya-same shit.*"
+   "text": "Consciousness, emptiness, Śiva, rigpa, dharmakāya-same shit.",
+   "directed": "Consciousness, emptiness, Śiva, rigpa, dharmakāya-same shit."
   },
   {
    "id": "b397",
@@ -3263,8 +3263,8 @@
    "section": "V. Rigpa versus sem: You've spent your entire life mistaking",
    "type": "narration",
    "voice": "granny",
-   "text": "Which brings us to *trekchö*.",
-   "directed": "Which brings us to *trekchö*."
+   "text": "Which brings us to trekchö.",
+   "directed": "Which brings us to trekchö."
   },
   {
    "id": "b408",
@@ -3287,16 +3287,16 @@
    "section": "VI. Trekchö: Cut through the bullshit. Not the thoughts.",
    "type": "narration",
    "voice": "granny",
-   "text": "Wylie: *khregs chod*.",
-   "directed": "Wylie: *khregs chod*."
+   "text": "Wylie: khregs chod.",
+   "directed": "Wylie: khregs chod."
   },
   {
    "id": "b411",
    "section": "VI. Trekchö: Cut through the bullshit. Not the thoughts.",
    "type": "narration",
    "voice": "granny",
-   "text": "Often translated as *Cutting Through*, *Thorough Cut*, or *Cutting Through Solidity*.",
-   "directed": "Often translated as *Cutting Through*, *Thorough Cut*, or *Cutting Through Solidity*."
+   "text": "Often translated as Cutting Through, Thorough Cut, or Cutting Through Solidity.",
+   "directed": "Often translated as Cutting Through, Thorough Cut, or Cutting Through Solidity."
   },
   {
    "id": "b412",
@@ -3463,8 +3463,8 @@
    "section": "VI. Trekchö: Cut through the bullshit. Not the thoughts.",
    "type": "narration",
    "voice": "granny",
-   "text": "### The thought isn't the enemy.",
-   "directed": "### The thought isn't the enemy."
+   "text": "The thought isn't the enemy.",
+   "directed": "The thought isn't the enemy."
   },
   {
    "id": "b433",
@@ -3575,8 +3575,8 @@
    "section": "VI. Trekchö: Cut through the bullshit. Not the thoughts.",
    "type": "narration",
    "voice": "granny",
-   "text": "Patrul Rinpoche uses precisely this image in the third section of his *Special Teaching of the Wise and Glorious King*, where he describes confidence in the liberation of arising thoughts.",
-   "directed": "Patrul Rinpoche uses precisely this image in the third section of his *Special Teaching of the Wise and Glorious King*, where he describes confidence in the liberation of arising thoughts."
+   "text": "Patrul Rinpoche uses precisely this image in the third section of his Special Teaching of the Wise and Glorious King, where he describes confidence in the liberation of arising thoughts.",
+   "directed": "Patrul Rinpoche uses precisely this image in the third section of his Special Teaching of the Wise and Glorious King, where he describes confidence in the liberation of arising thoughts."
   },
   {
    "id": "b447",
@@ -3655,8 +3655,8 @@
    "section": "VI. Trekchö: Cut through the bullshit. Not the thoughts.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Three ways of relating to thoughts",
-   "directed": "### Three ways of relating to thoughts"
+   "text": "Three ways of relating to thoughts",
+   "directed": "Three ways of relating to thoughts"
   },
   {
    "id": "b457",
@@ -3679,24 +3679,24 @@
    "section": "VI. Trekchö: Cut through the bullshit. Not the thoughts.",
    "type": "narration",
    "voice": "granny",
-   "text": "*This person is insulting me.*",
-   "directed": "*This person is insulting me.*"
+   "text": "This person is insulting me.",
+   "directed": "This person is insulting me."
   },
   {
    "id": "b460",
    "section": "VI. Trekchö: Cut through the bullshit. Not the thoughts.",
    "type": "narration",
    "voice": "granny",
-   "text": "*I must defend myself.*",
-   "directed": "*I must defend myself.*"
+   "text": "I must defend myself.",
+   "directed": "I must defend myself."
   },
   {
    "id": "b461",
    "section": "VI. Trekchö: Cut through the bullshit. Not the thoughts.",
    "type": "narration",
    "voice": "granny",
-   "text": "*I shall construct an elaborate rebuttal.*",
-   "directed": "*I shall construct an elaborate rebuttal.*"
+   "text": "I shall construct an elaborate rebuttal.",
+   "directed": "I shall construct an elaborate rebuttal."
   },
   {
    "id": "b462",
@@ -3759,8 +3759,8 @@
    "section": "VI. Trekchö: Cut through the bullshit. Not the thoughts.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Liberation isn't necessarily about making the mind permanently empty of appearances. It concerns the cessation of ignorance in their apprehension.**",
-   "directed": "**Liberation isn't necessarily about making the mind permanently empty of appearances. It concerns the cessation of ignorance in their apprehension.**"
+   "text": "Liberation isn't necessarily about making the mind permanently empty of appearances. It concerns the cessation of ignorance in their apprehension.",
+   "directed": "Liberation isn't necessarily about making the mind permanently empty of appearances. It concerns the cessation of ignorance in their apprehension."
   },
   {
    "id": "b470",
@@ -4039,8 +4039,8 @@
    "section": "VI. Trekchö: Cut through the bullshit. Not the thoughts.",
    "type": "narration",
    "voice": "granny",
-   "text": "*Tögal*.",
-   "directed": "*Tögal*."
+   "text": "Tögal.",
+   "directed": "Tögal."
   },
   {
    "id": "b505",
@@ -4071,24 +4071,24 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "Wylie: *thod rgal*.",
-   "directed": "Wylie: *thod rgal*."
+   "text": "Wylie: thod rgal.",
+   "directed": "Wylie: thod rgal."
   },
   {
    "id": "b509",
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "Commonly translated as *Direct Crossing*, *Leaping Over*, or *Leap Over*.",
-   "directed": "Commonly translated as *Direct Crossing*, *Leaping Over*, or *Leap Over*."
+   "text": "Commonly translated as Direct Crossing, Leaping Over, or Leap Over.",
+   "directed": "Commonly translated as Direct Crossing, Leaping Over, or Leap Over."
   },
   {
    "id": "b510",
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "Tögal belongs particularly to the Dzogchen *Menngagde*, the Instruction Class, and its heart-essence traditions.",
-   "directed": "Tögal belongs particularly to the Dzogchen *Menngagde*, the Instruction Class, and its heart-essence traditions."
+   "text": "Tögal belongs particularly to the Dzogchen Menngagde, the Instruction Class, and its heart-essence traditions.",
+   "directed": "Tögal belongs particularly to the Dzogchen Menngagde, the Instruction Class, and its heart-essence traditions."
   },
   {
    "id": "b511",
@@ -4135,8 +4135,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "In particular, **do not stare at the sun** or attempt prolonged light or darkness practices on the basis of a literary description.",
-   "directed": "In particular, **do not stare at the sun** or attempt prolonged light or darkness practices on the basis of a literary description."
+   "text": "In particular, do not stare at the sun or attempt prolonged light or darkness practices on the basis of a literary description.",
+   "directed": "In particular, do not stare at the sun or attempt prolonged light or darkness practices on the basis of a literary description."
   },
   {
    "id": "b517",
@@ -4183,8 +4183,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "Longchenpa's *Essential Summary* explicitly connects the sequence of direct perception, increasing experience, reaching full measure and exhaustion with the realization of the three kāyas.",
-   "directed": "Longchenpa's *Essential Summary* explicitly connects the sequence of direct perception, increasing experience, reaching full measure and exhaustion with the realization of the three kāyas."
+   "text": "Longchenpa's Essential Summary explicitly connects the sequence of direct perception, increasing experience, reaching full measure and exhaustion with the realization of the three kāyas.",
+   "directed": "Longchenpa's Essential Summary explicitly connects the sequence of direct perception, increasing experience, reaching full measure and exhaustion with the realization of the three kāyas."
   },
   {
    "id": "b523",
@@ -4199,16 +4199,16 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Vision One: Direct perception of dharmatā",
-   "directed": "### Vision One: Direct perception of dharmatā"
+   "text": "Vision One: Direct perception of dharmatā",
+   "directed": "Vision One: Direct perception of dharmatā"
   },
   {
    "id": "b525",
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "Tibetan: *chos nyid mngon sum*.",
-   "directed": "Tibetan: *chos nyid mngon sum*."
+   "text": "Tibetan: chos nyid mngon sum.",
+   "directed": "Tibetan: chos nyid mngon sum."
   },
   {
    "id": "b526",
@@ -4255,8 +4255,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "The term *thig le* often refers to luminous spheres in these visionary contexts, although it has other meanings in tantric physiology.",
-   "directed": "The term *thig le* often refers to luminous spheres in these visionary contexts, although it has other meanings in tantric physiology."
+   "text": "The term thig le often refers to luminous spheres in these visionary contexts, although it has other meanings in tantric physiology.",
+   "directed": "The term thig le often refers to luminous spheres in these visionary contexts, although it has other meanings in tantric physiology."
   },
   {
    "id": "b532",
@@ -4295,8 +4295,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Holy fucking shit.*",
-   "directed": "*Holy fucking shit.*"
+   "text": "Holy fucking shit.",
+   "directed": "Holy fucking shit."
   },
   {
    "id": "b537",
@@ -4311,8 +4311,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*I should write a book.*",
-   "directed": "*I should write a book.*"
+   "text": "I should write a book.",
+   "directed": "I should write a book."
   },
   {
    "id": "b539",
@@ -4327,8 +4327,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*I wonder if anyone else has seen something like this.*",
-   "directed": "*I wonder if anyone else has seen something like this.*"
+   "text": "I wonder if anyone else has seen something like this.",
+   "directed": "I wonder if anyone else has seen something like this."
   },
   {
    "id": "b541",
@@ -4399,16 +4399,16 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Vision Two: Increasing experience",
-   "directed": "### Vision Two: Increasing experience"
+   "text": "Vision Two: Increasing experience",
+   "directed": "Vision Two: Increasing experience"
   },
   {
    "id": "b550",
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "Tibetan: *nyams gong 'phel*.",
-   "directed": "Tibetan: *nyams gong 'phel*."
+   "text": "Tibetan: nyams gong 'phel.",
+   "directed": "Tibetan: nyams gong 'phel."
   },
   {
    "id": "b551",
@@ -4463,8 +4463,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*What is increasing?*",
-   "directed": "*What is increasing?*"
+   "text": "What is increasing?",
+   "directed": "What is increasing?"
   },
   {
    "id": "b558",
@@ -4479,8 +4479,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*The visions.*",
-   "directed": "*The visions.*"
+   "text": "The visions.",
+   "directed": "The visions."
   },
   {
    "id": "b560",
@@ -4535,8 +4535,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "This is where the distinction between *nyams*, meditative experiences, and *rtogs pa*, realization, becomes important.",
-   "directed": "This is where the distinction between *nyams*, meditative experiences, and *rtogs pa*, realization, becomes important."
+   "text": "This is where the distinction between nyams, meditative experiences, and rtogs pa, realization, becomes important.",
+   "directed": "This is where the distinction between nyams, meditative experiences, and rtogs pa, realization, becomes important."
   },
   {
    "id": "b567",
@@ -4607,8 +4607,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "**You can turn the entire visionary path into spiritual tourism if you aren't careful.**",
-   "directed": "**You can turn the entire visionary path into spiritual tourism if you aren't careful.**"
+   "text": "You can turn the entire visionary path into spiritual tourism if you aren't careful.",
+   "directed": "You can turn the entire visionary path into spiritual tourism if you aren't careful."
   },
   {
    "id": "b576",
@@ -4655,16 +4655,16 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Vision Three: Awareness reaches full measure",
-   "directed": "### Vision Three: Awareness reaches full measure"
+   "text": "Vision Three: Awareness reaches full measure",
+   "directed": "Vision Three: Awareness reaches full measure"
   },
   {
    "id": "b582",
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "Tibetan: *rig pa tshad phebs*.",
-   "directed": "Tibetan: *rig pa tshad phebs*."
+   "text": "Tibetan: rig pa tshad phebs.",
+   "directed": "Tibetan: rig pa tshad phebs."
   },
   {
    "id": "b583",
@@ -4783,8 +4783,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Bardo Thödol* and the wider Dzogchen visionary traditions have related but distinct textual architectures.",
-   "directed": "The *Bardo Thödol* and the wider Dzogchen visionary traditions have related but distinct textual architectures."
+   "text": "The Bardo Thödol and the wider Dzogchen visionary traditions have related but distinct textual architectures.",
+   "directed": "The Bardo Thödol and the wider Dzogchen visionary traditions have related but distinct textual architectures."
   },
   {
    "id": "b598",
@@ -4799,8 +4799,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "**What once appeared as an overwhelming cosmic danger can be encountered as a display whose empty nature is recognized.**",
-   "directed": "**What once appeared as an overwhelming cosmic danger can be encountered as a display whose empty nature is recognized.**"
+   "text": "What once appeared as an overwhelming cosmic danger can be encountered as a display whose empty nature is recognized.",
+   "directed": "What once appeared as an overwhelming cosmic danger can be encountered as a display whose empty nature is recognized."
   },
   {
    "id": "b600",
@@ -4831,16 +4831,16 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "### Vision Four: Exhaustion of phenomena into dharmatā",
-   "directed": "### Vision Four: Exhaustion of phenomena into dharmatā"
+   "text": "Vision Four: Exhaustion of phenomena into dharmatā",
+   "directed": "Vision Four: Exhaustion of phenomena into dharmatā"
   },
   {
    "id": "b604",
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "Tibetan: *chos nyid zad pa*.",
-   "directed": "Tibetan: *chos nyid zad pa*."
+   "text": "Tibetan: chos nyid zad pa.",
+   "directed": "Tibetan: chos nyid zad pa."
   },
   {
    "id": "b605",
@@ -4943,8 +4943,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Right. So what happens to the actual physical body?*",
-   "directed": "*Right. So what happens to the actual physical body?*"
+   "text": "Right. So what happens to the actual physical body?",
+   "directed": "Right. So what happens to the actual physical body?"
   },
   {
    "id": "b618",
@@ -4991,8 +4991,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Are you telling me the whole fucking body might disappear?*",
-   "directed": "*Are you telling me the whole fucking body might disappear?*"
+   "text": "Are you telling me the whole fucking body might disappear?",
+   "directed": "Are you telling me the whole fucking body might disappear?"
   },
   {
    "id": "b624",
@@ -5007,8 +5007,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*All of it?*",
-   "directed": "*All of it?*"
+   "text": "All of it?",
+   "directed": "All of it?"
   },
   {
    "id": "b626",
@@ -5023,8 +5023,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Even the bones?*",
-   "directed": "*Even the bones?*"
+   "text": "Even the bones?",
+   "directed": "Even the bones?"
   },
   {
    "id": "b628",
@@ -5047,8 +5047,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*What about the clothes?*",
-   "directed": "*What about the clothes?*"
+   "text": "What about the clothes?",
+   "directed": "What about the clothes?"
   },
   {
    "id": "b631",
@@ -5063,8 +5063,8 @@
    "section": "VII. Tögal: Apparently reality has a hidden light show, and ",
    "type": "narration",
    "voice": "granny",
-   "text": "*That is an absolutely insane proposition.*",
-   "directed": "*That is an absolutely insane proposition.*"
+   "text": "That is an absolutely insane proposition.",
+   "directed": "That is an absolutely insane proposition."
   },
   {
    "id": "b633",
@@ -5119,24 +5119,24 @@
    "section": "VIII. Rainbow body: Didn't know the Buddhas were fucking all",
    "type": "narration",
    "voice": "granny",
-   "text": "The Tibetan term is *'ja' lus*.",
-   "directed": "The Tibetan term is *'ja' lus*."
+   "text": "The Tibetan term is 'ja' lus.",
+   "directed": "The Tibetan term is 'ja' lus."
   },
   {
    "id": "b640",
    "section": "VIII. Rainbow body: Didn't know the Buddhas were fucking all",
    "type": "narration",
    "voice": "granny",
-   "text": "*'Ja'* means rainbow.",
-   "directed": "*'Ja'* means rainbow."
+   "text": "'Ja' means rainbow.",
+   "directed": "'Ja' means rainbow."
   },
   {
    "id": "b641",
    "section": "VIII. Rainbow body: Didn't know the Buddhas were fucking all",
    "type": "narration",
    "voice": "granny",
-   "text": "*Lus* means body.",
-   "directed": "*Lus* means body."
+   "text": "Lus means body.",
+   "directed": "Lus means body."
   },
   {
    "id": "b642",
@@ -5183,8 +5183,8 @@
    "section": "VIII. Rainbow body: Didn't know the Buddhas were fucking all",
    "type": "narration",
    "voice": "granny",
-   "text": "### What is the actual claim?",
-   "directed": "### What is the actual claim?"
+   "text": "What is the actual claim?",
+   "directed": "What is the actual claim?"
   },
   {
    "id": "b648",
@@ -5311,8 +5311,8 @@
    "section": "VIII. Rainbow body: Didn't know the Buddhas were fucking all",
    "type": "narration",
    "voice": "granny",
-   "text": "Longchenpa's *Great Guide to the Supreme Secret Path* explicitly associates spontaneous presence and the path of direct crossing with the transformation of the coarse physical body and the attainment of great transference.",
-   "directed": "Longchenpa's *Great Guide to the Supreme Secret Path* explicitly associates spontaneous presence and the path of direct crossing with the transformation of the coarse physical body and the attainment of great transference."
+   "text": "Longchenpa's Great Guide to the Supreme Secret Path explicitly associates spontaneous presence and the path of direct crossing with the transformation of the coarse physical body and the attainment of great transference.",
+   "directed": "Longchenpa's Great Guide to the Supreme Secret Path explicitly associates spontaneous presence and the path of direct crossing with the transformation of the coarse physical body and the attainment of great transference."
   },
   {
    "id": "b664",
@@ -5367,8 +5367,8 @@
    "section": "VIII. Rainbow body: Didn't know the Buddhas were fucking all",
    "type": "narration",
    "voice": "granny",
-   "text": "**The third is an additional, extraordinary claim about physical events.**",
-   "directed": "**The third is an additional, extraordinary claim about physical events.**"
+   "text": "The third is an additional, extraordinary claim about physical events.",
+   "directed": "The third is an additional, extraordinary claim about physical events."
   },
   {
    "id": "b671",
@@ -5487,16 +5487,16 @@
    "section": "IX. Ordinary rainbow body versus great transference: You're ",
    "type": "narration",
    "voice": "granny",
-   "text": "Now compare the **rainbow body of great transference**.",
-   "directed": "Now compare the **rainbow body of great transference**."
+   "text": "Now compare the rainbow body of great transference.",
+   "directed": "Now compare the rainbow body of great transference."
   },
   {
    "id": "b686",
    "section": "IX. Ordinary rainbow body versus great transference: You're ",
    "type": "narration",
    "voice": "granny",
-   "text": "Tibetan descriptions include *'ja' lus 'pho ba chen po*, often translated as the rainbow body of great transference.",
-   "directed": "Tibetan descriptions include *'ja' lus 'pho ba chen po*, often translated as the rainbow body of great transference."
+   "text": "Tibetan descriptions include 'ja' lus 'pho ba chen po, often translated as the rainbow body of great transference.",
+   "directed": "Tibetan descriptions include 'ja' lus 'pho ba chen po, often translated as the rainbow body of great transference."
   },
   {
    "id": "b687",
@@ -5551,8 +5551,8 @@
    "section": "IX. Ordinary rainbow body versus great transference: You're ",
    "type": "narration",
    "voice": "granny",
-   "text": "**Great transference is not simply the same thing as ordinary phowa.**",
-   "directed": "**Great transference is not simply the same thing as ordinary phowa.**"
+   "text": "Great transference is not simply the same thing as ordinary phowa.",
+   "directed": "Great transference is not simply the same thing as ordinary phowa."
   },
   {
    "id": "b694",
@@ -5575,8 +5575,8 @@
    "section": "IX. Ordinary rainbow body versus great transference: You're ",
    "type": "narration",
    "voice": "granny",
-   "text": "The names overlap because both involve *'pho ba*, transference.",
-   "directed": "The names overlap because both involve *'pho ba*, transference."
+   "text": "The names overlap because both involve 'pho ba, transference.",
+   "directed": "The names overlap because both involve 'pho ba, transference."
   },
   {
    "id": "b697",
@@ -5591,8 +5591,8 @@
    "section": "IX. Ordinary rainbow body versus great transference: You're ",
    "type": "narration",
    "voice": "granny",
-   "text": "Michael Sheehy's scholarly review of Francis Tiso's *Rainbow Body and Resurrection* explains the distinction between rainbow-body reports of postmortem bodily dissolution and the more radical great-transference tradition.",
-   "directed": "Michael Sheehy's scholarly review of Francis Tiso's *Rainbow Body and Resurrection* explains the distinction between rainbow-body reports of postmortem bodily dissolution and the more radical great-transference tradition."
+   "text": "Michael Sheehy's scholarly review of Francis Tiso's Rainbow Body and Resurrection explains the distinction between rainbow-body reports of postmortem bodily dissolution and the more radical great-transference tradition.",
+   "directed": "Michael Sheehy's scholarly review of Francis Tiso's Rainbow Body and Resurrection explains the distinction between rainbow-body reports of postmortem bodily dissolution and the more radical great-transference tradition."
   },
   {
    "id": "b699",
@@ -5615,8 +5615,8 @@
    "section": "IX. Ordinary rainbow body versus great transference: You're ",
    "type": "narration",
    "voice": "granny",
-   "text": "*So ordinary phowa is like going to another destination?*",
-   "directed": "*So ordinary phowa is like going to another destination?*"
+   "text": "So ordinary phowa is like going to another destination?",
+   "directed": "So ordinary phowa is like going to another destination?"
   },
   {
    "id": "b702",
@@ -5631,8 +5631,8 @@
    "section": "IX. Ordinary rainbow body versus great transference: You're ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Rainbow body is like the physical body transforming?*",
-   "directed": "*Rainbow body is like the physical body transforming?*"
+   "text": "Rainbow body is like the physical body transforming?",
+   "directed": "Rainbow body is like the physical body transforming?"
   },
   {
    "id": "b704",
@@ -5647,8 +5647,8 @@
    "section": "IX. Ordinary rainbow body versus great transference: You're ",
    "type": "narration",
    "voice": "granny",
-   "text": "*And great transference is like no longer being confined to ordinary birth and death at all?*",
-   "directed": "*And great transference is like no longer being confined to ordinary birth and death at all?*"
+   "text": "And great transference is like no longer being confined to ordinary birth and death at all?",
+   "directed": "And great transference is like no longer being confined to ordinary birth and death at all?"
   },
   {
    "id": "b706",
@@ -5671,8 +5671,8 @@
    "section": "IX. Ordinary rainbow body versus great transference: You're ",
    "type": "narration",
    "voice": "granny",
-   "text": "*This is the most elaborate escape-room franchise in human history.*",
-   "directed": "*This is the most elaborate escape-room franchise in human history.*"
+   "text": "This is the most elaborate escape-room franchise in human history.",
+   "directed": "This is the most elaborate escape-room franchise in human history."
   },
   {
    "id": "b709",
@@ -5695,8 +5695,8 @@
    "section": "IX. Ordinary rainbow body versus great transference: You're ",
    "type": "narration",
    "voice": "granny",
-   "text": "*The highest fruition is not an escape by an independently existing self.*",
-   "directed": "*The highest fruition is not an escape by an independently existing self.*"
+   "text": "The highest fruition is not an escape by an independently existing self.",
+   "directed": "The highest fruition is not an escape by an independently existing self."
   },
   {
    "id": "b712",
@@ -6015,8 +6015,8 @@
    "section": "X. Nyala Pema Düdul: The yogi who allegedly left nothing but",
    "type": "narration",
    "voice": "granny",
-   "text": "*But why would the disciples invent it?*",
-   "directed": "*But why would the disciples invent it?*"
+   "text": "But why would the disciples invent it?",
+   "directed": "But why would the disciples invent it?"
   },
   {
    "id": "b752",
@@ -6199,8 +6199,8 @@
    "section": "XI. Shardza Tashi Gyaltsen: The Bön master who allegedly wen",
    "type": "narration",
    "voice": "granny",
-   "text": "**Bön is not simply a subgroup of Nyingma Buddhism.**",
-   "directed": "**Bön is not simply a subgroup of Nyingma Buddhism.**"
+   "text": "Bön is not simply a subgroup of Nyingma Buddhism.",
+   "directed": "Bön is not simply a subgroup of Nyingma Buddhism."
   },
   {
    "id": "b775",
@@ -6311,8 +6311,8 @@
    "section": "XI. Shardza Tashi Gyaltsen: The Bön master who allegedly wen",
    "type": "narration",
    "voice": "granny",
-   "text": "*What does the narrative tell us about the community's understanding of realization?*",
-   "directed": "*What does the narrative tell us about the community's understanding of realization?*"
+   "text": "What does the narrative tell us about the community's understanding of realization?",
+   "directed": "What does the narrative tell us about the community's understanding of realization?"
   },
   {
    "id": "b789",
@@ -6327,8 +6327,8 @@
    "section": "XI. Shardza Tashi Gyaltsen: The Bön master who allegedly wen",
    "type": "narration",
    "voice": "granny",
-   "text": "*What physical event actually occurred at Shardza's death?*",
-   "directed": "*What physical event actually occurred at Shardza's death?*"
+   "text": "What physical event actually occurred at Shardza's death?",
+   "directed": "What physical event actually occurred at Shardza's death?"
   },
   {
    "id": "b791",
@@ -6471,8 +6471,8 @@
    "section": "XII. Khenpo A Chö: The rainbow-body case that attracted a Ca",
    "type": "narration",
    "voice": "granny",
-   "text": "### What did the witnesses report?",
-   "directed": "### What did the witnesses report?"
+   "text": "What did the witnesses report?",
+   "directed": "What did the witnesses report?"
   },
   {
    "id": "b809",
@@ -6591,8 +6591,8 @@
    "section": "XII. Khenpo A Chö: The rainbow-body case that attracted a Ca",
    "type": "narration",
    "voice": "granny",
-   "text": "**Witness testimony is evidence that people reported an event. It is not automatically sufficient to establish every proposed physical explanation of that event.**",
-   "directed": "**Witness testimony is evidence that people reported an event. It is not automatically sufficient to establish every proposed physical explanation of that event.**"
+   "text": "Witness testimony is evidence that people reported an event. It is not automatically sufficient to establish every proposed physical explanation of that event.",
+   "directed": "Witness testimony is evidence that people reported an event. It is not automatically sufficient to establish every proposed physical explanation of that event."
   },
   {
    "id": "b824",
@@ -6671,8 +6671,8 @@
    "section": "XII. Khenpo A Chö: The rainbow-body case that attracted a Ca",
    "type": "narration",
    "voice": "granny",
-   "text": "*Witnesses said it disappeared. Therefore the body turned into light. Buddhism has scientifically defeated death.*",
-   "directed": "*Witnesses said it disappeared. Therefore the body turned into light. Buddhism has scientifically defeated death.*"
+   "text": "Witnesses said it disappeared. Therefore the body turned into light. Buddhism has scientifically defeated death.",
+   "directed": "Witnesses said it disappeared. Therefore the body turned into light. Buddhism has scientifically defeated death."
   },
   {
    "id": "b834",
@@ -6695,8 +6695,8 @@
    "section": "XII. Khenpo A Chö: The rainbow-body case that attracted a Ca",
    "type": "narration",
    "voice": "granny",
-   "text": "*This cannot be explained by ordinary expectations, so everyone must have been lying.*",
-   "directed": "*This cannot be explained by ordinary expectations, so everyone must have been lying.*"
+   "text": "This cannot be explained by ordinary expectations, so everyone must have been lying.",
+   "directed": "This cannot be explained by ordinary expectations, so everyone must have been lying."
   },
   {
    "id": "b837",
@@ -6727,8 +6727,8 @@
    "section": "XII. Khenpo A Chö: The rainbow-body case that attracted a Ca",
    "type": "narration",
    "voice": "granny",
-   "text": "### What evidence would make a modern rainbow-body claim scientifically decisive?",
-   "directed": "### What evidence would make a modern rainbow-body claim scientifically decisive?"
+   "text": "What evidence would make a modern rainbow-body claim scientifically decisive?",
+   "directed": "What evidence would make a modern rainbow-body claim scientifically decisive?"
   },
   {
    "id": "b841",
@@ -6799,8 +6799,8 @@
    "section": "XII. Khenpo A Chö: The rainbow-body case that attracted a Ca",
    "type": "narration",
    "voice": "granny",
-   "text": "**That's a testable physical claim in principle, even if historical cases are no longer testable directly.**",
-   "directed": "**That's a testable physical claim in principle, even if historical cases are no longer testable directly.**"
+   "text": "That's a testable physical claim in principle, even if historical cases are no longer testable directly.",
+   "directed": "That's a testable physical claim in principle, even if historical cases are no longer testable directly."
   },
   {
    "id": "b850",
@@ -6871,8 +6871,8 @@
    "section": "XII. Khenpo A Chö: The rainbow-body case that attracted a Ca",
    "type": "narration",
    "voice": "granny",
-   "text": "*Are you pursuing Dzogchen because you want your corpse to become famous?*",
-   "directed": "*Are you pursuing Dzogchen because you want your corpse to become famous?*"
+   "text": "Are you pursuing Dzogchen because you want your corpse to become famous?",
+   "directed": "Are you pursuing Dzogchen because you want your corpse to become famous?"
   },
   {
    "id": "b859",
@@ -6895,8 +6895,8 @@
    "section": "XII. Khenpo A Chö: The rainbow-body case that attracted a Ca",
    "type": "narration",
    "voice": "granny",
-   "text": "*Then you have misunderstood the path.*",
-   "directed": "*Then you have misunderstood the path.*"
+   "text": "Then you have misunderstood the path.",
+   "directed": "Then you have misunderstood the path."
   },
   {
    "id": "b862",
@@ -6951,16 +6951,16 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "The answer requires the doctrine of the three *kāyas*.",
-   "directed": "The answer requires the doctrine of the three *kāyas*."
+   "text": "The answer requires the doctrine of the three kāyas.",
+   "directed": "The answer requires the doctrine of the three kāyas."
   },
   {
    "id": "b869",
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "The Sanskrit term *kāya* can mean body, collection or embodied dimension, depending on context.",
-   "directed": "The Sanskrit term *kāya* can mean body, collection or embodied dimension, depending on context."
+   "text": "The Sanskrit term kāya can mean body, collection or embodied dimension, depending on context.",
+   "directed": "The Sanskrit term kāya can mean body, collection or embodied dimension, depending on context."
   },
   {
    "id": "b870",
@@ -6975,7 +6975,7 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "verse",
    "voice": "verse",
-   "text": "### Dharmakāya",
+   "text": "Dharmakāya",
    "directed": "[slowly] ### Dharmakāya"
   },
   {
@@ -6983,8 +6983,8 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "The *dharma-body*.",
-   "directed": "The *dharma-body*."
+   "text": "The dharma-body.",
+   "directed": "The dharma-body."
   },
   {
    "id": "b873",
@@ -7039,7 +7039,7 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "verse",
    "voice": "verse",
-   "text": "### Saṃbhogakāya",
+   "text": "Saṃbhogakāya",
    "directed": "[slowly] ### Saṃbhogakāya"
   },
   {
@@ -7047,8 +7047,8 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "Often rendered the *enjoyment-body*.",
-   "directed": "Often rendered the *enjoyment-body*."
+   "text": "Often rendered the enjoyment-body.",
+   "directed": "Often rendered the enjoyment-body."
   },
   {
    "id": "b881",
@@ -7135,7 +7135,7 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "verse",
    "voice": "verse",
-   "text": "### Nirmāṇakāya",
+   "text": "Nirmāṇakāya",
    "directed": "[slowly] ### Nirmāṇakāya"
   },
   {
@@ -7143,8 +7143,8 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "The *emanation-body*.",
-   "directed": "The *emanation-body*."
+   "text": "The emanation-body.",
+   "directed": "The emanation-body."
   },
   {
    "id": "b893",
@@ -7183,8 +7183,8 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "**The three kāyas are not three independent Buddhas living in separate cosmic departments.**",
-   "directed": "**The three kāyas are not three independent Buddhas living in separate cosmic departments.**"
+   "text": "The three kāyas are not three independent Buddhas living in separate cosmic departments.",
+   "directed": "The three kāyas are not three independent Buddhas living in separate cosmic departments."
   },
   {
    "id": "b898",
@@ -7199,8 +7199,8 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "Longchenpa's *Essential Summary* explicitly relates primordial purity to dharmakāya, spontaneous luminosity to saṃbhogakāya and responsive manifestation to nirmāṇakāya.",
-   "directed": "Longchenpa's *Essential Summary* explicitly relates primordial purity to dharmakāya, spontaneous luminosity to saṃbhogakāya and responsive manifestation to nirmāṇakāya."
+   "text": "Longchenpa's Essential Summary explicitly relates primordial purity to dharmakāya, spontaneous luminosity to saṃbhogakāya and responsive manifestation to nirmāṇakāya.",
+   "directed": "Longchenpa's Essential Summary explicitly relates primordial purity to dharmakāya, spontaneous luminosity to saṃbhogakāya and responsive manifestation to nirmāṇakāya."
   },
   {
    "id": "b900",
@@ -7295,8 +7295,8 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "*If there is no permanent self, who manifests?*",
-   "directed": "*If there is no permanent self, who manifests?*"
+   "text": "If there is no permanent self, who manifests?",
+   "directed": "If there is no permanent self, who manifests?"
   },
   {
    "id": "b912",
@@ -7351,8 +7351,8 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "*So can a Buddha return?*",
-   "directed": "*So can a Buddha return?*"
+   "text": "So can a Buddha return?",
+   "directed": "So can a Buddha return?"
   },
   {
    "id": "b919",
@@ -7367,8 +7367,8 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "*But they don't have to?*",
-   "directed": "*But they don't have to?*"
+   "text": "But they don't have to?",
+   "directed": "But they don't have to?"
   },
   {
    "id": "b921",
@@ -7383,8 +7383,8 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "*So what makes them return?*",
-   "directed": "*So what makes them return?*"
+   "text": "So what makes them return?",
+   "directed": "So what makes them return?"
   },
   {
    "id": "b923",
@@ -7407,8 +7407,8 @@
    "section": "XIII. The three kāyas: Buddhahood is not a little man becomi",
    "type": "narration",
    "voice": "granny",
-   "text": "**The ignorant continuum is pushed by craving. The awakened Buddha is not.**",
-   "directed": "**The ignorant continuum is pushed by craving. The awakened Buddha is not.**"
+   "text": "The ignorant continuum is pushed by craving. The awakened Buddha is not.",
+   "directed": "The ignorant continuum is pushed by craving. The awakened Buddha is not."
   },
   {
    "id": "b926",
@@ -7631,8 +7631,8 @@
    "section": "XIV. The final lifetime: You discover that enlightenment is ",
    "type": "narration",
    "voice": "granny",
-   "text": "*I want to be free.*",
-   "directed": "*I want to be free.*"
+   "text": "I want to be free.",
+   "directed": "I want to be free."
   },
   {
    "id": "b954",
@@ -7647,8 +7647,8 @@
    "section": "XIV. The final lifetime: You discover that enlightenment is ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Who is bound?*",
-   "directed": "*Who is bound?*"
+   "text": "Who is bound?",
+   "directed": "Who is bound?"
   },
   {
    "id": "b956",
@@ -7671,8 +7671,8 @@
    "section": "XIV. The final lifetime: You discover that enlightenment is ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Have you found an independently existing owner of them?*",
-   "directed": "*Have you found an independently existing owner of them?*"
+   "text": "Have you found an independently existing owner of them?",
+   "directed": "Have you found an independently existing owner of them?"
   },
   {
    "id": "b959",
@@ -7687,8 +7687,8 @@
    "section": "XIV. The final lifetime: You discover that enlightenment is ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Then what exactly are you hoping to free?*",
-   "directed": "*Then what exactly are you hoping to free?*"
+   "text": "Then what exactly are you hoping to free?",
+   "directed": "Then what exactly are you hoping to free?"
   },
   {
    "id": "b961",
@@ -7783,8 +7783,8 @@
    "section": "XIV. The final lifetime: You discover that enlightenment is ",
    "type": "narration",
    "voice": "granny",
-   "text": "**You aren't trying to liberate an eternal prisoner. You're ending the misunderstanding through which imprisonment is perpetuated.**",
-   "directed": "**You aren't trying to liberate an eternal prisoner. You're ending the misunderstanding through which imprisonment is perpetuated.**"
+   "text": "You aren't trying to liberate an eternal prisoner. You're ending the misunderstanding through which imprisonment is perpetuated.",
+   "directed": "You aren't trying to liberate an eternal prisoner. You're ending the misunderstanding through which imprisonment is perpetuated."
   },
   {
    "id": "b973",
@@ -7967,8 +7967,8 @@
    "section": "XIV. The final lifetime: You discover that enlightenment is ",
    "type": "narration",
    "voice": "granny",
-   "text": "*Oṃ maṇi padme hūṃ.*",
-   "directed": "*Oṃ maṇi padme hūṃ.*"
+   "text": "Oṃ maṇi padme hūṃ.",
+   "directed": "Oṃ maṇi padme hūṃ."
   },
   {
    "id": "b996",
@@ -8399,8 +8399,8 @@
    "section": "XV. The final death begins. But this time nobody is asking w",
    "type": "narration",
    "voice": "granny",
-   "text": "**The ground luminosity.**",
-   "directed": "**The ground luminosity.**"
+   "text": "The ground luminosity.",
+   "directed": "The ground luminosity."
   },
   {
    "id": "b1050",
@@ -8591,8 +8591,8 @@
    "section": "XVI. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "Jigme Lingpa's *Aspiration for the Bardos* explicitly associates the bardo of dying with the unification of basic space and awareness and the possibility of liberation within the primordial ground.",
-   "directed": "Jigme Lingpa's *Aspiration for the Bardos* explicitly associates the bardo of dying with the unification of basic space and awareness and the possibility of liberation within the primordial ground."
+   "text": "Jigme Lingpa's Aspiration for the Bardos explicitly associates the bardo of dying with the unification of basic space and awareness and the possibility of liberation within the primordial ground.",
+   "directed": "Jigme Lingpa's Aspiration for the Bardos explicitly associates the bardo of dying with the unification of basic space and awareness and the possibility of liberation within the primordial ground."
   },
   {
    "id": "b1074",
@@ -8607,8 +8607,8 @@
    "section": "XVI. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Recognition does not collapse into habitual dualistic grasping.**",
-   "directed": "**Recognition does not collapse into habitual dualistic grasping.**"
+   "text": "Recognition does not collapse into habitual dualistic grasping.",
+   "directed": "Recognition does not collapse into habitual dualistic grasping."
   },
   {
    "id": "b1076",
@@ -8671,8 +8671,8 @@
    "section": "XVI. You are dead.",
    "type": "narration",
    "voice": "granny",
-   "text": "**There is no karmic necessity for another involuntary birth.**",
-   "directed": "**There is no karmic necessity for another involuntary birth.**"
+   "text": "There is no karmic necessity for another involuntary birth.",
+   "directed": "There is no karmic necessity for another involuntary birth."
   },
   {
    "id": "b1084",
@@ -8719,8 +8719,8 @@
    "section": "XVII. Why recognition actually liberates: The full causal me",
    "type": "narration",
    "voice": "granny",
-   "text": "We've spent five chapters using the word *recognition*.",
-   "directed": "We've spent five chapters using the word *recognition*."
+   "text": "We've spent five chapters using the word recognition.",
+   "directed": "We've spent five chapters using the word recognition."
   },
   {
    "id": "b1090",
@@ -8743,8 +8743,8 @@
    "section": "XVII. Why recognition actually liberates: The full causal me",
    "type": "narration",
    "voice": "granny",
-   "text": "### Step one: A conditioned experience arises.",
-   "directed": "### Step one: A conditioned experience arises."
+   "text": "Step one: A conditioned experience arises.",
+   "directed": "Step one: A conditioned experience arises."
   },
   {
    "id": "b1093",
@@ -8799,8 +8799,8 @@
    "section": "XVII. Why recognition actually liberates: The full causal me",
    "type": "narration",
    "voice": "granny",
-   "text": "### Step two: Its nature is misrecognized.",
-   "directed": "### Step two: Its nature is misrecognized."
+   "text": "Step two: Its nature is misrecognized.",
+   "directed": "Step two: Its nature is misrecognized."
   },
   {
    "id": "b1100",
@@ -8839,8 +8839,8 @@
    "section": "XVII. Why recognition actually liberates: The full causal me",
    "type": "narration",
    "voice": "granny",
-   "text": "### Step three: Grasping develops.",
-   "directed": "### Step three: Grasping develops."
+   "text": "Step three: Grasping develops.",
+   "directed": "Step three: Grasping develops."
   },
   {
    "id": "b1105",
@@ -8887,8 +8887,8 @@
    "section": "XVII. Why recognition actually liberates: The full causal me",
    "type": "narration",
    "voice": "granny",
-   "text": "### Step four: Intention produces karma.",
-   "directed": "### Step four: Intention produces karma."
+   "text": "Step four: Intention produces karma.",
+   "directed": "Step four: Intention produces karma."
   },
   {
    "id": "b1111",
@@ -8927,8 +8927,8 @@
    "section": "XVII. Why recognition actually liberates: The full causal me",
    "type": "narration",
    "voice": "granny",
-   "text": "### Step five: The continuum remains conditioned by ignorance.",
-   "directed": "### Step five: The continuum remains conditioned by ignorance."
+   "text": "Step five: The continuum remains conditioned by ignorance.",
+   "directed": "Step five: The continuum remains conditioned by ignorance."
   },
   {
    "id": "b1116",
@@ -8999,8 +8999,8 @@
    "section": "XVII. Why recognition actually liberates: The full causal me",
    "type": "narration",
    "voice": "granny",
-   "text": "**What happens when the ignorance at the heart of the process is genuinely eradicated?**",
-   "directed": "**What happens when the ignorance at the heart of the process is genuinely eradicated?**"
+   "text": "What happens when the ignorance at the heart of the process is genuinely eradicated?",
+   "directed": "What happens when the ignorance at the heart of the process is genuinely eradicated?"
   },
   {
    "id": "b1125",
@@ -9087,8 +9087,8 @@
    "section": "XVII. Why recognition actually liberates: The full causal me",
    "type": "narration",
    "voice": "granny",
-   "text": "### But why is this different from ordinary understanding?",
-   "directed": "### But why is this different from ordinary understanding?"
+   "text": "But why is this different from ordinary understanding?",
+   "directed": "But why is this different from ordinary understanding?"
   },
   {
    "id": "b1136",
@@ -9191,8 +9191,8 @@
    "section": "XVII. Why recognition actually liberates: The full causal me",
    "type": "narration",
    "voice": "granny",
-   "text": "**The prison isn't destroyed by acquiring better information about the prison. It's destroyed by ending the ignorance that makes the prison function.**",
-   "directed": "**The prison isn't destroyed by acquiring better information about the prison. It's destroyed by ending the ignorance that makes the prison function.**"
+   "text": "The prison isn't destroyed by acquiring better information about the prison. It's destroyed by ending the ignorance that makes the prison function.",
+   "directed": "The prison isn't destroyed by acquiring better information about the prison. It's destroyed by ending the ignorance that makes the prison function."
   },
   {
    "id": "b1149",
@@ -9367,8 +9367,8 @@
    "section": "XVIII. So where the fuck are you now?",
    "type": "narration",
    "voice": "granny",
-   "text": "**You're assuming that liberation must be another experience belonging to the same kind of individual that saṃsāra produced.**",
-   "directed": "**You're assuming that liberation must be another experience belonging to the same kind of individual that saṃsāra produced.**"
+   "text": "You're assuming that liberation must be another experience belonging to the same kind of individual that saṃsāra produced.",
+   "directed": "You're assuming that liberation must be another experience belonging to the same kind of individual that saṃsāra produced."
   },
   {
    "id": "b1171",
@@ -9519,8 +9519,8 @@
    "section": "XVIII. So where the fuck are you now?",
    "type": "narration",
    "voice": "granny",
-   "text": "**This is not an experimentally established description of what happens to a person after death.**",
-   "directed": "**This is not an experimentally established description of what happens to a person after death.**"
+   "text": "This is not an experimentally established description of what happens to a person after death.",
+   "directed": "This is not an experimentally established description of what happens to a person after death."
   },
   {
    "id": "b1190",
@@ -9743,8 +9743,8 @@
    "section": "XIX. The Buddha returns. But this time nobody is being dragg",
    "type": "narration",
    "voice": "granny",
-   "text": "Remember Avalokiteśvara becoming a bee in the *Kāraṇḍavyūha Sūtra*?",
-   "directed": "Remember Avalokiteśvara becoming a bee in the *Kāraṇḍavyūha Sūtra*?"
+   "text": "Remember Avalokiteśvara becoming a bee in the Kāraṇḍavyūha Sūtra?",
+   "directed": "Remember Avalokiteśvara becoming a bee in the Kāraṇḍavyūha Sūtra?"
   },
   {
    "id": "b1218",
@@ -9855,8 +9855,8 @@
    "section": "XIX. The Buddha returns. But this time nobody is being dragg",
    "type": "narration",
    "voice": "granny",
-   "text": "**An awakened Buddha doesn't need to remain trapped in saṃsāra in order to benefit beings within it.**",
-   "directed": "**An awakened Buddha doesn't need to remain trapped in saṃsāra in order to benefit beings within it.**"
+   "text": "An awakened Buddha doesn't need to remain trapped in saṃsāra in order to benefit beings within it.",
+   "directed": "An awakened Buddha doesn't need to remain trapped in saṃsāra in order to benefit beings within it."
   },
   {
    "id": "b1232",
@@ -9879,8 +9879,8 @@
    "section": "XIX. The Buddha returns. But this time nobody is being dragg",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Prayer of Kuntuzangpo* explicitly presents the primordial Buddha's compassionate manifestations as appearing in varied ways according to the needs of beings.",
-   "directed": "The *Prayer of Kuntuzangpo* explicitly presents the primordial Buddha's compassionate manifestations as appearing in varied ways according to the needs of beings."
+   "text": "The Prayer of Kuntuzangpo explicitly presents the primordial Buddha's compassionate manifestations as appearing in varied ways according to the needs of beings.",
+   "directed": "The Prayer of Kuntuzangpo explicitly presents the primordial Buddha's compassionate manifestations as appearing in varied ways according to the needs of beings."
   },
   {
    "id": "b1235",
@@ -10023,8 +10023,8 @@
    "section": "XIX. The Buddha returns. But this time nobody is being dragg",
    "type": "narration",
    "voice": "granny",
-   "text": "**What actually distinguishes this outcome from the previous four deaths?**",
-   "directed": "**What actually distinguishes this outcome from the previous four deaths?**"
+   "text": "What actually distinguishes this outcome from the previous four deaths?",
+   "directed": "What actually distinguishes this outcome from the previous four deaths?"
   },
   {
    "id": "b1253",
@@ -10063,8 +10063,8 @@
    "section": "XX. The five deaths, finally understood.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Death One: Karma",
-   "directed": "### Death One: Karma"
+   "text": "Death One: Karma",
+   "directed": "Death One: Karma"
   },
   {
    "id": "b1258",
@@ -10127,16 +10127,16 @@
    "section": "XX. The five deaths, finally understood.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Karma matters because actions have consequences, including for the tendencies through which subsequent experience is apprehended.**",
-   "directed": "**Karma matters because actions have consequences, including for the tendencies through which subsequent experience is apprehended.**"
+   "text": "Karma matters because actions have consequences, including for the tendencies through which subsequent experience is apprehended.",
+   "directed": "Karma matters because actions have consequences, including for the tendencies through which subsequent experience is apprehended."
   },
   {
    "id": "b1266",
    "section": "XX. The five deaths, finally understood.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Death Two: Recognition",
-   "directed": "### Death Two: Recognition"
+   "text": "Death Two: Recognition",
+   "directed": "Death Two: Recognition"
   },
   {
    "id": "b1267",
@@ -10199,16 +10199,16 @@
    "section": "XX. The five deaths, finally understood.",
    "type": "narration",
    "voice": "granny",
-   "text": "The lesson was that **knowing a doctrine is not identical to realizing what it describes**.",
-   "directed": "The lesson was that **knowing a doctrine is not identical to realizing what it describes**."
+   "text": "The lesson was that knowing a doctrine is not identical to realizing what it describes.",
+   "directed": "The lesson was that knowing a doctrine is not identical to realizing what it describes."
   },
   {
    "id": "b1275",
    "section": "XX. The five deaths, finally understood.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Death Three: Compassion",
-   "directed": "### Death Three: Compassion"
+   "text": "Death Three: Compassion",
+   "directed": "Death Three: Compassion"
   },
   {
    "id": "b1276",
@@ -10271,16 +10271,16 @@
    "section": "XX. The five deaths, finally understood.",
    "type": "narration",
    "voice": "granny",
-   "text": "The lesson was that **wholesome activity and compassionate intention can transform the causal orientation of a life**, although merit is not a mechanical guarantee of final liberation.",
-   "directed": "The lesson was that **wholesome activity and compassionate intention can transform the causal orientation of a life**, although merit is not a mechanical guarantee of final liberation."
+   "text": "The lesson was that wholesome activity and compassionate intention can transform the causal orientation of a life, although merit is not a mechanical guarantee of final liberation.",
+   "directed": "The lesson was that wholesome activity and compassionate intention can transform the causal orientation of a life, although merit is not a mechanical guarantee of final liberation."
   },
   {
    "id": "b1284",
    "section": "XX. The five deaths, finally understood.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Death Four: Meditation",
-   "directed": "### Death Four: Meditation"
+   "text": "Death Four: Meditation",
+   "directed": "Death Four: Meditation"
   },
   {
    "id": "b1285",
@@ -10343,16 +10343,16 @@
    "section": "XX. The five deaths, finally understood.",
    "type": "narration",
    "voice": "granny",
-   "text": "The lesson was that **even remarkable meditative experiences do not automatically end ignorance**.",
-   "directed": "The lesson was that **even remarkable meditative experiences do not automatically end ignorance**."
+   "text": "The lesson was that even remarkable meditative experiences do not automatically end ignorance.",
+   "directed": "The lesson was that even remarkable meditative experiences do not automatically end ignorance."
   },
   {
    "id": "b1293",
    "section": "XX. The five deaths, finally understood.",
    "type": "narration",
    "voice": "granny",
-   "text": "### Death Five: Liberation",
-   "directed": "### Death Five: Liberation"
+   "text": "Death Five: Liberation",
+   "directed": "Death Five: Liberation"
   },
   {
    "id": "b1294",
@@ -10391,8 +10391,8 @@
    "section": "XX. The five deaths, finally understood.",
    "type": "narration",
    "voice": "granny",
-   "text": "The lesson was that **the ultimate problem was never merely which world you inhabited, but the ignorance through which experience was appropriated as an independently existing self confronting independently existing objects**.",
-   "directed": "The lesson was that **the ultimate problem was never merely which world you inhabited, but the ignorance through which experience was appropriated as an independently existing self confronting independently existing objects**."
+   "text": "The lesson was that the ultimate problem was never merely which world you inhabited, but the ignorance through which experience was appropriated as an independently existing self confronting independently existing objects.",
+   "directed": "The lesson was that the ultimate problem was never merely which world you inhabited, but the ignorance through which experience was appropriated as an independently existing self confronting independently existing objects."
   },
   {
    "id": "b1299",
@@ -10423,8 +10423,8 @@
    "section": "XXI. A final source-critical reckoning: The Tibetans were no",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Bardo Thödol*, associated with Karma Lingpa's fourteenth-century treasure revelation, provides the celebrated instructions for the peaceful and wrathful appearances and the intermediate-state process.",
-   "directed": "The *Bardo Thödol*, associated with Karma Lingpa's fourteenth-century treasure revelation, provides the celebrated instructions for the peaceful and wrathful appearances and the intermediate-state process."
+   "text": "The Bardo Thödol, associated with Karma Lingpa's fourteenth-century treasure revelation, provides the celebrated instructions for the peaceful and wrathful appearances and the intermediate-state process.",
+   "directed": "The Bardo Thödol, associated with Karma Lingpa's fourteenth-century treasure revelation, provides the celebrated instructions for the peaceful and wrathful appearances and the intermediate-state process."
   },
   {
    "id": "b1303",
@@ -10471,16 +10471,16 @@
    "section": "XXI. A final source-critical reckoning: The Tibetans were no",
    "type": "narration",
    "voice": "granny",
-   "text": "In Chapter II, we followed the classic **forty-two peaceful and fifty-eight wrathful** classification associated with the hundred peaceful and wrathful deities.",
-   "directed": "In Chapter II, we followed the classic **forty-two peaceful and fifty-eight wrathful** classification associated with the hundred peaceful and wrathful deities."
+   "text": "In Chapter II, we followed the classic forty-two peaceful and fifty-eight wrathful classification associated with the hundred peaceful and wrathful deities.",
+   "directed": "In Chapter II, we followed the classic forty-two peaceful and fifty-eight wrathful classification associated with the hundred peaceful and wrathful deities."
   },
   {
    "id": "b1309",
    "section": "XXI. A final source-critical reckoning: The Tibetans were no",
    "type": "narration",
    "voice": "granny",
-   "text": "But the *Prayer of Kuntuzangpo*, transmitted through Rigdzin Gödem's Northern Treasures, speaks of forty-two peaceful Buddhas and **sixty blood-drinking Herukas**.",
-   "directed": "But the *Prayer of Kuntuzangpo*, transmitted through Rigdzin Gödem's Northern Treasures, speaks of forty-two peaceful Buddhas and **sixty blood-drinking Herukas**."
+   "text": "But the Prayer of Kuntuzangpo, transmitted through Rigdzin Gödem's Northern Treasures, speaks of forty-two peaceful Buddhas and sixty blood-drinking Herukas.",
+   "directed": "But the Prayer of Kuntuzangpo, transmitted through Rigdzin Gödem's Northern Treasures, speaks of forty-two peaceful Buddhas and sixty blood-drinking Herukas."
   },
   {
    "id": "b1310",
@@ -10511,16 +10511,16 @@
    "section": "XXI. A final source-critical reckoning: The Tibetans were no",
    "type": "narration",
    "voice": "granny",
-   "text": "Mindroling Terchen's *Liberation Upon Hearing* provides an especially detailed account of luminosity, wisdom lights, the appearances of spontaneous presence and the relationship between meditation familiarity and the duration of bardo experience.",
-   "directed": "Mindroling Terchen's *Liberation Upon Hearing* provides an especially detailed account of luminosity, wisdom lights, the appearances of spontaneous presence and the relationship between meditation familiarity and the duration of bardo experience."
+   "text": "Mindroling Terchen's Liberation Upon Hearing provides an especially detailed account of luminosity, wisdom lights, the appearances of spontaneous presence and the relationship between meditation familiarity and the duration of bardo experience.",
+   "directed": "Mindroling Terchen's Liberation Upon Hearing provides an especially detailed account of luminosity, wisdom lights, the appearances of spontaneous presence and the relationship between meditation familiarity and the duration of bardo experience."
   },
   {
    "id": "b1314",
    "section": "XXI. A final source-critical reckoning: The Tibetans were no",
    "type": "narration",
    "voice": "granny",
-   "text": "And Dodrupchen Jigme Tenpé Nyima's *Answers on Dzogchen* carefully distinguishes the recognition of ground luminosity at death from subsequent appearances in the bardo of dharmatā.",
-   "directed": "And Dodrupchen Jigme Tenpé Nyima's *Answers on Dzogchen* carefully distinguishes the recognition of ground luminosity at death from subsequent appearances in the bardo of dharmatā."
+   "text": "And Dodrupchen Jigme Tenpé Nyima's Answers on Dzogchen carefully distinguishes the recognition of ground luminosity at death from subsequent appearances in the bardo of dharmatā.",
+   "directed": "And Dodrupchen Jigme Tenpé Nyima's Answers on Dzogchen carefully distinguishes the recognition of ground luminosity at death from subsequent appearances in the bardo of dharmatā."
   },
   {
    "id": "b1315",
@@ -10583,8 +10583,8 @@
    "section": "XXI. A final source-critical reckoning: The Tibetans were no",
    "type": "narration",
    "voice": "granny",
-   "text": "**The absence of a miracle isn't evidence that someone failed to awaken.**",
-   "directed": "**The absence of a miracle isn't evidence that someone failed to awaken.**"
+   "text": "The absence of a miracle isn't evidence that someone failed to awaken.",
+   "directed": "The absence of a miracle isn't evidence that someone failed to awaken."
   },
   {
    "id": "b1323",
@@ -10815,8 +10815,8 @@
    "section": "XXII. The final word: What is death?",
    "type": "narration",
    "voice": "granny",
-   "text": "**What actually happens when you die?**",
-   "directed": "**What actually happens when you die?**"
+   "text": "What actually happens when you die?",
+   "directed": "What actually happens when you die?"
   },
   {
    "id": "b1352",
@@ -10831,8 +10831,8 @@
    "section": "XXII. The final word: What is death?",
    "type": "narration",
    "voice": "granny",
-   "text": "### Biologically",
-   "directed": "### Biologically"
+   "text": "Biologically",
+   "directed": "Biologically"
   },
   {
    "id": "b1354",
@@ -10879,8 +10879,8 @@
    "section": "XXII. The final word: What is death?",
    "type": "narration",
    "voice": "granny",
-   "text": "### In the traditional Tibetan Buddhist account",
-   "directed": "### In the traditional Tibetan Buddhist account"
+   "text": "In the traditional Tibetan Buddhist account",
+   "directed": "In the traditional Tibetan Buddhist account"
   },
   {
    "id": "b1360",
@@ -10951,8 +10951,8 @@
    "section": "XXII. The final word: What is death?",
    "type": "narration",
    "voice": "granny",
-   "text": "### In the highest Dzogchen interpretation",
-   "directed": "### In the highest Dzogchen interpretation"
+   "text": "In the highest Dzogchen interpretation",
+   "directed": "In the highest Dzogchen interpretation"
   },
   {
    "id": "b1369",
@@ -11023,8 +11023,8 @@
    "section": "XXII. The final word: What is death?",
    "type": "narration",
    "voice": "granny",
-   "text": "**You're dead. Except there is no longer anyone to die.**",
-   "directed": "**You're dead. Except there is no longer anyone to die.**"
+   "text": "You're dead. Except there is no longer anyone to die.",
+   "directed": "You're dead. Except there is no longer anyone to die."
   },
   {
    "id": "b1378",
@@ -11239,8 +11239,8 @@
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Right now.**",
-   "directed": "**Right now.**"
+   "text": "Right now.",
+   "directed": "Right now."
   },
   {
    "id": "b1405",
@@ -11335,48 +11335,48 @@
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "*This is happening to me.*",
-   "directed": "*This is happening to me.*"
+   "text": "This is happening to me.",
+   "directed": "This is happening to me."
   },
   {
    "id": "b1417",
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "*I want this.*",
-   "directed": "*I want this.*"
+   "text": "I want this.",
+   "directed": "I want this."
   },
   {
    "id": "b1418",
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "*I hate that.*",
-   "directed": "*I hate that.*"
+   "text": "I hate that.",
+   "directed": "I hate that."
   },
   {
    "id": "b1419",
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "*I must become something.*",
-   "directed": "*I must become something.*"
+   "text": "I must become something.",
+   "directed": "I must become something."
   },
   {
    "id": "b1420",
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "*I must avoid something.*",
-   "directed": "*I must avoid something.*"
+   "text": "I must avoid something.",
+   "directed": "I must avoid something."
   },
   {
    "id": "b1421",
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "*I must preserve the person I imagine myself to be.*",
-   "directed": "*I must preserve the person I imagine myself to be.*"
+   "text": "I must preserve the person I imagine myself to be.",
+   "directed": "I must preserve the person I imagine myself to be."
   },
   {
    "id": "b1422",
@@ -11903,24 +11903,24 @@
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Five deaths.**",
-   "directed": "**Five deaths.**"
+   "text": "Five deaths.",
+   "directed": "Five deaths."
   },
   {
    "id": "b1488",
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Five lives.**",
-   "directed": "**Five lives.**"
+   "text": "Five lives.",
+   "directed": "Five lives."
   },
   {
    "id": "b1489",
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "**An unimaginable amount of confusion.**",
-   "directed": "**An unimaginable amount of confusion.**"
+   "text": "An unimaginable amount of confusion.",
+   "directed": "An unimaginable amount of confusion."
   },
   {
    "id": "b1490",
@@ -11935,8 +11935,8 @@
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "**You are dead.**",
-   "directed": "**You are dead.**"
+   "text": "You are dead.",
+   "directed": "You are dead."
   },
   {
    "id": "b1492",
@@ -11975,16 +11975,16 @@
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "**The end of the five-death cycle.**",
-   "directed": "**The end of the five-death cycle.**"
+   "text": "The end of the five-death cycle.",
+   "directed": "The end of the five-death cycle."
   },
   {
    "id": "b1497",
    "section": "XXIII. You are alive.",
    "type": "narration",
    "voice": "granny",
-   "text": "**Principal sources for further study:** Longchenpa, Essential Summary; Patrul Rinpoche, Special Teaching of the Wise and Glorious King; Jigme Lingpa, Prayer of the Ground, Path and Fruition; Dodrupchen, Answers on Dzogchen; Francis Tiso, *Rainbow Body and Resurrection* \\(2016); William Gorvine, *Envisioning a Tibetan Luminary* \\(2018); and the University of Virginia's Tibetan Book of the Dead manuscript exhibition. The narrative's final liberation is a fictional illustration of traditional Dzogchen doctrine, not an empirical claim about a verified postmortem event.",
-   "directed": "**Principal sources for further study:** Longchenpa, Essential Summary; Patrul Rinpoche, Special Teaching of the Wise and Glorious King; Jigme Lingpa, Prayer of the Ground, Path and Fruition; Dodrupchen, Answers on Dzogchen; Francis Tiso, *Rainbow Body and Resurrection* \\(2016); William Gorvine, *Envisioning a Tibetan Luminary* \\(2018); and the University of Virginia's Tibetan Book of the Dead manuscript exhibition. The narrative's final liberation is a fictional illustration of traditional Dzogchen doctrine, not an empirical claim about a verified postmortem event."
+   "text": "Principal sources for further study: Longchenpa, Essential Summary; Patrul Rinpoche, Special Teaching of the Wise and Glorious King; Jigme Lingpa, Prayer of the Ground, Path and Fruition; Dodrupchen, Answers on Dzogchen; Francis Tiso, Rainbow Body and Resurrection (2016); William Gorvine, Envisioning a Tibetan Luminary (2018); and the University of Virginia's Tibetan Book of the Dead manuscript exhibition. The narrative's final liberation is a fictional illustration of traditional Dzogchen doctrine, not an empirical claim about a verified postmortem event.",
+   "directed": "Principal sources for further study: Longchenpa, Essential Summary; Patrul Rinpoche, Special Teaching of the Wise and Glorious King; Jigme Lingpa, Prayer of the Ground, Path and Fruition; Dodrupchen, Answers on Dzogchen; Francis Tiso, Rainbow Body and Resurrection (2016); William Gorvine, Envisioning a Tibetan Luminary (2018); and the University of Virginia's Tibetan Book of the Dead manuscript exhibition. The narrative's final liberation is a fictional illustration of traditional Dzogchen doctrine, not an empirical claim about a verified postmortem event."
   }
  ],
  "totals": {

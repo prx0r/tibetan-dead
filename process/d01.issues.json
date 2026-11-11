@@ -1,0 +1,47 @@
+{
+ "version": 1,
+ "unit": "01",
+ "storyboard_sha256": "2092f3bce064d252e3a7b076ad0a91b6ddfcc4e905516100044dc529e30f9357",
+ "issues": [
+  {
+   "id": "missing-audio-1",
+   "kind": "missing-audio",
+   "severity": "block",
+   "detail": "missing audio render for 3 group(s): ['b1..b1', 'b2..b184', 'b185..b200'] \u2014 run render_chapter first (ch18 b340 precedent)",
+   "blocks": [
+    "b1",
+    "b1",
+    "b2",
+    "b184",
+    "b185"
+   ],
+   "skill": "missing-audio",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-2",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 782s>60s [WHITE_GAP] at 2s (block b2): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b2"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  },
+  {
+   "id": "white-gap-3",
+   "kind": "white-gap",
+   "severity": "needs-draw",
+   "detail": "FAIL hold 108s>60s [WHITE_GAP] at 784s (block b185): no cue/event in span \u2014 check proposed-vs-confirmed or missing verse-term cue",
+   "blocks": [
+    "b185"
+   ],
+   "skill": "white-gap",
+   "status": "open",
+   "resolution_note": ""
+  }
+ ]
+}
