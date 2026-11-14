@@ -1,0 +1,26 @@
+{
+ "b1": {
+  "pause": 2.0,
+  "why": "owner direction: death toll under the You-are-dead opener; 2.0s bed lets the toll decay under the opening line"
+ },
+ "b174": {
+  "pause": 1.0,
+  "why": "TTS feasibility: split oversized group for reliable single-call render; 1s breath at sentence break"
+ },
+ "b211": {
+  "pause": 1.0,
+  "why": "TTS feasibility: split oversized group for reliable single-call render; 1s breath at sentence break"
+ },
+ "b245": {
+  "pause": 1.0,
+  "why": "TTS feasibility: split oversized group for reliable single-call render; 1s breath at sentence break"
+ },
+ "b282": {
+  "pause": 1.0,
+  "why": "TTS feasibility: split oversized group for reliable single-call render; 1s breath at sentence break"
+ },
+ "b315": {
+  "pause": 1.0,
+  "why": "TTS feasibility: split oversized group for reliable single-call render; 1s breath at sentence break"
+ }
+}
